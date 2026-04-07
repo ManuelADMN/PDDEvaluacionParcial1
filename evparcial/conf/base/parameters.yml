@@ -1,0 +1,152 @@
+# Columnas clave por tabla
+primary_keys:
+  estudiantes: id_estudiante
+  inscripciones: id_inscripcion
+  calificaciones: id_calificacion
+  asistencia: id_asistencia
+
+foreign_keys:
+  inscripciones:
+    - id_estudiante
+  calificaciones:
+    - id_inscripcion
+  asistencia:
+    - id_inscripcion
+
+# Columnas por tipo de tratamiento
+date_columns:
+  asistencia:
+    - fecha
+  calificaciones:
+    - fecha
+
+title_case_columns:
+  estudiantes:
+    - nombre
+    - carrera
+    - sede
+    - estado_matricula
+  inscripciones:
+    - nombre_asignatura
+    - docente
+  calificaciones:
+    - tipo_evaluacion
+  asistencia:
+    - estado_asistencia
+    - tipo_clase
+
+lowercase_columns:
+  estudiantes:
+    - email
+
+uppercase_columns:
+  estudiantes:
+    - rut
+  inscripciones:
+    - codigo_asignatura
+    - seccion
+
+# Estrategias de imputación y reglas de negocio
+missing_numeric_strategy: median
+missing_categorical_strategy: mode
+
+grade_range:
+  min: 1.0
+  max: 7.0
+
+semestre_range:
+  min: 1
+  max: 2
+
+valid_years:
+  min_ingreso: 2019
+  max_ingreso: 2024
+  min_periodo: 2022
+  max_periodo: 2024
+
+critical_drop_columns:
+  estudiantes:
+    - id_estudiante
+  inscripciones:
+    - id_inscripcion
+    - id_estudiante
+  calificaciones:
+    - id_calificacion
+    - id_inscripcion
+  asistencia:
+    - id_asistencia
+    - id_inscripcion
+
+categorical_fill_values:
+  nombre: Sin Nombre
+  rut: SIN-RUT
+  docente: Docente No Informado
+  codigo_asignatura: ASG-SINCOD
+
+# Columnas numéricas a escalar en el dataset final
+numeric_columns_to_scale:
+  - nota_promedio
+  - nota_minima
+  - nota_maxima
+  - nota_final_ponderada
+  - cantidad_evaluaciones
+  - ponderacion_total
+  - total_clases
+  - presentes
+  - ausentes
+  - justificados
+  - tardanzas
+  - tasa_asistencia
+  - carga_asignaturas
+  - antiguedad_ingreso
+
+# Columnas categóricas a codificar
+categorical_columns_to_encode:
+  - carrera
+  - sede
+  - estado_matricula
+  - nombre_asignatura
+  - seccion
+  - riesgo_academico
+  - resultado_academico
+
+# Esquema esperado del dataset final
+expected_final_schema:
+  id_inscripcion: Int64
+  id_estudiante: Int64
+  codigo_asignatura: string
+  nombre_asignatura: string
+  seccion: string
+  semestre: Int64
+  anio: Int64
+  docente: string
+  nombre: string
+  rut: string
+  carrera: string
+  sede: string
+  anio_ingreso: Int64
+  email: string
+  estado_matricula: string
+  nota_promedio: float64
+  nota_minima: float64
+  nota_maxima: float64
+  nota_final_ponderada: float64
+  cantidad_evaluaciones: float64
+  ponderacion_total: float64
+  total_clases: float64
+  presentes: float64
+  ausentes: float64
+  justificados: float64
+  tardanzas: float64
+  tasa_asistencia: float64
+  carga_asignaturas: int64
+  antiguedad_ingreso: Int64
+  resultado_academico: string
+  riesgo_academico: object
+  aprobado: int64
+
+# Paths de reportes visuales generados por nodos
+report_paths:
+  nulos_antes_despues: data/08_reporting/nulos_antes_despues.png
+  distribucion_notas_finales: data/08_reporting/distribucion_notas_finales.png
+  asistencia_por_carrera: data/08_reporting/asistencia_promedio_por_carrera.png

@@ -1,4 +1,9 @@
-ipython>=8.10
-jupyterlab>=3.0
-notebook
 kedro~=1.3.0
+kedro-datasets[pandas]~=8.1
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+jupyterlab>=4.0
+notebook>=7.0
+ipython>=8.10

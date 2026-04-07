@@ -1,6 +1,6 @@
 # Informe Técnico — Evaluación Parcial 1
 ## Caso 5: Educación Universitaria
-**Nombre:** Manuel Alejandro Díaz Mancilla
+
 **Asignatura:** SCY1101 Programación para la Ciencia de Datos  
 **Framework:** Kedro  
 **Caso:** Educación Universitaria  

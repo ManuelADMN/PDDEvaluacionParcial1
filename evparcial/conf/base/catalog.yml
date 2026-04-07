@@ -1,4 +1,117 @@
-# Here you can define all your datasets by using simple YAML syntax.
-#
-# Documentation for this file format can be found in "The Data Catalog"
-# Link: https://docs.kedro.org/en/stable/catalog-data/introduction/#data-catalog
+estudiantes_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/estudiantes.csv
+  load_args:
+    encoding: utf-8
+
+inscripciones_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/inscripciones.csv
+  load_args:
+    encoding: utf-8
+
+calificaciones_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/calificaciones.csv
+  load_args:
+    encoding: utf-8
+
+asistencia_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/asistencia.csv
+  load_args:
+    encoding: utf-8
+
+estudiantes_clean:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/estudiantes_clean.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+inscripciones_clean:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/inscripciones_clean.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+calificaciones_clean:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/calificaciones_clean.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+asistencia_clean:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/asistencia_clean.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+dataset_universitario:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/dataset_universitario.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+dataset_universitario_modelo:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/dataset_universitario_modelo.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+resumen_asignaturas:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/resumen_asignaturas.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+diagnostico_inicial:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/diagnostico_inicial.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+comparacion_limpieza:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/comparacion_limpieza.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
+
+reporte_validacion:
+  type: json.JSONDataset
+  filepath: data/08_reporting/reporte_validacion.json
+
+auditoria_datasets:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/auditoria_datasets.csv
+  load_args:
+    encoding: latin1
+  save_args:
+    index: false
+    encoding: latin1
