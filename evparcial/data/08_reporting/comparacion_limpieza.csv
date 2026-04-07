@@ -1,0 +1,5 @@
+dataset,filas_raw,filas_clean,nulos_raw,nulos_clean,duplicados_raw,duplicados_clean,filas_eliminadas
+estudiantes,360,337,145,0,10,0,23
+inscripciones,927,828,367,0,27,0,99
+calificaciones,721,639,245,0,21,0,82
+asistencia,618,544,147,0,18,0,74

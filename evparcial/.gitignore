@@ -18,6 +18,13 @@ data/**
 # also keep all .gitkeep files
 !.gitkeep
 
+# NO ignorar archivos de entrega dentro de data
+!data/**/*.csv
+!data/**/*.json
+!data/**/*.png
+!data/**/*.jpg
+!data/**/*.jpeg
+
 # ignore kedro-viz metadata
 .viz
 
@@ -83,8 +90,6 @@ wheels/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 

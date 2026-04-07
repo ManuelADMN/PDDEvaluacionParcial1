@@ -1,0 +1,11 @@
+dataset,filas,columnas,nulos_totales,duplicados_exactos,columnas_con_nulos,checksum
+estudiantes_raw,360,8,145,10,8,7cef584c4e5f044d774008270bad567852b645ed9919b7f67733959f8f12fa29
+inscripciones_raw,927,8,367,27,8,4477a5a20b7e43d932159b2167b3569ca0e21e8e568500e23d4ac64c7d71892d
+calificaciones_raw,721,7,245,21,7,72e2eca2f8df50c1704ac3873d132dd031ab2b5d77923a39c13958106823954b
+asistencia_raw,618,5,147,18,5,051cc339c6d5d0d6d733fe7cfae6a12a394da8a3c28d55823fe28e8ae7e26405
+estudiantes_clean,337,8,0,0,0,3276a568cc09bb43ed49c50477a6e748ae49aa4a4a57a87bdea2cb674f1c4222
+inscripciones_clean,828,8,0,0,0,e331a3df6cb1d3e64bcdac4da6cc627c61acb56d49d260f89611e6a5938bd112
+calificaciones_clean,639,7,0,0,0,07cb9a3c58f14b8f1ee43db8d18cb8e8fa023c1c50cc5c6af9ea7a7703d1ce2f
+asistencia_clean,544,5,0,0,0,f49be97d27b33a40a2c6a5228affbf88129ffbb67a76b1fbb2271bdbab0cfc25
+dataset_universitario,795,32,0,0,0,b5dae004c21d7e11327940492b69716284050efd348c1633298f47fceaf04bd6
+dataset_universitario_modelo,795,78,0,0,0,00197984994eb4ca125a226d66889ebdc4f6f0c1ffb515959faa9888a2b87b55

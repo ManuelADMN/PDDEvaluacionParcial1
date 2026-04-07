@@ -1,0 +1,33 @@
+dataset,filas,columnas,nulos_totales,duplicados_exactos,columnas_con_nulos,checksum,tipo_registro,columna,dtype,nulos,porcentaje_nulos,valores_unicos,muestra
+estudiantes_raw,360,8,145,10,8,7cef584c4e5f044d774008270bad567852b645ed9919b7f67733959f8f12fa29,resumen,,,,,,
+inscripciones_raw,927,8,367,27,8,4477a5a20b7e43d932159b2167b3569ca0e21e8e568500e23d4ac64c7d71892d,resumen,,,,,,
+calificaciones_raw,721,7,245,21,7,72e2eca2f8df50c1704ac3873d132dd031ab2b5d77923a39c13958106823954b,resumen,,,,,,
+asistencia_raw,618,5,147,18,5,051cc339c6d5d0d6d733fe7cfae6a12a394da8a3c28d55823fe28e8ae7e26405,resumen,,,,,,
+estudiantes_raw,,,,,,,detalle_columna,id_estudiante,float64,14.0,3.89,337.0,"1.0, 3.0, 4.0"
+estudiantes_raw,,,,,,,detalle_columna,nombre,str,21.0,5.83,329.0,"Ignacio Espinoza Vergara, Carlos Gatica Medina, Camila Aguilera López"
+estudiantes_raw,,,,,,,detalle_columna,rut,str,16.0,4.44,335.0,"23003953-7, 16824501-5, 20713487-8"
+estudiantes_raw,,,,,,,detalle_columna,carrera,str,17.0,4.72,26.0,"Enfermería, Administración, Psicología"
+estudiantes_raw,,,,,,,detalle_columna,sede,str,26.0,7.22,5.0,"Santiago Centro, Sede Norte, Concepción"
+estudiantes_raw,,,,,,,detalle_columna,año_ingreso,float64,14.0,3.89,6.0,"2020.0, 2023.0, 2021.0"
+estudiantes_raw,,,,,,,detalle_columna,email,str,18.0,5.0,312.0,"ignacio.espinoza@outlook.com, carlos.gatica@outlook.com, camila.aguilera@gmail.com"
+estudiantes_raw,,,,,,,detalle_columna,estado_matricula,str,19.0,5.28,15.0,"  Regular  , REGULAR, regular"
+inscripciones_raw,,,,,,,detalle_columna,id_inscripcion,float64,40.0,4.31,861.0,"1.0, 2.0, 3.0"
+inscripciones_raw,,,,,,,detalle_columna,id_estudiante,float64,37.0,3.99,315.0,"325.0, 70.0, 107.0"
+inscripciones_raw,,,,,,,detalle_columna,codigo_asignatura,str,44.0,4.75,572.0,"ASG-553, ASG-472, ASG-930"
+inscripciones_raw,,,,,,,detalle_columna,nombre_asignatura,str,45.0,4.85,48.0,"Inglés, algoritmos, Algoritmos"
+inscripciones_raw,,,,,,,detalle_columna,seccion,str,47.0,5.07,4.0,"002D, 001V, 001D"
+inscripciones_raw,,,,,,,detalle_columna,semestre,float64,61.0,6.58,2.0,"2.0, 2.0, 1.0"
+inscripciones_raw,,,,,,,detalle_columna,año,float64,50.0,5.39,3.0,"2024.0, 2022.0, 2023.0"
+inscripciones_raw,,,,,,,detalle_columna,docente,str,43.0,4.64,856.0,"Agustín Espinoza Vergara, Tomás Araya Contreras, Matías Jara Hernández"
+calificaciones_raw,,,,,,,detalle_columna,id_calificacion,float64,36.0,4.99,666.0,"1.0, 2.0, 3.0"
+calificaciones_raw,,,,,,,detalle_columna,id_inscripcion,float64,30.0,4.16,494.0,"94.0, 883.0, 452.0"
+calificaciones_raw,,,,,,,detalle_columna,tipo_evaluacion,str,25.0,3.47,5.0,"Proyecto, Parcial, Examen Final"
+calificaciones_raw,,,,,,,detalle_columna,numero_evaluacion,float64,36.0,4.99,4.0,"3.0, 3.0, 1.0"
+calificaciones_raw,,,,,,,detalle_columna,nota,str,41.0,5.69,104.0,"1.5, 6.7, 6.0"
+calificaciones_raw,,,,,,,detalle_columna,ponderacion,float64,44.0,6.1,7.0,"40.0, 20.0, 40.0"
+calificaciones_raw,,,,,,,detalle_columna,fecha,str,33.0,4.58,669.0,"01/03/2022, 2022-03-02, 03/03/2022"
+asistencia_raw,,,,,,,detalle_columna,id_asistencia,float64,28.0,4.53,572.0,"1.0, 2.0, 3.0"
+asistencia_raw,,,,,,,detalle_columna,id_inscripcion,float64,32.0,5.18,429.0,"848.0, 274.0, 472.0"
+asistencia_raw,,,,,,,detalle_columna,fecha,str,34.0,5.5,566.0,"01/03/2023, 02/03/2023, 03/03/2023"
+asistencia_raw,,,,,,,detalle_columna,estado_asistencia,str,24.0,3.88,16.0,"Justificado, Presente, Ausente"
+asistencia_raw,,,,,,,detalle_columna,tipo_clase,str,29.0,4.69,4.0,"Teórica, Laboratorio, Taller"

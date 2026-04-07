@@ -1,0 +1,181 @@
+{
+  "row_counts": {
+    "estudiantes_clean": 337,
+    "inscripciones_clean": 828,
+    "calificaciones_clean": 639,
+    "asistencia_clean": 544,
+    "dataset_universitario": 795
+  },
+  "checksums": {
+    "dataset_universitario": "b5dae004c21d7e11327940492b69716284050efd348c1633298f47fceaf04bd6"
+  },
+  "schema_validation": {
+    "id_inscripcion": {
+      "esperado": "Int64",
+      "real": "int64",
+      "coincide": false
+    },
+    "id_estudiante": {
+      "esperado": "Int64",
+      "real": "int64",
+      "coincide": false
+    },
+    "codigo_asignatura": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "nombre_asignatura": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "seccion": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "semestre": {
+      "esperado": "Int64",
+      "real": "int64",
+      "coincide": false
+    },
+    "anio": {
+      "esperado": "Int64",
+      "real": "int64",
+      "coincide": false
+    },
+    "docente": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "nombre": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "rut": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "carrera": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "sede": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "anio_ingreso": {
+      "esperado": "Int64",
+      "real": "int64",
+      "coincide": false
+    },
+    "email": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "estado_matricula": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "nota_promedio": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "nota_minima": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "nota_maxima": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "nota_final_ponderada": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "cantidad_evaluaciones": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "ponderacion_total": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "total_clases": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "presentes": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "ausentes": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "justificados": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "tardanzas": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "tasa_asistencia": {
+      "esperado": "float64",
+      "real": "float64",
+      "coincide": true
+    },
+    "carga_asignaturas": {
+      "esperado": "int64",
+      "real": "int64",
+      "coincide": true
+    },
+    "antiguedad_ingreso": {
+      "esperado": "Int64",
+      "real": "int64",
+      "coincide": false
+    },
+    "resultado_academico": {
+      "esperado": "string",
+      "real": "str",
+      "coincide": false
+    },
+    "riesgo_academico": {
+      "esperado": "object",
+      "real": "str",
+      "coincide": false
+    },
+    "aprobado": {
+      "esperado": "int64",
+      "real": "int64",
+      "coincide": true
+    }
+  },
+  "integrity_validation": {
+    "inscripciones_sin_estudiante": 33,
+    "calificaciones_sin_inscripcion": 50,
+    "asistencia_sin_inscripcion": 41,
+    "dataset_ids_inscripcion_duplicados": 0,
+    "dataset_nulos_totales": 0
+  }
+}

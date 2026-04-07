@@ -1,0 +1,361 @@
+id_estudiante,nombre,rut,carrera,sede,año_ingreso,email,estado_matricula
+1.0,Ignacio Espinoza Vergara,23003953-7,Enfermería,,2020.0,ignacio.espinoza@outlook.com,  Regular  
+,Carlos Gatica Medina,,Administración,Santiago Centro,2023.0,carlos.gatica@outlook.com,REGULAR
+3.0,Camila Aguilera López,16824501-5,Psicología,Sede Norte,2021.0,camila.aguilera@gmail.com,regular
+4.0,María Rojas Vergara,20713487-8,Arquitectura,Concepción,2021.0,maría.rojas@outlook.com,EGRESADO
+5.0,Fernanda Martínez Flores,16300007-6,Arquitectura,Viña del Mar,2023.0,,Congelada
+6.0,Macarena Fuentes Bravo,13541695-1,Derecho,Viña del Mar,2019.0,macarena.fuentes@gmail.com,Congelada
+7.0,Tomás Espinoza Castro,12491053-5,ing. informática,Santiago Centro,2021.0,,Regular
+8.0,Bárbara Tapia Tapia,14071893-7,Derecho,Santiago Centro,2021.0,bárbara.tapia@outlook.com,REGULAR
+9.0,Benjamín Gatica Medina,15369011-1,Ing. Informática,Santiago Centro,2021.0,benjamín.gatica@gmail.com,Regular
+10.0,José Araya Contreras,18203934-8,Arquitectura,Sede Norte,2024.0,josé.araya@outlook.com,Regular
+11.0,Macarena Muñoz Tapia,16032663-5,Ing. Informática,Sede Norte,2020.0,macarena.muñoz@outlook.com,  Congelada  
+12.0,Natalia Díaz Soto,20689817-3,Psicología,Concepción,2020.0,natalia.díaz@gmail.com,  Egresado  
+13.0,Nicolás Valenzuela Soto,15538568-2,Ing. Informática,Sede Norte,2021.0,nicolás.valenzuela@gmail.com,Regular
+14.0,,12978816-2,Enfermería,Concepción,2022.0,valentina.muñoz@gmail.com,Desertor
+15.0,Bárbara Gatica Valenzuela,22998821-5,ING. CIVIL,Concepción,2024.0,bárbara.gatica@gmail.com,REGULAR
+16.0,Diego Vergara Espinoza,17511752-5,,Santiago Centro,2021.0,diego.vergara@outlook.com,REGULAR
+17.0,Ignacio Rivera Araya,23545121-0,ing. civil,Viña del Mar,2019.0,ignacio.rivera@outlook.com,  Regular  
+18.0,Amanda Jara González,24531129-5,PSICOLOGÍA,Santiago Centro,2024.0,amanda.jara@gmail.com,Regular
+19.0,Lorena Vergara Pérez,21306930-9,Psicología,Sede Norte,2022.0,lorena.vergara@gmail.com,
+20.0,Lucas Flores Tapia,15113704-7,Enfermería,Sede Sur,2019.0,lucas.flores@gmail.com,Egresado
+21.0,José Contreras Castro,17150911-8,Ing. Civil,Sede Norte,2023.0,josé.contreras@outlook.com,Regular
+22.0,Alejandra Reyes Gatica,8278974-6,Arquitectura,Viña del Mar,2023.0,alejandra.reyes@outlook.com,Regular
+23.0,Emilio Rodríguez Fuentes,18504046-0,Psicología,Sede Norte,2020.0,emilio.rodríguez@outlook.com,Regular
+24.0,Tomás Fuentes Figueroa,10213820-8,Ing. Informática,Viña del Mar,2024.0,tomás.fuentes@gmail.com,Regular
+25.0,Paula Tapia Aguilera,13807750-1,ING. INFORMÁTICA,Sede Sur,2020.0,paula.tapia@outlook.com,regular
+26.0,Martín Muñoz Bravo,11489988-6,Ing. Civil,Sede Sur,2020.0,martín.muñoz@outlook.com,REGULAR
+27.0,Martín Muñoz Vergara,,ING. CIVIL,Concepción,2024.0,martín.muñoz@outlook.com,Regular
+28.0,Vicente Araya Hernández,12160681-4,Derecho,Sede Norte,2023.0,vicente.araya@outlook.com,Regular
+29.0,,19899496-0,Ing. Informática,Concepción,2024.0,alejandra.vergara@gmail.com,Regular
+30.0,Carlos Martínez Gatica,15085892-0,Enfermería,Santiago Centro,2019.0,carlos.martínez@gmail.com,Regular
+31.0,Constanza Tapia Pérez,20603281-1,Derecho,Santiago Centro,2022.0,,Congelada
+32.0,,13443055-6,Arquitectura,Santiago Centro,2020.0,ignacio.morales@gmail.com,Desertor
+33.0,Benjamín Silva Núñez,24894524-7,Ing. Civil,Santiago Centro,2023.0,benjamín.silva@gmail.com,REGULAR
+34.0,Carlos Martínez Vergara,8221762-4,Arquitectura,Santiago Centro,2020.0,carlos.martínez@gmail.com,Regular
+35.0,Ana García Jara,21532270-9,PSICOLOGÍA,Sede Norte,2021.0,ana.garcía@outlook.com,regular
+36.0,Alejandra Tapia Rodríguez,21412807-3,Enfermería,Concepción,2022.0,alejandra.tapia@outlook.com,Regular
+37.0,Joaquín Núñez Flores,14759178-1,administración,Concepción,2019.0,joaquín.núñez@outlook.com,Regular
+38.0,Pedro Araya García,23655291-5,Administración,Viña del Mar,2020.0,pedro.araya@gmail.com,Desertor
+39.0,Bárbara Reyes García,15715330-9,Arquitectura,Santiago Centro,2021.0,bárbara.reyes@outlook.com,Egresado
+40.0,Vicente Díaz Castro,16410038-0,ARQUITECTURA,,2021.0,vicente.díaz@outlook.com,Regular
+41.0,Felipe Jara Flores,22387958-3,Psicología,,2022.0,felipe.jara@gmail.com,Regular
+42.0,Gabriel Hernández Muñoz,21754188-4,Administración,Viña del Mar,2023.0,gabriel.hernández@gmail.com,Regular
+43.0,Valentina Muñoz Soto,17511216-6,Psicología,Sede Norte,2023.0,valentina.muñoz@outlook.com,Regular
+44.0,,6244185-1,Enfermería,Viña del Mar,2020.0,sofía.valenzuela@gmail.com,  Regular  
+45.0,Agustín Vergara Soto,20484682-0,  Psicología  ,Sede Sur,2020.0,agustín.vergara@gmail.com,REGULAR
+46.0,Paula Fuentes González,11407671-9,Arquitectura,Concepción,2023.0,paula.fuentes@gmail.com,Regular
+47.0,Tomás Flores Figueroa,18029319-1,Ing. Civil,Viña del Mar,2019.0,tomás.flores@outlook.com,Egresado
+48.0,Sofía Torres Medina,5647432-1,ENFERMERÍA,Sede Norte,2019.0,sofía.torres@outlook.com,  Regular  
+49.0,Gabriel Aguilera Castro,20438975-5,Derecho,Santiago Centro,2021.0,gabriel.aguilera@outlook.com,Regular
+50.0,Ignacio Díaz Fuentes,6048233-0,derecho,Sede Sur,2022.0,ignacio.díaz@outlook.com,Regular
+51.0,Joaquín Jara Araya,8518523-7,Administración,Santiago Centro,2019.0,joaquín.jara@gmail.com,REGULAR
+52.0,Sofía Díaz López,6183326-6,Arquitectura,Viña del Mar,2020.0,sofía.díaz@gmail.com,Regular
+53.0,,20435438-9,Ing. Civil,Concepción,2019.0,amanda.fuentes@outlook.com,REGULAR
+54.0,Isidora Reyes Fuentes,14049976-9,Arquitectura,Sede Norte,2022.0,isidora.reyes@gmail.com,
+55.0,Cristóbal Gatica Espinoza,6122179-7,  Derecho  ,Sede Sur,2020.0,cristóbal.gatica@gmail.com,EGRESADO
+56.0,Maximiliano Castro García,23219923-6,Ing. Informática,Concepción,2022.0,maximiliano.castro@gmail.com,Egresado
+57.0,Sebastián Contreras Pérez,10975976-8,Arquitectura,Sede Sur,2023.0,sebastián.contreras@outlook.com,Regular
+58.0,Marcela Sepúlveda López,,Ing. Informática,Sede Norte,2022.0,marcela.sepúlveda@gmail.com,Regular
+,Sebastián Figueroa Valenzuela,8283864-6,Administración,Sede Norte,2022.0,sebastián.figueroa@outlook.com,CONGELADA
+60.0,Marcela Araya Soto,10237705-1,Arquitectura,,2022.0,marcela.araya@gmail.com,  Regular  
+61.0,Ignacio Díaz Valenzuela,17252912-9,administración,Sede Sur,2020.0,ignacio.díaz@gmail.com,Regular
+62.0,Sebastián Silva Valenzuela,12930614-8,Administración,,2022.0,sebastián.silva@outlook.com,Regular
+63.0,Isidora Bravo Rivera,24641998-6,Derecho,Sede Sur,2022.0,,Regular
+64.0,Macarena Medina Tapia,19937413-6,Ing. Civil,Sede Sur,2024.0,macarena.medina@outlook.com,Egresado
+65.0,Constanza Araya Martínez,13388160-5,Psicología,Santiago Centro,2024.0,constanza.araya@outlook.com,Regular
+66.0,Joaquín García Espinoza,11641824-6,Psicología,Viña del Mar,2021.0,joaquín.garcía@outlook.com,Congelada
+67.0,Benjamín Jara Rojas,21334533-3,Administración,Sede Sur,2020.0,benjamín.jara@gmail.com,Regular
+68.0,Maximiliano Torres Torres,17348514-5,,Sede Sur,2024.0,maximiliano.torres@outlook.com,Desertor
+69.0,,22689499-9,Administración,Sede Norte,2022.0,nicolás.torres@gmail.com,Regular
+70.0,Paula Bravo Reyes,18674076-0,Arquitectura,,2019.0,paula.bravo@gmail.com,Desertor
+71.0,Lorena García Reyes,21409787-0,Psicología,Sede Norte,2022.0,lorena.garcía@outlook.com,Regular
+72.0,Maximiliano Vergara Martínez,20248965-2,Psicología,,2019.0,maximiliano.vergara@outlook.com,Desertor
+73.0,Natalia Rivera López,9457351-8,Psicología,Viña del Mar,,natalia.rivera@outlook.com,Regular
+74.0,Benjamín Medina Gatica,23063386-3,Derecho,Sede Sur,2023.0,benjamín.medina@outlook.com,  Regular  
+75.0,José García Zambrano,14062737-1,Ing. Civil,Concepción,2020.0,josé.garcía@outlook.com,REGULAR
+76.0,,12168273-3,  Administración  ,Sede Norte,2020.0,joaquín.medina@gmail.com,Congelada
+77.0,Carolina Zambrano Reyes,16589900-1,Ing. Informática,Viña del Mar,2023.0,carolina.zambrano@outlook.com,Desertor
+78.0,José Gatica Sepúlveda,11504524-9,Administración,Sede Sur,2020.0,josé.gatica@outlook.com,Congelada
+79.0,José Zambrano Araya,5244992-1,administración,Sede Sur,2019.0,josé.zambrano@outlook.com,Regular
+80.0,Macarena Rivera Soto,14130327-3,ING. CIVIL,Sede Norte,2019.0,macarena.rivera@gmail.com,
+81.0,Isidora Valenzuela Rivera,6581364-9,Enfermería,Sede Sur,2021.0,isidora.valenzuela@outlook.com,Regular
+82.0,Felipe Núñez Soto,20706679-4,ADMINISTRACIÓN,Santiago Centro,2020.0,felipe.núñez@outlook.com,Regular
+83.0,,10535424-7,Administración,Concepción,2020.0,pedro.jara@outlook.com,Regular
+,Javiera Fuentes Díaz,15393686-9,Psicología,,2021.0,javiera.fuentes@outlook.com,EGRESADO
+85.0,Paula Díaz Rojas,12607158-6,Derecho,Sede Norte,,paula.díaz@gmail.com,Egresado
+86.0,,18595872-3,Ing. Civil,Sede Norte,2019.0,lorena.rojas@outlook.com,Desertor
+87.0,Carlos Araya Figueroa,15524288-7,,,2022.0,carlos.araya@outlook.com,Regular
+88.0,Daniela Rivera Flores,24051408-6,,Sede Sur,2024.0,daniela.rivera@gmail.com,Regular
+89.0,Sofía García Reyes,19818624-1,Administración,,2021.0,sofía.garcía@gmail.com,Regular
+90.0,Nicolás Vergara García,13993598-8,Administración,Sede Norte,2024.0,nicolás.vergara@outlook.com,
+91.0,Bárbara Vergara Tapia,5749830-3,Ing. Informática,Santiago Centro,2024.0,bárbara.vergara@gmail.com,  Regular  
+92.0,Francisca García Vergara,5369229-0,Derecho,,2020.0,francisca.garcía@outlook.com,Egresado
+93.0,Constanza López Martínez,20310113-3,Psicología,Santiago Centro,2022.0,constanza.lópez@outlook.com,Regular
+94.0,Vicente Tapia Rojas,17220701-6,,Sede Norte,2020.0,vicente.tapia@outlook.com,Regular
+95.0,Cristóbal González Rojas,17239228-8,Arquitectura,Sede Sur,2021.0,cristóbal.gonzález@outlook.com,Egresado
+96.0,Nicolás Medina Muñoz,10146164-6,  Arquitectura  ,Sede Sur,2023.0,nicolás.medina@gmail.com,desertor
+97.0,Emilio Soto Pérez,5845232-8,Arquitectura,Sede Norte,2020.0,emilio.soto@gmail.com,Congelada
+98.0,,10842037-5,administración,Viña del Mar,2024.0,ana.garcía@gmail.com,Regular
+99.0,Natalia Figueroa Araya,11089281-6,Ing. Informática,Concepción,2024.0,natalia.figueroa@gmail.com,Regular
+100.0,Pedro Soto Flores,12961949-7,,Concepción,,pedro.soto@outlook.com,Regular
+101.0,,24840650-4,Arquitectura,,2022.0,emilio.espinoza@gmail.com,DESERTOR
+102.0,Valentina Soto Contreras,7292087-2,Enfermería,Viña del Mar,2021.0,valentina.soto@outlook.com,Regular
+103.0,Marcela Jara Flores,21998000-8,ING. CIVIL,Concepción,2022.0,marcela.jara@outlook.com,Desertor
+104.0,Javiera Valenzuela Bravo,18097644-6,Arquitectura,Viña del Mar,2019.0,javiera.valenzuela@outlook.com,Desertor
+105.0,Daniela Tapia Pérez,24571426-1,ING. INFORMÁTICA,,2020.0,daniela.tapia@gmail.com,Egresado
+,Isidora Núñez Zambrano,7968246-2,ING. CIVIL,Sede Sur,2024.0,isidora.núñez@outlook.com,Regular
+107.0,Benjamín Tapia Soto,9309145-3,  Arquitectura  ,Viña del Mar,2019.0,benjamín.tapia@outlook.com,Regular
+108.0,Maximiliano Araya Flores,10578323-1,Administración,Sede Norte,2021.0,maximiliano.araya@outlook.com,Congelada
+109.0,Alejandra González Bravo,13853474-2,Arquitectura,Concepción,2024.0,alejandra.gonzález@gmail.com,Egresado
+110.0,Macarena Araya Espinoza,15813631-2,Enfermería,Concepción,2019.0,macarena.araya@gmail.com,Desertor
+111.0,Santiago Castro Sepúlveda,17670515-1,Psicología,Sede Sur,,santiago.castro@outlook.com,Regular
+112.0,Paula Muñoz Figueroa,8630771-9,Ing. Civil,Santiago Centro,2024.0,paula.muñoz@outlook.com,Congelada
+113.0,Andrés Figueroa Espinoza,21415897-8,PSICOLOGÍA,Concepción,2020.0,andrés.figueroa@outlook.com,Regular
+114.0,Antonia Figueroa Muñoz,24045789-2,Enfermería,Sede Sur,2020.0,antonia.figueroa@gmail.com,Regular
+115.0,Bárbara Pérez Bravo,16178548-9,Psicología,Sede Sur,2023.0,bárbara.pérez@outlook.com,
+116.0,Matías Hernández Hernández,15272151-6,,Viña del Mar,2019.0,matías.hernández@outlook.com,Regular
+117.0,María Rodríguez Rodríguez,15686187-7,Psicología,Viña del Mar,2020.0,maría.rodríguez@gmail.com,Regular
+118.0,Alejandra Tapia Reyes,13861924-4,Ing. Civil,Viña del Mar,2019.0,alejandra.tapia@outlook.com,Regular
+119.0,José Jara Bravo,17668220-5,Derecho,Santiago Centro,2019.0,josé.jara@gmail.com,Regular
+120.0,Ignacio García Tapia,12206490-2,Enfermería,Concepción,2021.0,ignacio.garcía@gmail.com,Regular
+,Constanza Sepúlveda Pérez,17575687-5,Ing. Civil,Santiago Centro,,constanza.sepúlveda@gmail.com,Regular
+122.0,Nicolás Díaz Rivera,14400745-4,Derecho,Santiago Centro,2024.0,nicolás.díaz@outlook.com,Regular
+123.0,Pedro Fuentes Soto,7563925-1,Derecho,Viña del Mar,2019.0,pedro.fuentes@gmail.com,
+124.0,Lucas Castro Castro,22474205-1,Enfermería,Sede Sur,2021.0,lucas.castro@outlook.com,EGRESADO
+125.0,Carlos Núñez Torres,22861811-5,Administración,Sede Norte,2024.0,carlos.núñez@gmail.com,
+126.0,Isidora Valenzuela García,7863134-3,Enfermería,Sede Sur,2020.0,isidora.valenzuela@outlook.com,Regular
+127.0,Javiera Soto Gatica,17819354-7,Ing. Civil,Sede Sur,2019.0,javiera.soto@outlook.com,Regular
+128.0,Macarena Flores Vergara,11294148-8,,Sede Sur,,macarena.flores@gmail.com,Egresado
+129.0,Matías Gatica Medina,5613720-5,Enfermería,Sede Sur,2020.0,,Regular
+130.0,Isidora Núñez Martínez,9844739-0,Enfermería,Santiago Centro,2019.0,isidora.núñez@gmail.com,  Regular  
+131.0,María López Jara,11914814-8,ENFERMERÍA,Viña del Mar,2024.0,maría.lópez@outlook.com,Regular
+132.0,Agustín Gatica Reyes,23115198-1,Enfermería,Viña del Mar,2019.0,agustín.gatica@outlook.com,Regular
+133.0,Diego Muñoz Morales,24901536-3,Administración,Sede Sur,2021.0,diego.muñoz@outlook.com,Egresado
+134.0,Sebastián Flores Zambrano,19916930-6,Ing. Civil,Sede Norte,,sebastián.flores@outlook.com,Egresado
+135.0,Lorena Hernández Rivera,22213123-4,Derecho,Concepción,2019.0,lorena.hernández@outlook.com,Desertor
+136.0,Valentina Araya Araya,8345947-8,Enfermería,Sede Sur,2019.0,valentina.araya@gmail.com,DESERTOR
+137.0,Isidora Torres Zambrano,,Derecho,Sede Sur,,isidora.torres@outlook.com,Regular
+138.0,Isidora Contreras Fuentes,7693454-4,Derecho,Sede Norte,2023.0,,Regular
+,Valentina Fuentes Figueroa,17817854-2,Derecho,Santiago Centro,2019.0,valentina.fuentes@outlook.com,Regular
+140.0,Pedro Flores López,10563744-0,Enfermería,Sede Sur,2023.0,pedro.flores@gmail.com,
+141.0,María Sepúlveda Rivera,7499832-4,Enfermería,Sede Norte,2023.0,maría.sepúlveda@gmail.com,Regular
+142.0,Maximiliano Figueroa López,22523048-3,Psicología,Santiago Centro,2020.0,maximiliano.figueroa@gmail.com,Egresado
+143.0,Fernanda Araya Jara,11654725-3,ENFERMERÍA,,2022.0,fernanda.araya@outlook.com,
+144.0,Lucas Soto Rivera,15859663-4,Arquitectura,Sede Sur,2024.0,lucas.soto@gmail.com,Congelada
+145.0,Javiera Aguilera Figueroa,7002025-1,Enfermería,Santiago Centro,2023.0,javiera.aguilera@outlook.com,  Regular  
+146.0,Cristóbal Morales Silva,8734343-2,ing. informática,,2020.0,cristóbal.morales@outlook.com,Regular
+147.0,,19861791-2,Ing. Civil,Sede Sur,2024.0,alejandra.jara@gmail.com,Congelada
+148.0,Paula Díaz Aguilera,,Ing. Informática,Viña del Mar,2021.0,paula.díaz@gmail.com,EGRESADO
+149.0,Isidora Pérez Morales,,Psicología,Concepción,2023.0,isidora.pérez@outlook.com,  Congelada  
+150.0,Carolina Castro Vergara,11563081-0,Arquitectura,Concepción,2022.0,carolina.castro@gmail.com,Congelada
+151.0,Francisca Aguilera Silva,22050960-7,Administración,Viña del Mar,,francisca.aguilera@gmail.com,  Regular  
+152.0,Joaquín Medina Rivera,18250399-4,Arquitectura,Sede Sur,2024.0,joaquín.medina@gmail.com,Desertor
+153.0,Paula Rodríguez Fuentes,20727392-7,Ing. Informática,Sede Norte,2023.0,paula.rodríguez@outlook.com,Regular
+154.0,Lucas Fuentes Contreras,6550546-9,Ing. Informática,Santiago Centro,2023.0,lucas.fuentes@outlook.com,Egresado
+155.0,Natalia Hernández Núñez,5354573-6,Ing. Informática,Viña del Mar,2022.0,natalia.hernández@outlook.com,Egresado
+156.0,Lucas Soto Rojas,21212443-6,Ing. Civil,Viña del Mar,2019.0,lucas.soto@outlook.com,Regular
+157.0,Ana López Pérez,8637547-8,Derecho,Viña del Mar,2022.0,ana.lópez@outlook.com,Desertor
+158.0,Nicolás Castro López,12960397-7,Administración,Viña del Mar,2020.0,nicolás.castro@gmail.com,Desertor
+159.0,,17657283-2,Administración,Concepción,2020.0,nicolás.martínez@gmail.com,REGULAR
+,Isidora Morales Contreras,17521726-0,Arquitectura,Sede Sur,2022.0,isidora.morales@gmail.com,Congelada
+161.0,Agustín Figueroa Medina,21212926-6,Ing. Civil,Viña del Mar,2022.0,agustín.figueroa@outlook.com,Desertor
+162.0,Catalina Díaz Contreras,21199419-1,Psicología,Viña del Mar,2022.0,catalina.díaz@outlook.com,Regular
+163.0,Constanza Pérez Flores,18959851-2,Arquitectura,Viña del Mar,2022.0,constanza.pérez@outlook.com,Desertor
+164.0,Martín Sepúlveda Zambrano,8147712-7,Ing. Informática,Sede Norte,2022.0,,Regular
+165.0,Felipe Reyes Soto,9941955-0,Derecho,Sede Norte,2023.0,felipe.reyes@gmail.com,Egresado
+166.0,Valentina Reyes Espinoza,14460300-8,,Santiago Centro,2024.0,valentina.reyes@gmail.com,  Regular  
+167.0,Valentina López García,22567510-8,Arquitectura,Sede Sur,2024.0,valentina.lópez@gmail.com,Regular
+168.0,Valentina Vergara Rivera,18245674-8,Enfermería,Viña del Mar,2021.0,valentina.vergara@gmail.com,Egresado
+169.0,Francisca López Díaz,6655097-4,Arquitectura,Santiago Centro,2020.0,francisca.lópez@gmail.com,Regular
+170.0,Pedro Jara Hernández,8455369-8,Ing. Civil,Santiago Centro,2020.0,pedro.jara@gmail.com,  Regular  
+171.0,Carlos López Díaz,18083913-9,Psicología,Sede Sur,2024.0,carlos.lópez@gmail.com,REGULAR
+172.0,Isidora Reyes González,12461510-0,Derecho,Sede Norte,2024.0,isidora.reyes@gmail.com,Regular
+173.0,Benjamín Valenzuela Soto,12589616-2,PSICOLOGÍA,Sede Sur,2021.0,benjamín.valenzuela@outlook.com,Regular
+174.0,Santiago Contreras Díaz,17989680-4,Ing. Civil,,2022.0,santiago.contreras@gmail.com,
+175.0,Paula Araya Figueroa,16022848-6,Ing. Civil,Sede Sur,2024.0,paula.araya@gmail.com,Regular
+176.0,Paula Núñez Jara,,Enfermería,Sede Norte,2024.0,paula.núñez@gmail.com,Regular
+177.0,Martín Medina Araya,19408263-7,Psicología,Santiago Centro,2021.0,martín.medina@gmail.com,Regular
+178.0,Amanda García Núñez,15016354-1,Derecho,Sede Sur,2022.0,amanda.garcía@gmail.com,Regular
+179.0,Martín Núñez Silva,24757598-9,Psicología,Viña del Mar,2020.0,martín.núñez@outlook.com,Regular
+,Carolina Rodríguez Contreras,7795572-6,Arquitectura,Viña del Mar,2024.0,carolina.rodríguez@gmail.com,REGULAR
+181.0,Sofía Araya Bravo,6241680-5,Psicología,Sede Sur,2019.0,sofía.araya@gmail.com,Regular
+182.0,Antonia Sepúlveda Díaz,12740705-9,Ing. Informática,Sede Sur,2020.0,antonia.sepúlveda@gmail.com,Congelada
+183.0,Vicente Núñez Soto,5685623-6,Psicología,Sede Norte,2020.0,vicente.núñez@outlook.com,Regular
+184.0,Paula Contreras Muñoz,13394400-9,derecho,Santiago Centro,2019.0,paula.contreras@gmail.com,Regular
+185.0,Vicente Contreras Castro,6113683-9,,Sede Sur,2021.0,vicente.contreras@gmail.com,Regular
+186.0,,21325664-0,  Derecho  ,Santiago Centro,2023.0,lorena.castro@gmail.com,REGULAR
+187.0,José Díaz Aguilera,12699670-4,Ing. Informática,Viña del Mar,2022.0,josé.díaz@outlook.com,  Egresado  
+188.0,,9385174-5,  Enfermería  ,Santiago Centro,2022.0,cristóbal.martínez@gmail.com,Regular
+189.0,,8841736-9,DERECHO,Concepción,2020.0,santiago.gatica@outlook.com,Regular
+190.0,Camila Espinoza Sepúlveda,20120585-0,Psicología,Sede Norte,2019.0,camila.espinoza@gmail.com,Regular
+191.0,Vicente Flores Martínez,9140040-8,Psicología,Sede Norte,2020.0,vicente.flores@outlook.com,  Desertor  
+192.0,,7320333-5,Ing. Informática,Santiago Centro,2020.0,,Regular
+193.0,Gabriel Espinoza Morales,23745292-9,Ing. Civil,Sede Norte,2024.0,gabriel.espinoza@outlook.com,Regular
+194.0,Lorena Castro Castro,8350109-3,,Santiago Centro,2021.0,,Desertor
+195.0,Sofía Muñoz Aguilera,18324667-8,Arquitectura,Santiago Centro,2022.0,sofía.muñoz@gmail.com,
+196.0,Felipe Bravo Torres,9771490-9,Ing. Informática,Viña del Mar,2023.0,felipe.bravo@outlook.com,Congelada
+197.0,Emilio Soto González,18128501-7,Ing. Civil,,2019.0,emilio.soto@outlook.com,  Regular  
+198.0,María Rivera Hernández,5361537-7,derecho,Sede Norte,,maría.rivera@outlook.com,  Regular  
+199.0,Andrés Rivera Torres,14303704-2,Ing. Informática,Concepción,2019.0,andrés.rivera@outlook.com,Regular
+200.0,Andrés Martínez Medina,,psicología,Sede Sur,2022.0,andrés.martínez@outlook.com,Regular
+,Ana López Morales,13274618-1,Arquitectura,Sede Norte,2021.0,ana.lópez@outlook.com,REGULAR
+202.0,Sofía Muñoz Rojas,13353987-6,Arquitectura,Concepción,2023.0,sofía.muñoz@gmail.com,Desertor
+203.0,Lorena Medina Bravo,9648872-5,Derecho,Sede Norte,2019.0,lorena.medina@outlook.com,Regular
+204.0,Carolina Vergara Torres,10767077-6,Administración,Concepción,2020.0,carolina.vergara@outlook.com,congelada
+205.0,Andrés Gatica López,5115671-2,  Enfermería  ,Sede Norte,2022.0,andrés.gatica@outlook.com,Regular
+206.0,Carolina Medina Silva,,  Psicología  ,Sede Sur,2021.0,carolina.medina@gmail.com,desertor
+207.0,Sofía Rivera Soto,19208409-9,Psicología,Viña del Mar,2024.0,sofía.rivera@gmail.com,  Desertor  
+208.0,Tomás Vergara Rodríguez,,ENFERMERÍA,,2020.0,tomás.vergara@gmail.com,Regular
+209.0,Carlos Vergara Flores,22114238-7,enfermería,Sede Sur,2021.0,carlos.vergara@outlook.com,  Regular  
+210.0,Lorena Muñoz Sepúlveda,17309054-4,Ing. Informática,Sede Norte,2019.0,lorena.muñoz@outlook.com,Congelada
+211.0,Cristóbal Aguilera Espinoza,22260368-0,ADMINISTRACIÓN,Concepción,2020.0,,Regular
+212.0,José Castro Rojas,9750118-9,Enfermería,Santiago Centro,2024.0,josé.castro@gmail.com,Congelada
+,Tomás Muñoz Rodríguez,12781441-3,,Sede Norte,2024.0,tomás.muñoz@gmail.com,Desertor
+214.0,Constanza Gatica González,17349950-8,Psicología,Sede Sur,2021.0,constanza.gatica@outlook.com,Regular
+215.0,Vicente Rivera Núñez,12744041-8,Enfermería,Viña del Mar,2022.0,vicente.rivera@outlook.com,Egresado
+216.0,Ignacio Gatica Valenzuela,15000647-3,Administración,Viña del Mar,2023.0,,regular
+217.0,Daniela Vergara Rojas,7774377-0,Derecho,Sede Norte,2024.0,daniela.vergara@outlook.com,  Regular  
+218.0,Natalia Muñoz Gatica,18698718-5,Derecho,Concepción,2024.0,natalia.muñoz@gmail.com,Regular
+219.0,Valentina Flores Flores,20053676-3,Ing. Informática,Sede Sur,2023.0,valentina.flores@outlook.com,Regular
+220.0,Antonia Tapia Espinoza,15947852-1,ING. INFORMÁTICA,Sede Sur,2020.0,antonia.tapia@gmail.com,Regular
+221.0,Nicolás Fuentes Rojas,21106730-4,Ing. Civil,Concepción,2022.0,nicolás.fuentes@gmail.com,REGULAR
+222.0,Diego Castro Vergara,16343811-4,Administración,Concepción,2022.0,diego.castro@gmail.com,Congelada
+223.0,Cristóbal Rivera Tapia,17662831-9,Arquitectura,Sede Norte,2021.0,cristóbal.rivera@outlook.com,Regular
+224.0,Andrés Hernández Flores,12303865-5,Derecho,Sede Norte,2020.0,andrés.hernández@outlook.com,Regular
+225.0,,9097591-0,Administración,Viña del Mar,2022.0,carolina.torres@gmail.com,Regular
+226.0,Maximiliano Flores Valenzuela,10466834-1,,Viña del Mar,2021.0,maximiliano.flores@gmail.com,Regular
+227.0,Joaquín Rivera Tapia,15209210-0,Arquitectura,Concepción,2022.0,joaquín.rivera@outlook.com,Regular
+228.0,Paula García Pérez,7967122-2,PSICOLOGÍA,Santiago Centro,2020.0,paula.garcía@outlook.com,Regular
+229.0,Javiera Castro Díaz,23222734-3,ENFERMERÍA,Santiago Centro,2022.0,javiera.castro@gmail.com,Congelada
+230.0,Vicente Martínez Martínez,11355153-1,  Psicología  ,Santiago Centro,2022.0,vicente.martínez@gmail.com,Regular
+231.0,Natalia Muñoz Soto,24171552-5,Ing. Civil,Sede Sur,2022.0,natalia.muñoz@gmail.com,Egresado
+232.0,Diego López Castro,17336063-8,DERECHO,Sede Norte,2023.0,diego.lópez@outlook.com,Regular
+233.0,María Bravo Zambrano,24559102-7,Psicología,Concepción,2019.0,maría.bravo@gmail.com,Congelada
+234.0,Natalia Bravo Valenzuela,24000578-9,Derecho,Viña del Mar,2020.0,natalia.bravo@gmail.com,Regular
+235.0,Valentina González Fuentes,5400453-3,Psicología,Santiago Centro,2023.0,valentina.gonzález@outlook.com,  Regular  
+,Maximiliano Muñoz Fuentes,16370750-9,Ing. Civil,Viña del Mar,2019.0,maximiliano.muñoz@outlook.com,Congelada
+237.0,Antonia Silva Gatica,20226860-1,Enfermería,Sede Norte,2024.0,antonia.silva@gmail.com,CONGELADA
+238.0,Bárbara Jara García,21535017-7,Derecho,Concepción,,bárbara.jara@outlook.com,  Regular  
+239.0,Carolina Morales Reyes,7732871-7,Arquitectura,Santiago Centro,2022.0,carolina.morales@gmail.com,Desertor
+240.0,Isidora Pérez Silva,5900121-3,Psicología,Santiago Centro,2023.0,isidora.pérez@outlook.com,Congelada
+241.0,Nicolás Medina Díaz,6095831-5,Administración,Concepción,2021.0,nicolás.medina@gmail.com,Regular
+,Francisca Hernández Núñez,18784345-8,Derecho,Viña del Mar,2020.0,francisca.hernández@outlook.com,regular
+243.0,Benjamín Martínez García,20163289-0,Psicología,Sede Norte,2019.0,benjamín.martínez@outlook.com,regular
+244.0,Natalia Rivera Soto,24231032-4,Psicología,Sede Norte,2022.0,natalia.rivera@outlook.com,Regular
+245.0,Vicente Zambrano Fuentes,7473426-2,ENFERMERÍA,,2020.0,vicente.zambrano@gmail.com,Regular
+246.0,Cristóbal Díaz Vergara,13511054-6,Derecho,Viña del Mar,2022.0,cristóbal.díaz@outlook.com,Regular
+247.0,Sebastián Martínez Espinoza,,Derecho,Viña del Mar,2022.0,sebastián.martínez@outlook.com,Regular
+248.0,Alejandra González Gatica,8128033-6,Ing. Informática,Santiago Centro,2022.0,alejandra.gonzález@outlook.com,REGULAR
+249.0,Maximiliano Aguilera Espinoza,13501687-8,Psicología,Viña del Mar,2020.0,maximiliano.aguilera@outlook.com,  Regular  
+250.0,Cristóbal Aguilera Araya,12779898-8,derecho,Sede Sur,2023.0,cristóbal.aguilera@outlook.com,REGULAR
+251.0,Antonia Castro Sepúlveda,24817135-5,Psicología,Concepción,2020.0,antonia.castro@gmail.com,REGULAR
+252.0,Natalia Morales Figueroa,12007302-3,Ing. Civil,Viña del Mar,2020.0,natalia.morales@outlook.com,Regular
+253.0,Santiago Rodríguez Morales,20039701-6,Ing. Civil,Sede Norte,2024.0,santiago.rodríguez@outlook.com,Regular
+254.0,Bárbara Morales González,23744028-4,Administración,Viña del Mar,2021.0,bárbara.morales@outlook.com,Congelada
+255.0,Camila Aguilera Fuentes,8868937-8,Derecho,Santiago Centro,2021.0,camila.aguilera@outlook.com,  Desertor  
+256.0,Sofía García Figueroa,20218462-6,  Administración  ,Concepción,2023.0,sofía.garcía@outlook.com,Regular
+257.0,Javiera Rojas Tapia,20351323-7,enfermería,Concepción,2021.0,javiera.rojas@outlook.com,Regular
+258.0,Maximiliano Flores Vergara,19615746-0,Psicología,Sede Norte,2023.0,maximiliano.flores@outlook.com,
+259.0,,5315074-6,Enfermería,,2022.0,amanda.núñez@gmail.com,Regular
+260.0,Alejandra Araya Torres,14389044-3,Ing. Informática,Sede Sur,2022.0,alejandra.araya@gmail.com,Regular
+261.0,Maximiliano Muñoz Espinoza,15407377-5,ING. INFORMÁTICA,Concepción,2020.0,maximiliano.muñoz@outlook.com,Regular
+262.0,Fernanda Jara Hernández,24700555-7,,Sede Norte,2022.0,fernanda.jara@outlook.com,Regular
+263.0,Ignacio Bravo Bravo,12824149-1,Derecho,Concepción,2021.0,ignacio.bravo@gmail.com,Regular
+264.0,Emilio Jara Zambrano,20851755-3,Administración,Viña del Mar,2019.0,emilio.jara@gmail.com,Desertor
+265.0,Antonia Sepúlveda Soto,6496769-3,Administración,Santiago Centro,2020.0,antonia.sepúlveda@outlook.com,Regular
+266.0,Sebastián Rivera López,12576533-2,DERECHO,Viña del Mar,2023.0,sebastián.rivera@gmail.com,
+267.0,Valentina Zambrano Jara,13864968-9,Arquitectura,Sede Sur,2022.0,valentina.zambrano@outlook.com,Regular
+268.0,Gabriel Vergara Morales,19099534-7,Derecho,Sede Sur,2020.0,gabriel.vergara@gmail.com,Regular
+269.0,Maximiliano Torres Bravo,16184732-7,ING. INFORMÁTICA,Santiago Centro,2020.0,maximiliano.torres@outlook.com,
+270.0,Lucas Medina Bravo,13859283-5,Ing. Informática,Santiago Centro,2020.0,lucas.medina@gmail.com,Egresado
+271.0,Valentina Pérez Reyes,8902729-0,,Santiago Centro,2022.0,,Regular
+272.0,Bárbara Castro Morales,15139970-8,Derecho,Santiago Centro,2023.0,bárbara.castro@gmail.com,Regular
+273.0,Amanda Valenzuela Jara,14425646-8,ADMINISTRACIÓN,,2020.0,amanda.valenzuela@outlook.com,Regular
+274.0,Camila Silva Torres,6449188-9,Ing. Civil,,2020.0,,  Regular  
+275.0,Amanda Gatica Vergara,15182782-7,Ing. Civil,Sede Sur,2020.0,amanda.gatica@outlook.com,Regular
+276.0,Sebastián Bravo Araya,12288578-1,Administración,Concepción,2024.0,sebastián.bravo@outlook.com,Regular
+277.0,Gabriel Jara Pérez,23166413-1,Administración,Santiago Centro,2022.0,gabriel.jara@outlook.com,Regular
+278.0,Gabriel Tapia Núñez,16557436-6,Arquitectura,Sede Norte,2024.0,gabriel.tapia@gmail.com,Regular
+279.0,Camila Espinoza Valenzuela,5655442-5,Administración,Sede Norte,2021.0,camila.espinoza@gmail.com,Egresado
+280.0,Bárbara Tapia García,14714346-2,Ing. Informática,Viña del Mar,2023.0,bárbara.tapia@outlook.com,  Congelada  
+281.0,María Díaz Fuentes,21228559-0,Enfermería,Sede Sur,2020.0,maría.díaz@outlook.com,Regular
+282.0,Gabriel Flores Rodríguez,20267741-9,Arquitectura,Sede Sur,2024.0,gabriel.flores@outlook.com,regular
+283.0,Ana Silva Espinoza,24584921-5,  Derecho  ,Viña del Mar,2020.0,ana.silva@outlook.com,  Regular  
+284.0,Felipe Rojas Soto,24452222-4,Ing. Informática,Santiago Centro,2024.0,,Congelada
+285.0,Martín Zambrano Sepúlveda,21016168-6,Ing. Civil,Santiago Centro,2020.0,martín.zambrano@gmail.com,Regular
+286.0,Constanza Bravo Sepúlveda,,Derecho,Sede Sur,2022.0,,Regular
+287.0,Andrés Aguilera Bravo,8607187-0,ADMINISTRACIÓN,Sede Sur,2021.0,andrés.aguilera@gmail.com,Regular
+288.0,Lucas Fuentes Núñez,21244264-9,Psicología,Sede Sur,2020.0,lucas.fuentes@outlook.com,Regular
+289.0,Santiago Morales Zambrano,20859719-6,  Arquitectura  ,Santiago Centro,2024.0,santiago.morales@outlook.com,Regular
+290.0,Joaquín Araya Díaz,15290252-7,ARQUITECTURA,Sede Norte,2020.0,joaquín.araya@outlook.com,Regular
+291.0,Emilio Aguilera Gatica,17148628-4,Ing. Civil,Viña del Mar,2022.0,emilio.aguilera@outlook.com,Regular
+292.0,Amanda Díaz Soto,,Administración,Viña del Mar,2023.0,amanda.díaz@gmail.com,Congelada
+293.0,Cristóbal Flores Rojas,16456170-7,psicología,Concepción,2023.0,cristóbal.flores@gmail.com,Regular
+294.0,Fernanda González Fuentes,10028401-8,Administración,Concepción,2021.0,fernanda.gonzález@outlook.com,Regular
+295.0,Felipe Núñez González,23967460-7,Administración,,2023.0,,Regular
+296.0,Pedro Vergara Hernández,10090230-2,Derecho,Sede Sur,2020.0,pedro.vergara@gmail.com,Desertor
+297.0,Benjamín García Figueroa,17999025-9,Ing. Civil,Sede Norte,2022.0,benjamín.garcía@gmail.com,REGULAR
+298.0,Bárbara Espinoza Espinoza,12049394-4,Ing. Civil,Concepción,2020.0,bárbara.espinoza@outlook.com,Egresado
+299.0,Alejandra Contreras Rivera,22009074-5,Administración,Concepción,2020.0,alejandra.contreras@outlook.com,Regular
+300.0,Martín Gatica Bravo,14004772-0,Ing. Informática,Viña del Mar,2021.0,martín.gatica@outlook.com,Regular
+301.0,Vicente Muñoz Rivera,11818848-9,Enfermería,Sede Norte,2023.0,vicente.muñoz@gmail.com,
+302.0,Catalina Sepúlveda Espinoza,5349520-9,Psicología,Santiago Centro,2023.0,catalina.sepúlveda@outlook.com,Congelada
+303.0,Carlos Tapia Torres,22027888-4,Ing. Informática,Concepción,2023.0,carlos.tapia@gmail.com,Egresado
+304.0,Fernanda Espinoza Martínez,17758253-8,  Derecho  ,Viña del Mar,2024.0,fernanda.espinoza@gmail.com,Regular
+305.0,Alejandra Martínez Díaz,16706295-6,Psicología,Sede Sur,2020.0,alejandra.martínez@gmail.com,Regular
+306.0,Cristóbal Vergara Fuentes,5382781-6,Enfermería,Sede Norte,2022.0,cristóbal.vergara@gmail.com,Regular
+,Daniela Núñez Pérez,17715656-9,Ing. Informática,Concepción,2022.0,daniela.núñez@gmail.com,Egresado
+308.0,Diego Sepúlveda Aguilera,11106782-6,Psicología,Santiago Centro,2020.0,diego.sepúlveda@gmail.com,Egresado
+309.0,,7270941-3,Arquitectura,Concepción,2019.0,gabriel.araya@outlook.com,Regular
+310.0,Cristóbal Sepúlveda Flores,22428271-2,Ing. Civil,Santiago Centro,2020.0,cristóbal.sepúlveda@outlook.com,Regular
+311.0,Francisca Rojas Morales,18749501-8,Ing. Informática,Sede Norte,2024.0,francisca.rojas@gmail.com,  Egresado  
+312.0,Valentina Rivera Jara,20983916-0,Administración,Santiago Centro,2023.0,valentina.rivera@gmail.com,Regular
+313.0,Lorena Fuentes García,19859892-7,Derecho,Santiago Centro,2020.0,lorena.fuentes@outlook.com,Regular
+314.0,José Torres Medina,20308042-7,ING. INFORMÁTICA,Viña del Mar,2024.0,josé.torres@gmail.com,EGRESADO
+315.0,Antonia Jara Martínez,17568994-7,Psicología,Sede Norte,2019.0,antonia.jara@gmail.com,Regular
+316.0,Valentina Morales Castro,6371712-3,Ing. Informática,,2020.0,valentina.morales@outlook.com,regular
+317.0,Constanza Araya Gatica,24109352-9,Psicología,Sede Sur,2023.0,,Egresado
+318.0,Javiera Figueroa Espinoza,18632088-2,ENFERMERÍA,Sede Norte,2021.0,javiera.figueroa@outlook.com,Regular
+319.0,Ignacio Flores Bravo,17624805-3,Administración,Sede Norte,2022.0,ignacio.flores@outlook.com,Regular
+320.0,Tomás Espinoza González,21676633-7,arquitectura,Sede Sur,2019.0,tomás.espinoza@gmail.com,  Regular  
+321.0,Benjamín Muñoz Zambrano,24772270-2,Enfermería,Concepción,2021.0,benjamín.muñoz@outlook.com,Regular
+322.0,Antonia Soto Contreras,19899484-1,ARQUITECTURA,Viña del Mar,2022.0,antonia.soto@outlook.com,Regular
+323.0,Agustín Flores Pérez,7865514-0,  Derecho  ,Concepción,2021.0,agustín.flores@outlook.com,Congelada
+324.0,Macarena Zambrano Figueroa,19690292-3,Derecho,,2020.0,macarena.zambrano@outlook.com,DESERTOR
+325.0,Francisca Pérez Sepúlveda,16998742-1,  Psicología  ,Concepción,2020.0,francisca.pérez@gmail.com,Regular
+326.0,,9362627-8,  Administración  ,Sede Norte,2022.0,emilio.bravo@outlook.com,Congelada
+327.0,Diego Núñez Morales,19074171-2,Enfermería,Viña del Mar,2022.0,diego.núñez@outlook.com,Regular
+328.0,Antonia Fuentes Contreras,,Administración,Santiago Centro,2020.0,antonia.fuentes@gmail.com,Regular
+329.0,Amanda Bravo Rodríguez,,Enfermería,Concepción,2020.0,amanda.bravo@outlook.com,
+330.0,Bárbara García Aguilera,10634633-4,Psicología,Santiago Centro,2024.0,bárbara.garcía@outlook.com,Desertor
+331.0,Lorena Vergara Zambrano,11768473-2,Psicología,Viña del Mar,2022.0,lorena.vergara@outlook.com,Desertor
+332.0,Fernanda Valenzuela Valenzuela,12778866-3,Psicología,Santiago Centro,2022.0,fernanda.valenzuela@outlook.com,REGULAR
+333.0,Amanda Rivera Castro,13115353-0,Ing. Civil,Concepción,2024.0,amanda.rivera@gmail.com,Regular
+334.0,Martín Rojas Zambrano,9801556-3,Administración,Sede Sur,2022.0,martín.rojas@outlook.com,
+335.0,José Figueroa Jara,24776533-3,Arquitectura,,2023.0,josé.figueroa@outlook.com,Regular
+336.0,Isidora Gatica Fuentes,13463473-4,Derecho,Sede Norte,2024.0,isidora.gatica@gmail.com,Congelada
+337.0,Cristóbal Núñez Hernández,17719989-0,Enfermería,Santiago Centro,2023.0,cristóbal.núñez@outlook.com,Regular
+338.0,Amanda Zambrano Torres,18459876-0,Ing. Civil,Sede Norte,2020.0,amanda.zambrano@gmail.com,  Regular  
+339.0,Diego Vergara Araya,17678403-9,Derecho,Sede Norte,2023.0,diego.vergara@outlook.com,
+340.0,Emilio Rodríguez Sepúlveda,13676841-3,Enfermería,Sede Sur,2019.0,emilio.rodríguez@outlook.com,Regular
+341.0,María Bravo Díaz,5077380-6,Ing. Civil,Santiago Centro,2020.0,,Egresado
+342.0,Alejandra Espinoza García,16535672-2,Derecho,Sede Sur,2019.0,alejandra.espinoza@gmail.com,Regular
+343.0,Isidora Silva Rivera,11399809-5,DERECHO,Sede Sur,2021.0,isidora.silva@outlook.com,Regular
+344.0,Javiera Figueroa Medina,19684963-8,Ing. Civil,Viña del Mar,2019.0,javiera.figueroa@gmail.com,Regular
+345.0,Macarena Silva Díaz,18146216-5,DERECHO,Santiago Centro,2021.0,macarena.silva@outlook.com,regular
+346.0,Santiago Díaz Silva,9716907-9,Enfermería,Sede Sur,2019.0,santiago.díaz@gmail.com,REGULAR
+347.0,Camila Vergara Gatica,15251569-1,Arquitectura,Concepción,,camila.vergara@gmail.com,
+348.0,Macarena Medina Hernández,9581527-8,  Enfermería  ,Sede Norte,2021.0,macarena.medina@gmail.com,Regular
+349.0,Tomás Gatica García,16530461-3,Derecho,Santiago Centro,2020.0,tomás.gatica@gmail.com,DESERTOR
+350.0,Santiago Pérez Gatica,21186463-0,Ing. Informática,Viña del Mar,2022.0,santiago.pérez@gmail.com,  Regular  
+10.0,José Araya Contreras,18203934-8,Arquitectura,Sede Norte,2024.0,josé.araya@outlook.com,Regular
+157.0,Ana López Pérez,8637547-8,Derecho,Viña del Mar,2022.0,ana.lópez@outlook.com,Desertor
+,Tomás Muñoz Rodríguez,12781441-3,,Sede Norte,2024.0,tomás.muñoz@gmail.com,Desertor
+141.0,María Sepúlveda Rivera,7499832-4,Enfermería,Sede Norte,2023.0,maría.sepúlveda@gmail.com,Regular
+127.0,Javiera Soto Gatica,17819354-7,Ing. Civil,Sede Sur,2019.0,javiera.soto@outlook.com,Regular
+198.0,María Rivera Hernández,5361537-7,derecho,Sede Norte,,maría.rivera@outlook.com,  Regular  
+137.0,Isidora Torres Zambrano,,Derecho,Sede Sur,,isidora.torres@outlook.com,Regular
+179.0,Martín Núñez Silva,24757598-9,Psicología,Viña del Mar,2020.0,martín.núñez@outlook.com,Regular
+88.0,Daniela Rivera Flores,24051408-6,,Sede Sur,2024.0,daniela.rivera@gmail.com,Regular
+267.0,Valentina Zambrano Jara,13864968-9,Arquitectura,Sede Sur,2022.0,valentina.zambrano@outlook.com,Regular

@@ -1,0 +1,829 @@
+id_inscripcion,id_estudiante,codigo_asignatura,nombre_asignatura,seccion,semestre,anio,docente
+1,325,ASG-553,Ingles,002D,2,2024,Agustin Espinoza Vergara
+2,70,ASG-472,Algoritmos,001V,2,2022,Tomas Araya Contreras
+3,107,ASG-930,Algoritmos,001V,1,2023,Matias Jara Hernandez
+4,271,ASG-983,Programacion,001D,2,2023,Daniela Rojas Castro
+6,108,ASG-684,Algoritmos,002D,1,2022,Fernanda Valenzuela Reyes
+7,69,ASG-330,Fisica,001V,2,2022,Barbara Espinoza Medina
+8,308,ASG-736,Etica,002D,1,2022,Agustin Nunez Castro
+10,219,ASG-413,Marketing,002D,2,2024,Maximiliano Gatica Aguilera
+11,45,ASG-336,Quimica,001D,2,2024,Pedro Medina Gonzalez
+12,233,ASG-800,Redes,001D,1,2023,Lorena Garcia Espinoza
+13,189,ASG-688,Ingles,003D,2,2023,Docente No Informado
+14,348,ASG-509,Algoritmos,001V,2,2023,Macarena Medina Gonzalez
+15,122,ASG-701,Ingles,001V,2,2023,Pedro Valenzuela Torres
+16,65,ASG-119,Calculo I,001V,2,2024,Sebastian Zambrano Jara
+17,149,ASG-383,Redes,001V,1,2023,Emilio Nunez Lopez
+18,249,ASG-427,Redes,002D,1,2022,Felipe Rojas Valenzuela
+19,67,ASG-974,Algoritmos,001V,2,2024,Barbara Contreras Silva
+20,350,ASG-317,Quimica,003D,1,2023,Pedro Valenzuela Contreras
+21,59,ASG-857,Estadistica,001V,1,2022,Emilio Tapia Diaz
+22,115,ASG-896,Fisica,001V,1,2022,Carlos Bravo Munoz
+23,116,ASG-787,Algoritmos,001V,2,2022,Matias Soto Bravo
+24,237,ASG-704,Calculo I,002D,1,2023,Tomas Reyes Soto
+25,47,ASG-985,Quimica,002D,1,2024,Gabriel Vergara Tapia
+26,109,ASG-287,Algoritmos,003D,1,2024,Benjamin Bravo Hernandez
+27,274,ASG-910,Fisica,002D,1,2024,Sebastian Hernandez Aguilera
+28,113,ASG-805,Fisica,001V,1,2022,Isidora Araya Vergara
+29,33,ASG-455,Base De Datos,003D,2,2024,Francisca Morales Hernandez
+30,280,ASG-278,Estadistica,001D,2,2023,Emilio Contreras Zambrano
+31,292,ASG-625,Etica,001V,1,2024,Marcela Munoz Fuentes
+32,316,ASG-580,Redes,003D,2,2024,Sebastian Figueroa Garcia
+33,162,ASG-671,Algoritmos,001D,1,2024,Maria Diaz Nunez
+34,90,ASG-810,Calculo I,002D,2,2024,Paula Rodriguez Castro
+35,51,ASG-327,Etica,001D,2,2023,Cristobal Espinoza Rivera
+36,144,ASG-442,Estadistica,002D,2,2024,Javiera Castro Silva
+37,104,ASG-567,Estadistica,003D,2,2022,Paula Zambrano Medina
+38,170,ASG-302,Ingles,002D,2,2024,Catalina Contreras Medina
+39,16,ASG-354,Ingles,002D,2,2022,Docente No Informado
+40,133,ASG-947,Redes,003D,2,2022,Sofia Bravo Flores
+41,170,ASG-917,Base De Datos,003D,1,2022,Alejandra Sepulveda Lopez
+42,30,ASG-945,Fisica,001V,2,2023,Carolina Rivera Aguilera
+43,160,ASG-623,Estadistica,001V,1,2022,Joaquin Vergara Garcia
+44,147,ASG-200,Algoritmos,003D,1,2022,Paula Sepulveda Zambrano
+45,307,ASG-326,Algoritmos,002D,1,2024,Santiago Castro Medina
+46,237,ASG-SINCOD,Fisica,001D,2,2023,Santiago Soto Gatica
+47,175,ASG-120,Calculo I,003D,2,2023,Valentina Garcia Bravo
+48,72,ASG-592,Marketing,001D,2,2023,Emilio Lopez Silva
+49,127,ASG-338,Algoritmos,001V,1,2022,Ignacio Castro Valenzuela
+50,196,ASG-383,Algoritmos,001V,2,2022,Carlos Tapia Gonzalez
+51,185,ASG-448,Marketing,003D,2,2022,Francisca Figueroa Contreras
+52,150,ASG-354,Redes,003D,1,2024,Ignacio Hernandez Jara
+53,214,ASG-744,Etica,002D,1,2022,Macarena Martinez Silva
+54,94,ASG-958,Redes,001V,2,2023,Camila Castro Martinez
+55,58,ASG-795,Algoritmos,001V,2,2023,Antonia Munoz Espinoza
+56,219,ASG-SINCOD,Algoritmos,003D,2,2024,Natalia Lopez Figueroa
+57,219,ASG-151,Etica,001D,2,2023,Nicolas Espinoza Nunez
+58,13,ASG-285,Fisica,002D,1,2022,Daniela Fuentes Valenzuela
+59,283,ASG-335,Etica,001V,1,2024,Maria Contreras Reyes
+60,140,ASG-533,Algoritmos,001D,1,2023,Santiago Jara Figueroa
+61,274,ASG-417,Base De Datos,001V,2,2022,Alejandra Gonzalez Hernandez
+62,119,ASG-203,Redes,001D,2,2024,Agustin Garcia Gatica
+63,271,ASG-965,Redes,002D,2,2024,Santiago Martinez Zambrano
+64,97,ASG-283,Ingles,002D,2,2024,Diego Espinoza Espinoza
+65,330,ASG-256,Programacion,002D,2,2024,Natalia Sepulveda Figueroa
+66,47,ASG-400,Algoritmos,001V,1,2024,Martin Martinez Diaz
+67,152,ASG-876,Estadistica,003D,1,2022,Antonia Munoz Rodriguez
+68,173,ASG-587,Programacion,001V,2,2023,Joaquin Diaz Gonzalez
+69,275,ASG-SINCOD,Algoritmos,001V,1,2024,Ana Soto Silva
+70,347,ASG-122,Programacion,002D,2,2023,Santiago Diaz Soto
+71,237,ASG-748,Algoritmos,003D,2,2023,Docente No Informado
+72,31,ASG-683,Fisica,003D,2,2023,Vicente Perez Medina
+73,213,ASG-651,Ingles,003D,2,2022,Felipe Gatica Gatica
+74,272,ASG-483,Estadistica,003D,2,2023,Paula Flores Soto
+75,78,ASG-295,Algoritmos,002D,2,2023,Andres Soto Hernandez
+76,279,ASG-831,Fisica,003D,1,2023,Maria Diaz Flores
+77,41,ASG-SINCOD,Fisica,001D,1,2024,Andres Lopez Aguilera
+78,146,ASG-569,Redes,001D,2,2024,Isidora Castro Diaz
+79,12,ASG-261,Base De Datos,001V,2,2023,Marcela Espinoza Zambrano
+80,248,ASG-156,Algoritmos,002D,2,2022,Andres Lopez Fuentes
+81,229,ASG-347,Base De Datos,001V,1,2024,Pedro Diaz Gatica
+82,331,ASG-335,Quimica,001V,2,2024,Santiago Gatica Aguilera
+84,341,ASG-SINCOD,Ingles,001D,1,2023,Cristobal Garcia Araya
+85,160,ASG-431,Redes,001D,2,2023,Docente No Informado
+86,221,ASG-174,Programacion,003D,1,2024,Pedro Martinez Martinez
+87,327,ASG-509,Programacion,003D,1,2023,Pedro Aguilera Martinez
+88,164,ASG-149,Programacion,002D,1,2023,Andres Munoz Araya
+89,168,ASG-228,Ingles,001V,2,2023,Javiera Soto Aguilera
+91,70,ASG-941,Calculo I,001V,2,2022,Ignacio Castro Perez
+92,260,ASG-235,Estadistica,002D,1,2024,Cristobal Hernandez Munoz
+93,63,ASG-434,Calculo I,001D,2,2024,Sofia Lopez Araya
+94,246,ASG-198,Base De Datos,003D,1,2023,Nicolas Silva Tapia
+95,50,ASG-938,Calculo I,001V,1,2022,Agustin Garcia Tapia
+96,286,ASG-129,Marketing,001D,1,2022,Maximiliano Lopez Jara
+97,234,ASG-SINCOD,Redes,001D,2,2022,Cristobal Perez Araya
+98,16,ASG-825,Quimica,001D,2,2024,Macarena Tapia Bravo
+99,4,ASG-191,Redes,003D,1,2023,Maria Garcia Sepulveda
+100,282,ASG-474,Ingles,001V,1,2023,Sebastian Perez Hernandez
+101,157,ASG-465,Algoritmos,003D,1,2022,Santiago Rodriguez Vergara
+102,220,ASG-432,Programacion,001D,1,2022,Andres Sepulveda Espinoza
+103,348,ASG-647,Ingles,001D,2,2022,Macarena Contreras Rodriguez
+104,51,ASG-979,Base De Datos,001V,2,2024,Joaquin Garcia Medina
+105,42,ASG-610,Etica,001V,1,2023,Natalia Gatica Jara
+106,135,ASG-155,Contabilidad,003D,2,2022,Matias Rodriguez Jara
+108,259,ASG-701,Calculo I,003D,1,2023,Nicolas Nunez Aguilera
+109,191,ASG-373,Contabilidad,001D,2,2023,Fernanda Garcia Tapia
+110,256,ASG-749,Redes,001V,2,2023,Lucas Tapia Flores
+112,276,ASG-153,Marketing,001V,1,2023,Isidora Hernandez Hernandez
+113,73,ASG-379,Programacion,001V,2,2024,Carlos Tapia Gatica
+114,74,ASG-255,Redes,001V,2,2022,Docente No Informado
+115,123,ASG-255,Algoritmos,002D,1,2024,Martin Torres Zambrano
+116,70,ASG-763,Ingles,003D,2,2023,Valentina Vergara Jara
+117,79,ASG-937,Contabilidad,002D,1,2024,Gabriel Diaz Castro
+118,248,ASG-803,Fisica,001V,2,2023,Matias Zambrano Aguilera
+119,187,ASG-791,Programacion,001V,2,2023,Ignacio Diaz Morales
+121,298,ASG-449,Calculo I,001V,1,2022,Jose Bravo Castro
+122,44,ASG-502,Contabilidad,002D,1,2023,Catalina Medina Morales
+123,247,ASG-412,Contabilidad,002D,1,2024,Camila Araya Rodriguez
+124,336,ASG-172,Programacion,002D,2,2023,Daniela Espinoza Munoz
+125,226,ASG-180,Ingles,003D,2,2024,Javiera Sepulveda Lopez
+126,67,ASG-707,Redes,001D,2,2022,Martin Flores Nunez
+127,276,ASG-735,Contabilidad,003D,2,2023,Pedro Gonzalez Rodriguez
+128,253,ASG-260,Algoritmos,001V,2,2022,Paula Jara Rivera
+129,303,ASG-480,Contabilidad,003D,2,2022,Santiago Torres Medina
+130,280,ASG-932,Quimica,001D,2,2022,Sebastian Medina Lopez
+131,179,ASG-481,Algoritmos,001D,1,2022,Agustin Rivera Torres
+132,279,ASG-976,Estadistica,001V,2,2022,Natalia Jara Rivera
+133,129,ASG-189,Quimica,001D,2,2023,Pedro Sepulveda Gatica
+134,115,ASG-234,Redes,002D,2,2022,Benjamin Bravo Soto
+135,322,ASG-428,Base De Datos,001V,2,2024,Pedro Perez Zambrano
+136,274,ASG-338,Calculo I,002D,2,2022,Marcela Fuentes Espinoza
+137,202,ASG-622,Algoritmos,002D,1,2022,Macarena Gonzalez Fuentes
+138,117,ASG-920,Algoritmos,002D,2,2023,Docente No Informado
+139,35,ASG-932,Algoritmos,002D,2,2024,Gabriel Espinoza Medina
+140,106,ASG-136,Programacion,003D,2,2022,Amanda Contreras Contreras
+141,249,ASG-597,Algoritmos,001D,1,2022,Matias Figueroa Reyes
+142,152,ASG-889,Etica,001V,2,2022,Matias Fuentes Fuentes
+144,295,ASG-177,Base De Datos,001V,1,2023,Francisca Espinoza Garcia
+147,256,ASG-964,Algoritmos,001D,2,2023,Cristobal Martinez Flores
+148,91,ASG-SINCOD,Algoritmos,001V,1,2022,Macarena Hernandez Morales
+149,218,ASG-942,Fisica,001V,1,2024,Camila Rojas Zambrano
+150,139,ASG-850,Algoritmos,002D,2,2024,Marcela Aguilera Aguilera
+151,177,ASG-453,Algoritmos,001V,2,2023,Felipe Soto Morales
+152,291,ASG-121,Ingles,002D,2,2022,Cristobal Valenzuela Hernandez
+153,340,ASG-457,Etica,001V,2,2024,Amanda Rivera Reyes
+154,76,ASG-832,Calculo I,001D,2,2024,Lucas Rivera Sepulveda
+155,57,ASG-860,Base De Datos,001D,1,2022,Constanza Gonzalez Zambrano
+156,28,ASG-328,Quimica,001D,2,2023,Andres Gonzalez Perez
+157,322,ASG-846,Fisica,003D,1,2023,Paula Valenzuela Munoz
+158,321,ASG-805,Fisica,001V,2,2024,Carolina Reyes Martinez
+159,150,ASG-417,Etica,003D,1,2022,Lucas Zambrano Gatica
+160,307,ASG-725,Base De Datos,001D,1,2022,Marcela Perez Tapia
+161,347,ASG-360,Algoritmos,001V,2,2022,Marcela Morales Torres
+162,199,ASG-880,Algoritmos,003D,1,2024,Paula Tapia Fuentes
+163,164,ASG-170,Contabilidad,001D,2,2023,Cristobal Espinoza Jara
+164,182,ASG-731,Programacion,001D,2,2023,Pedro Morales Jara
+165,240,ASG-830,Calculo I,001V,2,2023,Gabriel Vergara Soto
+166,242,ASG-995,Algoritmos,001V,1,2023,Marcela Munoz Munoz
+167,66,ASG-581,Algoritmos,002D,2,2023,Francisca Soto Rojas
+168,171,ASG-212,Calculo I,001V,2,2024,Maximiliano Silva Nunez
+169,133,ASG-441,Calculo I,001D,2,2024,Lucas Gatica Martinez
+170,81,ASG-SINCOD,Marketing,002D,2,2023,Andres Tapia Rodriguez
+171,165,ASG-609,Base De Datos,001V,1,2023,Javiera Diaz Gonzalez
+173,51,ASG-874,Etica,001D,2,2023,Benjamin Martinez Martinez
+174,72,ASG-421,Etica,001V,2,2023,Catalina Jara Rojas
+175,43,ASG-SINCOD,Programacion,001D,2,2023,Sofia Aguilera Hernandez
+176,323,ASG-608,Programacion,001D,2,2022,Maria Lopez Bravo
+177,321,ASG-224,Quimica,001V,1,2023,Marcela Sepulveda Bravo
+178,318,ASG-501,Algoritmos,003D,1,2022,Felipe Medina Vergara
+179,216,ASG-542,Algoritmos,001V,1,2023,Javiera Silva Tapia
+180,191,ASG-916,Calculo I,003D,2,2023,Emilio Sepulveda Munoz
+181,158,ASG-336,Etica,001V,2,2024,Agustin Silva Araya
+182,90,ASG-277,Redes,001D,1,2024,Daniela Hernandez Silva
+183,104,ASG-627,Etica,001D,2,2024,Amanda Tapia Castro
+184,51,ASG-746,Redes,003D,1,2022,Carolina Zambrano Nunez
+185,254,ASG-765,Contabilidad,003D,2,2022,Maria Garcia Fuentes
+186,107,ASG-234,Etica,001V,2,2023,Maria Gatica Figueroa
+187,294,ASG-384,Contabilidad,003D,1,2022,Fernanda Gatica Perez
+188,236,ASG-519,Estadistica,001V,2,2024,Jose Castro Contreras
+189,323,ASG-351,Estadistica,002D,2,2022,Amanda Espinoza Gatica
+190,333,ASG-117,Contabilidad,003D,1,2023,Natalia Medina Gonzalez
+191,105,ASG-960,Marketing,001D,2,2022,Jose Reyes Reyes
+192,255,ASG-SINCOD,Algoritmos,003D,1,2024,Antonia Munoz Contreras
+193,304,ASG-540,Base De Datos,001D,1,2023,Antonia Contreras Torres
+195,72,ASG-862,Calculo I,002D,2,2023,Natalia Araya Morales
+196,117,ASG-520,Programacion,003D,1,2023,Barbara Gonzalez Martinez
+197,130,ASG-237,Algoritmos,001V,2,2022,Tomas Contreras Silva
+198,120,ASG-965,Algoritmos,001D,1,2023,Gabriel Gonzalez Jara
+199,213,ASG-972,Algoritmos,002D,2,2022,Jose Araya Araya
+200,229,ASG-176,Marketing,003D,1,2024,Diego Lopez Silva
+201,183,ASG-787,Programacion,002D,1,2024,Antonia Morales Vergara
+202,134,ASG-785,Programacion,003D,2,2022,Francisca Morales Garcia
+203,339,ASG-993,Contabilidad,001D,1,2022,Matias Martinez Diaz
+204,231,ASG-649,Fisica,003D,1,2023,Martin Flores Lopez
+206,246,ASG-473,Redes,002D,2,2023,Catalina Rivera Bravo
+207,252,ASG-833,Ingles,001D,2,2024,Ana Nunez Torres
+208,225,ASG-542,Algoritmos,001D,1,2022,Daniela Rodriguez Vergara
+209,157,ASG-343,Contabilidad,001V,2,2024,Marcela Lopez Figueroa
+210,119,ASG-423,Marketing,001V,1,2022,Carlos Contreras Soto
+211,94,ASG-234,Algoritmos,001D,2,2024,Camila Vergara Morales
+212,228,ASG-109,Redes,001V,2,2022,Martin Jara Flores
+213,186,ASG-994,Estadistica,001V,1,2022,Marcela Tapia Rodriguez
+214,334,ASG-897,Marketing,001V,2,2023,Macarena Valenzuela Rodriguez
+215,185,ASG-100,Redes,003D,2,2023,Daniela Rojas Hernandez
+216,280,ASG-569,Estadistica,001D,1,2022,Valentina Valenzuela Bravo
+217,230,ASG-546,Calculo I,003D,2,2023,Lucas Munoz Garcia
+218,265,ASG-174,Quimica,001D,1,2022,Jose Gatica Rivera
+219,158,ASG-420,Redes,002D,1,2022,Docente No Informado
+220,77,ASG-142,Fisica,001V,2,2024,Natalia Zambrano Silva
+221,82,ASG-396,Etica,001D,2,2023,Lucas Tapia Perez
+222,181,ASG-257,Estadistica,001D,2,2023,Isidora Martinez Rodriguez
+223,342,ASG-SINCOD,Marketing,001D,1,2024,Agustin Hernandez Figueroa
+224,196,ASG-421,Calculo I,003D,2,2022,Antonia Reyes Figueroa
+225,60,ASG-721,Algoritmos,002D,1,2023,Agustin Rodriguez Rojas
+226,151,ASG-675,Quimica,002D,2,2022,Martin Rivera Araya
+227,61,ASG-775,Quimica,001D,2,2023,Benjamin Jara Valenzuela
+228,135,ASG-494,Ingles,001V,1,2023,Alejandra Soto Contreras
+229,331,ASG-612,Contabilidad,001V,2,2022,Marcela Lopez Valenzuela
+231,253,ASG-467,Quimica,003D,2,2023,Isidora Vergara Medina
+232,106,ASG-783,Fisica,001V,2,2023,Vicente Sepulveda Valenzuela
+233,233,ASG-767,Redes,002D,2,2024,Nicolas Jara Contreras
+234,170,ASG-530,Algoritmos,001V,2,2024,Valentina Castro Gonzalez
+235,217,ASG-709,Redes,001V,1,2024,Carolina Rivera Aguilera
+236,348,ASG-556,Fisica,001D,2,2024,Emilio Medina Rojas
+237,14,ASG-571,Contabilidad,001V,2,2022,Diego Rivera Morales
+238,16,ASG-998,Etica,001D,2,2023,Constanza Silva Fuentes
+239,219,ASG-179,Estadistica,002D,1,2024,Felipe Castro Aguilera
+240,169,ASG-413,Etica,001V,2,2023,Agustin Castro Diaz
+242,243,ASG-802,Contabilidad,001D,2,2023,Fernanda Medina Tapia
+243,319,ASG-320,Fisica,002D,2,2022,Marcela Perez Martinez
+244,8,ASG-809,Redes,001V,2,2023,Santiago Flores Aguilera
+245,283,ASG-532,Fisica,003D,2,2023,Natalia Hernandez Gonzalez
+246,111,ASG-124,Redes,001V,2,2022,Marcela Torres Bravo
+247,40,ASG-617,Calculo I,001D,1,2023,Joaquin Contreras Silva
+248,68,ASG-143,Contabilidad,001V,1,2022,Catalina Zambrano Martinez
+249,123,ASG-863,Ingles,002D,2,2023,Macarena Contreras Vergara
+250,317,ASG-883,Ingles,002D,2,2023,Docente No Informado
+251,166,ASG-707,Fisica,003D,2,2024,Javiera Aguilera Torres
+252,203,ASG-138,Fisica,003D,1,2023,Lucas Aguilera Rivera
+253,128,ASG-211,Estadistica,001D,2,2024,Sofia Flores Figueroa
+254,152,ASG-145,Quimica,003D,1,2024,Lorena Flores Espinoza
+255,146,ASG-180,Estadistica,003D,2,2022,Maximiliano Contreras Gatica
+258,251,ASG-872,Contabilidad,001V,2,2022,Lorena Gonzalez Zambrano
+259,77,ASG-527,Redes,001D,2,2024,Catalina Torres Reyes
+260,220,ASG-850,Estadistica,001V,1,2023,Paula Nunez Bravo
+261,348,ASG-198,Fisica,003D,2,2022,Martin Medina Gatica
+262,228,ASG-969,Algoritmos,003D,1,2022,Isidora Bravo Silva
+263,118,ASG-151,Fisica,003D,1,2022,Carlos Valenzuela Espinoza
+264,267,ASG-850,Contabilidad,001V,2,2024,Natalia Morales Tapia
+265,235,ASG-321,Ingles,002D,1,2022,Andres Castro Vergara
+266,168,ASG-714,Etica,003D,2,2023,Tomas Hernandez Nunez
+267,260,ASG-252,Algoritmos,003D,2,2023,Benjamin Rivera Contreras
+268,193,ASG-597,Quimica,002D,2,2023,Daniela Munoz Gatica
+269,184,ASG-951,Calculo I,002D,2,2024,Catalina Vergara Flores
+270,10,ASG-625,Contabilidad,001D,1,2022,Javiera Aguilera Vergara
+271,337,ASG-637,Base De Datos,001D,2,2023,Cristobal Diaz Medina
+272,327,ASG-612,Fisica,001V,1,2022,Agustin Tapia Figueroa
+273,141,ASG-670,Calculo I,002D,2,2022,Maximiliano Jara Valenzuela
+274,22,ASG-200,Estadistica,001D,1,2023,Maximiliano Hernandez Torres
+275,312,ASG-650,Programacion,003D,2,2024,Antonia Araya Perez
+277,92,ASG-312,Programacion,003D,2,2023,Isidora Fuentes Nunez
+278,97,ASG-139,Calculo I,003D,2,2024,Marcela Rojas Torres
+279,141,ASG-387,Ingles,003D,2,2022,Javiera Diaz Valenzuela
+280,257,ASG-918,Contabilidad,001V,1,2022,Lorena Contreras Medina
+281,38,ASG-500,Estadistica,002D,2,2024,Macarena Castro Contreras
+282,247,ASG-772,Calculo I,001V,2,2023,Marcela Lopez Jara
+283,256,ASG-217,Algoritmos,001D,1,2024,Santiago Munoz Gonzalez
+284,298,ASG-495,Programacion,001D,1,2023,Alejandra Flores Fuentes
+285,85,ASG-348,Estadistica,002D,2,2024,Joaquin Morales Sepulveda
+286,37,ASG-668,Ingles,002D,1,2022,Felipe Lopez Flores
+287,185,ASG-635,Estadistica,001D,1,2024,Martin Reyes Gonzalez
+288,98,ASG-216,Marketing,002D,2,2024,Catalina Lopez Araya
+289,318,ASG-517,Quimica,002D,1,2023,Natalia Vergara Martinez
+290,30,ASG-620,Calculo I,003D,1,2023,Carolina Vergara Rojas
+291,191,ASG-584,Etica,001V,1,2023,Constanza Hernandez Soto
+292,338,ASG-824,Algoritmos,001V,2,2024,Andres Espinoza Jara
+293,279,ASG-648,Algoritmos,001V,1,2024,Felipe Morales Medina
+295,322,ASG-460,Contabilidad,003D,2,2022,Camila Reyes Valenzuela
+296,189,ASG-SINCOD,Fisica,002D,1,2023,Sofia Gatica Diaz
+297,258,ASG-640,Calculo I,002D,2,2024,Felipe Martinez Martinez
+298,155,ASG-936,Calculo I,003D,2,2024,Catalina Bravo Zambrano
+299,319,ASG-801,Contabilidad,001V,2,2023,Alejandra Perez Reyes
+300,228,ASG-461,Etica,001D,2,2023,Amanda Vergara Rojas
+301,5,ASG-530,Fisica,003D,1,2024,Natalia Garcia Rivera
+302,129,ASG-710,Algoritmos,003D,2,2024,Martin Figueroa Rivera
+303,74,ASG-146,Estadistica,001V,2,2022,Benjamin Rojas Sepulveda
+304,24,ASG-458,Marketing,001D,2,2023,Carlos Rojas Araya
+305,315,ASG-742,Base De Datos,001V,1,2023,Camila Zambrano Gatica
+306,279,ASG-136,Ingles,001V,2,2023,Pedro Lopez Araya
+307,206,ASG-776,Redes,001D,2,2024,Isidora Gatica Figueroa
+308,146,ASG-705,Base De Datos,001D,2,2024,Emilio Bravo Zambrano
+309,89,ASG-490,Marketing,001D,1,2022,Daniela Silva Morales
+310,22,ASG-442,Base De Datos,002D,1,2023,Diego Garcia Soto
+311,300,ASG-509,Contabilidad,001D,1,2024,Cristobal Sepulveda Zambrano
+312,44,ASG-876,Redes,001V,2,2023,Marcela Gonzalez Araya
+313,37,ASG-670,Quimica,001D,1,2022,Martin Munoz Valenzuela
+314,7,ASG-649,Quimica,002D,1,2022,Docente No Informado
+315,280,ASG-876,Estadistica,001V,2,2024,Docente No Informado
+316,169,ASG-SINCOD,Contabilidad,001D,2,2024,Lorena Munoz Figueroa
+317,70,ASG-489,Redes,001D,1,2022,Joaquin Reyes Reyes
+318,213,ASG-590,Estadistica,001V,2,2022,Vicente Rivera Garcia
+319,71,ASG-280,Redes,001V,2,2024,Santiago Gonzalez Gatica
+320,207,ASG-SINCOD,Fisica,001D,2,2024,Francisca Figueroa Jara
+321,72,ASG-135,Calculo I,002D,1,2024,Antonia Vergara Diaz
+323,180,ASG-590,Redes,003D,2,2024,Antonia Tapia Gonzalez
+324,208,ASG-259,Programacion,001D,2,2022,Alejandra Torres Torres
+326,195,ASG-599,Estadistica,001V,2,2024,Sebastian Martinez Torres
+327,301,ASG-260,Redes,001D,2,2022,Vicente Lopez Diaz
+329,154,ASG-101,Redes,001D,2,2023,Jose Aguilera Rodriguez
+330,154,ASG-841,Ingles,002D,2,2023,Catalina Espinoza Castro
+331,30,ASG-753,Fisica,003D,1,2023,Santiago Sepulveda Tapia
+332,27,ASG-SINCOD,Algoritmos,001V,2,2023,Emilio Munoz Rodriguez
+333,240,ASG-214,Programacion,001D,2,2022,Marcela Rodriguez Sepulveda
+334,243,ASG-789,Redes,001D,2,2022,Ana Valenzuela Figueroa
+335,132,ASG-784,Contabilidad,002D,2,2023,Antonia Munoz Espinoza
+336,179,ASG-SINCOD,Marketing,003D,2,2023,Diego Medina Rojas
+337,339,ASG-397,Estadistica,001V,2,2023,Amanda Medina Munoz
+338,98,ASG-558,Quimica,003D,1,2023,Pedro Vergara Contreras
+340,237,ASG-747,Ingles,001D,2,2023,Javiera Fuentes Gatica
+341,335,ASG-297,Algoritmos,001D,1,2022,Isidora Rojas Medina
+342,138,ASG-SINCOD,Ingles,001D,1,2023,Amanda Zambrano Morales
+343,118,ASG-315,Contabilidad,002D,1,2023,Camila Castro Rodriguez
+344,106,ASG-460,Quimica,002D,2,2022,Pedro Lopez Garcia
+346,46,ASG-389,Algoritmos,001D,2,2022,Agustin Morales Castro
+347,104,ASG-118,Algoritmos,001D,2,2024,Lorena Sepulveda Silva
+348,70,ASG-577,Contabilidad,001D,2,2024,Maria Vergara Hernandez
+349,207,ASG-628,Quimica,003D,2,2022,Jose Zambrano Soto
+350,221,ASG-328,Estadistica,002D,2,2024,Matias Rodriguez Araya
+352,3,ASG-841,Calculo I,003D,2,2024,Sofia Flores Hernandez
+353,298,ASG-829,Base De Datos,001V,1,2022,Lorena Medina Valenzuela
+354,231,ASG-899,Fisica,001V,2,2023,Fernanda Rodriguez Medina
+355,118,ASG-129,Etica,003D,1,2024,Ana Jara Reyes
+356,311,ASG-SINCOD,Ingles,001D,2,2023,Paula Jara Torres
+357,114,ASG-327,Ingles,001V,1,2023,Lucas Valenzuela Morales
+358,202,ASG-150,Algoritmos,003D,1,2024,Carolina Sepulveda Diaz
+359,30,ASG-887,Redes,001V,2,2024,Docente No Informado
+360,247,ASG-509,Programacion,001V,2,2023,Matias Aguilera Munoz
+361,81,ASG-718,Programacion,001D,2,2024,Valentina Morales Araya
+362,246,ASG-554,Algoritmos,001V,2,2022,Emilio Diaz Reyes
+363,184,ASG-632,Quimica,001D,2,2022,Nicolas Araya Araya
+364,273,ASG-878,Contabilidad,002D,2,2024,Francisca Flores Jara
+365,33,ASG-712,Etica,003D,1,2023,Andres Bravo Torres
+366,102,ASG-698,Calculo I,001D,2,2024,Vicente Gonzalez Araya
+367,277,ASG-743,Marketing,001D,1,2022,Jose Tapia Gatica
+368,111,ASG-683,Redes,003D,1,2023,Benjamin Sepulveda Gatica
+369,206,ASG-480,Redes,001D,1,2024,Antonia Rodriguez Figueroa
+370,266,ASG-205,Contabilidad,001V,2,2022,Macarena Fuentes Valenzuela
+371,215,ASG-756,Marketing,001D,2,2023,Carolina Medina Gatica
+372,103,ASG-361,Base De Datos,001D,1,2022,Ignacio Torres Gatica
+373,295,ASG-454,Fisica,001V,1,2024,Maria Valenzuela Gonzalez
+374,78,ASG-390,Redes,003D,2,2023,Agustin Bravo Araya
+375,175,ASG-722,Fisica,001D,2,2022,Martin Zambrano Medina
+376,342,ASG-661,Redes,002D,2,2022,Macarena Diaz Tapia
+377,52,ASG-309,Marketing,003D,2,2022,Valentina Sepulveda Flores
+378,297,ASG-521,Contabilidad,002D,2,2022,Maximiliano Medina Sepulveda
+379,175,ASG-572,Algoritmos,002D,1,2022,Lucas Nunez Sepulveda
+380,343,ASG-181,Ingles,002D,1,2023,Daniela Aguilera Diaz
+381,199,ASG-366,Algoritmos,001D,1,2024,Agustin Martinez Flores
+382,88,ASG-496,Algoritmos,001V,2,2023,Sofia Espinoza Perez
+383,171,ASG-592,Algoritmos,001D,1,2023,Lorena Castro Gatica
+384,37,ASG-369,Algoritmos,002D,1,2023,Camila Valenzuela Munoz
+385,123,ASG-677,Algoritmos,002D,1,2024,Docente No Informado
+386,201,ASG-136,Etica,001V,2,2022,Alejandra Perez Aguilera
+387,64,ASG-545,Marketing,001V,2,2022,Amanda Rojas Vergara
+388,188,ASG-488,Quimica,002D,2,2024,Joaquin Espinoza Flores
+389,215,ASG-639,Base De Datos,001V,2,2023,Maria Lopez Perez
+390,243,ASG-627,Base De Datos,002D,1,2024,Lorena Espinoza Castro
+391,150,ASG-840,Fisica,002D,1,2024,Isidora Zambrano Figueroa
+392,124,ASG-527,Contabilidad,003D,2,2023,Cristobal Perez Sepulveda
+393,198,ASG-560,Redes,001V,2,2023,Macarena Aguilera Lopez
+394,36,ASG-481,Fisica,002D,2,2022,Camila Rodriguez Gatica
+395,302,ASG-170,Base De Datos,001V,1,2022,Andres Figueroa Garcia
+396,278,ASG-989,Contabilidad,003D,2,2022,Francisca Bravo Soto
+397,35,ASG-674,Redes,002D,1,2024,Daniela Munoz Soto
+398,113,ASG-445,Fisica,001V,2,2023,Emilio Soto Gatica
+399,175,ASG-SINCOD,Contabilidad,001V,2,2023,Carolina Munoz Aguilera
+400,33,ASG-603,Algoritmos,001D,2,2022,Docente No Informado
+401,213,ASG-203,Estadistica,001D,1,2024,Ignacio Gonzalez Flores
+402,203,ASG-186,Etica,001V,2,2024,Marcela Espinoza Torres
+404,56,ASG-411,Calculo I,003D,1,2023,Carlos Zambrano Medina
+405,323,ASG-462,Redes,001V,2,2023,Lorena Contreras Diaz
+406,13,ASG-541,Fisica,001D,1,2023,Ignacio Reyes Diaz
+407,50,ASG-146,Ingles,003D,2,2024,Tomas Hernandez Hernandez
+408,248,ASG-459,Algoritmos,001D,2,2022,Amanda Figueroa Valenzuela
+409,233,ASG-784,Calculo I,003D,2,2023,Agustin Castro Valenzuela
+410,28,ASG-722,Etica,001D,2,2023,Sofia Reyes Araya
+411,104,ASG-914,Marketing,001V,1,2023,Valentina Diaz Jara
+412,96,ASG-474,Marketing,001D,1,2024,Pedro Soto Rojas
+413,343,ASG-940,Estadistica,003D,2,2022,Emilio Gonzalez Diaz
+414,344,ASG-511,Base De Datos,003D,2,2024,Marcela Zambrano Diaz
+415,193,ASG-312,Calculo I,003D,1,2022,Diego Torres Figueroa
+416,125,ASG-410,Base De Datos,002D,1,2024,Jose Rodriguez Gonzalez
+417,81,ASG-354,Fisica,002D,1,2023,Francisca Diaz Sepulveda
+419,330,ASG-191,Fisica,001V,2,2022,Matias Hernandez Rodriguez
+420,83,ASG-615,Contabilidad,003D,1,2024,Carlos Soto Gonzalez
+421,24,ASG-149,Etica,001V,1,2022,Marcela Rodriguez Zambrano
+422,114,ASG-740,Calculo I,003D,2,2024,Francisca Zambrano Bravo
+423,15,ASG-771,Quimica,003D,2,2023,Lorena Medina Vergara
+424,113,ASG-549,Programacion,001V,1,2022,Cristobal Hernandez Tapia
+425,342,ASG-314,Etica,001V,2,2022,Martin Valenzuela Nunez
+426,250,ASG-702,Algoritmos,002D,1,2023,Docente No Informado
+427,145,ASG-250,Programacion,003D,2,2023,Sofia Castro Gatica
+429,9,ASG-837,Quimica,001V,2,2023,Tomas Soto Espinoza
+430,320,ASG-133,Marketing,002D,1,2023,Docente No Informado
+431,185,ASG-237,Algoritmos,002D,2,2023,Javiera Valenzuela Reyes
+432,38,ASG-457,Algoritmos,001D,1,2024,Carlos Figueroa Soto
+433,211,ASG-641,Contabilidad,001V,2,2024,Felipe Garcia Medina
+434,134,ASG-954,Contabilidad,002D,2,2023,Docente No Informado
+435,102,ASG-454,Estadistica,001D,2,2024,Amanda Espinoza Valenzuela
+437,93,ASG-439,Algoritmos,003D,2,2024,Maria Aguilera Jara
+438,290,ASG-876,Marketing,001V,1,2024,Antonia Torres Soto
+439,140,ASG-909,Contabilidad,002D,2,2023,Macarena Nunez Rojas
+440,295,ASG-319,Quimica,001D,2,2024,Francisca Aguilera Nunez
+441,262,ASG-345,Programacion,001D,1,2024,Paula Espinoza Aguilera
+442,81,ASG-889,Etica,001V,1,2024,Maximiliano Soto Bravo
+443,32,ASG-SINCOD,Contabilidad,001D,2,2023,Fernanda Rojas Flores
+444,188,ASG-820,Quimica,001D,2,2023,Ana Fuentes Vergara
+446,166,ASG-593,Marketing,002D,1,2022,Tomas Rojas Rivera
+447,147,ASG-913,Etica,001V,2,2024,Benjamin Gatica Gatica
+448,245,ASG-SINCOD,Quimica,002D,1,2023,Antonia Munoz Tapia
+450,9,ASG-793,Calculo I,001D,1,2022,Francisca Garcia Jara
+451,156,ASG-304,Programacion,001V,2,2023,Sofia Valenzuela Contreras
+452,318,ASG-201,Fisica,002D,2,2023,Diego Silva Soto
+453,176,ASG-487,Redes,001V,2,2024,Ana Aguilera Figueroa
+454,114,ASG-607,Calculo I,001V,2,2022,Pedro Gatica Araya
+455,243,ASG-804,Quimica,003D,1,2023,Marcela Tapia Flores
+456,167,ASG-670,Algoritmos,001V,2,2023,Paula Jara Hernandez
+457,223,ASG-592,Etica,003D,1,2024,Matias Perez Garcia
+458,191,ASG-210,Fisica,001D,2,2024,Gabriel Araya Silva
+459,275,ASG-706,Fisica,001V,1,2024,Maximiliano Fuentes Diaz
+460,289,ASG-901,Contabilidad,003D,2,2024,Santiago Medina Lopez
+461,64,ASG-264,Marketing,003D,2,2022,Lorena Bravo Gonzalez
+462,282,ASG-959,Algoritmos,002D,1,2024,Carlos Sepulveda Sepulveda
+463,173,ASG-525,Calculo I,001D,2,2022,Santiago Araya Gatica
+464,257,ASG-210,Algoritmos,001V,2,2023,Sofia Rivera Torres
+465,203,ASG-480,Base De Datos,001V,1,2023,Docente No Informado
+466,77,ASG-389,Algoritmos,001V,1,2024,Antonia Vergara Reyes
+467,103,ASG-660,Programacion,003D,1,2024,Lucas Morales Aguilera
+468,226,ASG-592,Marketing,001V,2,2024,Ignacio Contreras Sepulveda
+469,226,ASG-789,Marketing,001V,2,2023,Pedro Reyes Zambrano
+470,227,ASG-257,Algoritmos,001V,2,2023,Marcela Gatica Bravo
+471,96,ASG-112,Estadistica,001D,1,2023,Benjamin Nunez Castro
+472,76,ASG-972,Algoritmos,001D,2,2022,Maria Reyes Rodriguez
+473,33,ASG-205,Contabilidad,003D,2,2023,Docente No Informado
+474,82,ASG-247,Programacion,002D,1,2024,Diego Zambrano Gatica
+475,69,ASG-368,Programacion,001V,1,2022,Marcela Zambrano Rodriguez
+477,219,ASG-158,Fisica,003D,2,2022,Valentina Medina Rodriguez
+478,302,ASG-241,Marketing,001V,1,2023,Docente No Informado
+479,120,ASG-483,Etica,002D,1,2023,Fernanda Rivera Sepulveda
+480,48,ASG-937,Etica,003D,1,2023,Paula Rodriguez Tapia
+481,68,ASG-397,Algoritmos,001V,2,2023,Benjamin Tapia Flores
+482,339,ASG-445,Programacion,002D,2,2024,Docente No Informado
+484,276,ASG-124,Quimica,002D,2,2022,Tomas Bravo Vergara
+485,256,ASG-773,Etica,001D,1,2022,Maximiliano Gatica Valenzuela
+486,205,ASG-159,Etica,003D,1,2022,Tomas Perez Garcia
+487,233,ASG-450,Marketing,002D,1,2022,Fernanda Gonzalez Silva
+488,65,ASG-402,Estadistica,003D,2,2024,Paula Martinez Fuentes
+489,317,ASG-704,Calculo I,003D,2,2024,Vicente Gonzalez Vergara
+490,79,ASG-132,Marketing,001V,1,2022,Docente No Informado
+491,14,ASG-619,Calculo I,001V,2,2022,Macarena Vergara Perez
+492,325,ASG-862,Contabilidad,003D,1,2023,Natalia Fuentes Gatica
+494,169,ASG-137,Contabilidad,003D,2,2024,Agustin Munoz Silva
+495,159,ASG-781,Etica,001D,1,2023,Sofia Bravo Aguilera
+496,116,ASG-677,Marketing,002D,1,2024,Tomas Reyes Zambrano
+497,346,ASG-700,Programacion,003D,2,2023,Agustin Garcia Tapia
+498,192,ASG-663,Marketing,001V,2,2023,Santiago Rivera Araya
+499,345,ASG-963,Algoritmos,003D,2,2022,Camila Perez Figueroa
+500,183,ASG-313,Fisica,002D,2,2024,Vicente Espinoza Martinez
+501,231,ASG-681,Fisica,001D,1,2024,Andres Garcia Diaz
+502,168,ASG-966,Calculo I,002D,2,2022,Macarena Munoz Araya
+503,15,ASG-607,Ingles,002D,1,2023,Docente No Informado
+504,193,ASG-511,Algoritmos,001V,1,2023,Jose Jara Hernandez
+505,233,ASG-746,Algoritmos,003D,2,2024,Diego Castro Rojas
+508,180,ASG-632,Estadistica,003D,2,2024,Catalina Diaz Fuentes
+509,4,ASG-622,Algoritmos,001V,1,2023,Benjamin Rodriguez Torres
+510,257,ASG-589,Estadistica,001D,2,2023,Pedro Araya Morales
+511,322,ASG-238,Estadistica,002D,2,2022,Docente No Informado
+512,240,ASG-417,Base De Datos,002D,2,2023,Gabriel Araya Lopez
+513,163,ASG-486,Marketing,001D,1,2023,Pedro Contreras Martinez
+514,337,ASG-199,Contabilidad,002D,1,2023,Cristobal Perez Fuentes
+518,102,ASG-307,Contabilidad,001V,1,2023,Vicente Perez Jara
+519,193,ASG-917,Calculo I,003D,1,2023,Isidora Rivera Flores
+520,307,ASG-912,Algoritmos,002D,2,2022,Antonia Flores Espinoza
+521,30,ASG-890,Calculo I,001D,2,2023,Joaquin Hernandez Rivera
+522,295,ASG-388,Redes,001D,2,2022,Amanda Jara Reyes
+523,247,ASG-354,Programacion,002D,1,2023,Valentina Aguilera Munoz
+524,221,ASG-638,Marketing,001D,2,2022,Matias Aguilera Rodriguez
+525,172,ASG-325,Etica,001D,2,2022,Antonia Martinez Perez
+526,160,ASG-890,Algoritmos,003D,1,2023,Matias Aguilera Castro
+527,172,ASG-787,Calculo I,002D,1,2023,Amanda Rojas Jara
+528,63,ASG-160,Estadistica,001V,1,2024,Paula Bravo Castro
+529,61,ASG-128,Calculo I,001D,2,2024,Natalia Aguilera Nunez
+530,65,ASG-130,Fisica,002D,2,2022,Constanza Flores Morales
+531,169,ASG-694,Base De Datos,001V,1,2023,Lucas Reyes Valenzuela
+532,81,ASG-181,Contabilidad,001V,2,2023,Carlos Vergara Sepulveda
+533,247,ASG-398,Marketing,003D,2,2024,Carlos Garcia Soto
+535,258,ASG-420,Base De Datos,001D,1,2022,Paula Medina Soto
+536,73,ASG-261,Estadistica,002D,2,2022,Matias Fuentes Morales
+537,332,ASG-729,Base De Datos,002D,2,2022,Jose Fuentes Tapia
+538,188,ASG-414,Estadistica,003D,1,2024,Joaquin Aguilera Tapia
+539,25,ASG-733,Ingles,003D,1,2022,Docente No Informado
+540,228,ASG-331,Calculo I,003D,1,2024,Ignacio Castro Martinez
+541,118,ASG-118,Programacion,001D,1,2024,Amanda Vergara Rodriguez
+542,108,ASG-603,Contabilidad,002D,2,2022,Ignacio Sepulveda Aguilera
+543,242,ASG-808,Estadistica,001D,2,2024,Macarena Castro Munoz
+545,22,ASG-384,Quimica,003D,2,2022,Maximiliano Zambrano Valenzuela
+546,56,ASG-208,Calculo I,001D,2,2022,Carolina Hernandez Bravo
+547,149,ASG-548,Estadistica,001V,1,2024,Benjamin Soto Gonzalez
+548,311,ASG-681,Calculo I,001D,1,2024,Vicente Rodriguez Hernandez
+549,40,ASG-679,Redes,001D,1,2023,Sebastian Bravo Rivera
+550,150,ASG-759,Algoritmos,001V,1,2022,Cristobal Figueroa Zambrano
+551,121,ASG-SINCOD,Fisica,001V,2,2023,Catalina Vergara Tapia
+552,260,ASG-421,Calculo I,003D,2,2024,Constanza Lopez Martinez
+553,26,ASG-377,Quimica,001V,1,2023,Benjamin Torres Rojas
+554,112,ASG-523,Marketing,001V,2,2024,Ana Gatica Vergara
+555,23,ASG-872,Etica,001D,1,2023,Javiera Vergara Aguilera
+556,169,ASG-496,Redes,001D,2,2024,Gabriel Zambrano Fuentes
+557,314,ASG-256,Contabilidad,003D,2,2024,Ana Martinez Medina
+558,264,ASG-624,Marketing,001V,2,2024,Sebastian Martinez Morales
+559,116,ASG-734,Algoritmos,002D,2,2022,Carolina Rivera Valenzuela
+560,307,ASG-SINCOD,Contabilidad,001D,2,2024,Jose Nunez Morales
+561,231,ASG-809,Estadistica,003D,2,2022,Nicolas Rojas Sepulveda
+562,189,ASG-299,Etica,001D,2,2024,Antonia Vergara Vergara
+563,257,ASG-467,Etica,001D,1,2023,Tomas Araya Aguilera
+564,120,ASG-202,Etica,002D,1,2024,Agustin Hernandez Valenzuela
+565,286,ASG-634,Quimica,003D,2,2024,Macarena Rojas Reyes
+566,273,ASG-720,Contabilidad,002D,1,2023,Diego Contreras Araya
+567,152,ASG-917,Base De Datos,001V,1,2024,Ignacio Perez Figueroa
+568,86,ASG-486,Redes,003D,1,2024,Natalia Araya Reyes
+569,325,ASG-260,Ingles,001V,1,2024,Daniela Medina Hernandez
+570,345,ASG-248,Programacion,002D,1,2023,Barbara Espinoza Vergara
+571,327,ASG-SINCOD,Etica,001V,2,2024,Joaquin Gonzalez Nunez
+572,246,ASG-258,Marketing,001D,2,2023,Fernanda Flores Gatica
+573,314,ASG-563,Fisica,003D,2,2022,Santiago Tapia Torres
+574,315,ASG-896,Base De Datos,003D,2,2022,Sebastian Fuentes Rodriguez
+575,293,ASG-435,Programacion,001D,1,2022,Constanza Perez Morales
+576,162,ASG-747,Etica,001D,2,2023,Tomas Vergara Rivera
+577,100,ASG-513,Programacion,001D,1,2023,Lucas Medina Valenzuela
+578,185,ASG-157,Programacion,002D,2,2022,Jose Gonzalez Tapia
+579,276,ASG-104,Marketing,002D,2,2024,Matias Garcia Gatica
+580,17,ASG-269,Programacion,002D,1,2024,Martin Bravo Morales
+581,260,ASG-230,Algoritmos,002D,2,2023,Vicente Bravo Rojas
+582,245,ASG-355,Estadistica,002D,1,2024,Docente No Informado
+583,306,ASG-138,Estadistica,001V,2,2022,Cristobal Jara Fuentes
+585,50,ASG-329,Algoritmos,002D,2,2023,Ana Hernandez Garcia
+586,272,ASG-393,Estadistica,003D,2,2022,Emilio Flores Munoz
+587,235,ASG-139,Marketing,003D,1,2022,Camila Garcia Flores
+588,72,ASG-481,Redes,001V,2,2023,Alejandra Soto Castro
+589,317,ASG-491,Redes,001V,1,2023,Sofia Hernandez Garcia
+590,44,ASG-861,Redes,003D,2,2022,Gabriel Tapia Diaz
+591,306,ASG-579,Estadistica,003D,2,2023,Martin Perez Rojas
+592,80,ASG-562,Fisica,003D,2,2023,Lucas Munoz Silva
+593,286,ASG-973,Quimica,001V,2,2022,Francisca Fuentes Fuentes
+594,49,ASG-968,Etica,001V,2,2022,Docente No Informado
+595,98,ASG-204,Calculo I,003D,2,2023,Martin Espinoza Medina
+596,25,ASG-288,Calculo I,001V,1,2024,Jose Martinez Valenzuela
+597,214,ASG-468,Algoritmos,002D,2,2024,Alejandra Morales Flores
+598,56,ASG-180,Programacion,003D,1,2022,Macarena Perez Jara
+599,255,ASG-775,Calculo I,001D,1,2022,Joaquin Figueroa Tapia
+600,156,ASG-477,Calculo I,003D,2,2024,Santiago Figueroa Medina
+602,194,ASG-SINCOD,Base De Datos,001D,2,2024,Alejandra Vergara Vergara
+603,4,ASG-854,Algoritmos,001D,1,2024,Paula Figueroa Figueroa
+604,268,ASG-SINCOD,Quimica,003D,1,2022,Jose Vergara Jara
+605,36,ASG-945,Quimica,002D,1,2023,Lorena Garcia Castro
+606,16,ASG-368,Estadistica,001V,1,2024,Andres Soto Valenzuela
+607,137,ASG-204,Calculo I,001V,2,2023,Camila Nunez Flores
+608,78,ASG-628,Algoritmos,001D,1,2022,Francisca Reyes Perez
+609,311,ASG-971,Calculo I,002D,1,2024,Carolina Hernandez Rivera
+610,73,ASG-744,Estadistica,001V,1,2022,Matias Jara Martinez
+611,320,ASG-269,Base De Datos,001D,1,2024,Santiago Figueroa Sepulveda
+612,245,ASG-890,Redes,001V,2,2023,Ana Medina Aguilera
+613,346,ASG-982,Redes,002D,2,2022,Lorena Flores Morales
+614,228,ASG-619,Contabilidad,001V,2,2023,Pedro Espinoza Jara
+615,195,ASG-112,Estadistica,001V,2,2024,Diego Perez Rodriguez
+616,246,ASG-444,Estadistica,002D,2,2022,Valentina Nunez Figueroa
+617,89,ASG-171,Marketing,002D,1,2023,Alejandra Reyes Reyes
+618,260,ASG-522,Redes,001V,1,2023,Martin Sepulveda Diaz
+619,286,ASG-512,Marketing,002D,1,2024,Javiera Rojas Martinez
+620,139,ASG-541,Ingles,001V,1,2022,Ignacio Castro Gatica
+621,51,ASG-144,Algoritmos,003D,1,2023,Macarena Lopez Munoz
+622,147,ASG-826,Base De Datos,003D,2,2023,Maximiliano Sepulveda Nunez
+623,242,ASG-655,Algoritmos,001D,1,2022,Ana Lopez Figueroa
+624,334,ASG-920,Fisica,003D,2,2022,Marcela Garcia Rodriguez
+625,232,ASG-217,Marketing,003D,2,2022,Valentina Morales Reyes
+626,27,ASG-970,Calculo I,003D,2,2024,Tomas Gonzalez Rodriguez
+627,344,ASG-284,Etica,002D,1,2023,Natalia Lopez Tapia
+628,208,ASG-322,Redes,002D,1,2022,Sebastian Reyes Munoz
+629,138,ASG-693,Etica,002D,2,2023,Emilio Gatica Soto
+630,155,ASG-230,Algoritmos,001V,2,2023,Constanza Soto Rojas
+631,7,ASG-599,Calculo I,002D,2,2023,Francisca Morales Rivera
+632,115,ASG-639,Calculo I,003D,1,2024,Ignacio Jara Diaz
+634,346,ASG-400,Etica,002D,2,2023,Agustin Gatica Soto
+635,82,ASG-889,Base De Datos,001V,2,2023,Andres Garcia Sepulveda
+636,13,ASG-382,Marketing,001V,1,2023,Martin Nunez Araya
+637,72,ASG-597,Quimica,001V,2,2024,Maria Soto Soto
+638,91,ASG-750,Fisica,003D,1,2024,Camila Fuentes Nunez
+639,188,ASG-728,Estadistica,002D,1,2023,Sebastian Gatica Flores
+641,300,ASG-697,Marketing,001V,2,2024,Felipe Fuentes Tapia
+642,84,ASG-670,Base De Datos,002D,2,2022,Constanza Medina Tapia
+643,28,ASG-490,Etica,003D,1,2024,Lucas Araya Soto
+644,279,ASG-918,Calculo I,001V,1,2022,Constanza Torres Garcia
+645,12,ASG-298,Marketing,001D,2,2023,Tomas Martinez Silva
+646,307,ASG-526,Algoritmos,001V,2,2024,Camila Sepulveda Munoz
+647,150,ASG-184,Marketing,002D,1,2023,Matias Soto Fuentes
+648,318,ASG-434,Algoritmos,003D,2,2024,Maximiliano Soto Hernandez
+649,26,ASG-243,Ingles,003D,1,2023,Carlos Soto Reyes
+650,214,ASG-585,Ingles,003D,2,2024,Natalia Nunez Rojas
+651,314,ASG-500,Ingles,001V,2,2024,Matias Aguilera Diaz
+652,240,ASG-726,Fisica,002D,2,2024,Carolina Aguilera Perez
+653,222,ASG-430,Redes,002D,1,2022,Natalia Castro Araya
+654,68,ASG-949,Calculo I,001V,2,2022,Isidora Figueroa Morales
+655,262,ASG-664,Base De Datos,001V,2,2024,Felipe Silva Contreras
+656,111,ASG-929,Algoritmos,001D,1,2023,Marcela Rojas Flores
+657,130,ASG-931,Algoritmos,003D,1,2023,Sofia Perez Fuentes
+658,159,ASG-976,Fisica,001V,1,2024,Felipe Jara Espinoza
+659,280,ASG-978,Base De Datos,003D,1,2022,Carolina Fuentes Contreras
+660,291,ASG-388,Contabilidad,001D,1,2022,Benjamin Sepulveda Hernandez
+661,303,ASG-410,Calculo I,002D,1,2022,Amanda Espinoza Torres
+662,31,ASG-410,Contabilidad,003D,1,2022,Ana Nunez Perez
+663,89,ASG-259,Contabilidad,001V,1,2023,Ignacio Soto Gonzalez
+664,332,ASG-115,Calculo I,001V,2,2024,Lorena Fuentes Soto
+665,118,ASG-248,Marketing,001D,2,2024,Paula Silva Flores
+666,130,ASG-263,Marketing,003D,2,2024,Ignacio Reyes Rojas
+667,207,ASG-918,Ingles,002D,2,2023,Martin Munoz Silva
+668,59,ASG-365,Calculo I,002D,1,2022,Catalina Fuentes Morales
+669,96,ASG-810,Etica,001V,1,2023,Jose Garcia Bravo
+670,319,ASG-668,Etica,001D,1,2023,Nicolas Figueroa Tapia
+671,246,ASG-252,Marketing,001V,1,2023,Jose Torres Perez
+672,145,ASG-357,Calculo I,001V,1,2024,Nicolas Aguilera Zambrano
+673,310,ASG-649,Contabilidad,001V,2,2024,Daniela Rivera Diaz
+674,125,ASG-657,Quimica,001V,2,2023,Alejandra Medina Rivera
+675,22,ASG-956,Algoritmos,001D,1,2023,Sofia Rivera Medina
+676,285,ASG-502,Algoritmos,001V,2,2023,Docente No Informado
+677,207,ASG-SINCOD,Etica,003D,1,2022,Joaquin Fuentes Silva
+678,258,ASG-841,Quimica,001V,1,2024,Daniela Munoz Lopez
+679,298,ASG-172,Ingles,001V,2,2023,Santiago Torres Flores
+680,52,ASG-350,Calculo I,001V,2,2023,Pedro Soto Diaz
+681,38,ASG-989,Redes,002D,2,2022,Martin Valenzuela Munoz
+682,153,ASG-572,Algoritmos,001D,2,2023,Felipe Castro Fuentes
+684,216,ASG-573,Contabilidad,003D,2,2022,Macarena Munoz Gonzalez
+685,223,ASG-178,Quimica,001V,2,2023,Gabriel Bravo Espinoza
+686,143,ASG-407,Fisica,002D,1,2024,Agustin Espinoza Espinoza
+687,105,ASG-475,Base De Datos,003D,1,2024,Marcela Garcia Martinez
+688,10,ASG-142,Fisica,003D,2,2022,Catalina Fuentes Medina
+689,242,ASG-331,Fisica,001D,1,2024,Ana Munoz Torres
+690,114,ASG-175,Algoritmos,002D,1,2022,Diego Jara Aguilera
+691,233,ASG-957,Estadistica,001V,2,2024,Maria Munoz Torres
+692,69,ASG-955,Base De Datos,001D,2,2023,Docente No Informado
+693,44,ASG-992,Base De Datos,003D,2,2022,Carolina Araya Lopez
+698,167,ASG-256,Programacion,002D,1,2023,Carolina Lopez Morales
+700,119,ASG-795,Contabilidad,001D,1,2022,Agustin Gonzalez Torres
+702,239,ASG-746,Algoritmos,001V,2,2024,Martin Sepulveda Figueroa
+703,8,ASG-701,Fisica,001D,1,2023,Carolina Vergara Bravo
+704,43,ASG-931,Fisica,001V,2,2023,Gabriel Jara Silva
+705,297,ASG-224,Estadistica,001D,1,2023,Javiera Silva Araya
+706,132,ASG-369,Redes,003D,1,2023,Jose Fuentes Nunez
+707,206,ASG-906,Programacion,001D,1,2022,Barbara Morales Garcia
+708,280,ASG-224,Marketing,001V,2,2022,Amanda Torres Fuentes
+710,277,ASG-880,Contabilidad,002D,1,2022,Daniela Lopez Sepulveda
+711,46,ASG-354,Base De Datos,003D,2,2024,Catalina Munoz Rojas
+712,198,ASG-785,Fisica,001D,2,2024,Nicolas Garcia Araya
+713,121,ASG-687,Algoritmos,003D,1,2023,Nicolas Valenzuela Figueroa
+714,300,ASG-518,Fisica,003D,2,2024,Barbara Nunez Araya
+715,220,ASG-106,Redes,003D,1,2023,Vicente Bravo Aguilera
+716,289,ASG-492,Algoritmos,003D,1,2023,Amanda Zambrano Bravo
+717,94,ASG-187,Base De Datos,002D,1,2023,Diego Espinoza Hernandez
+718,292,ASG-125,Redes,002D,1,2023,Alejandra Soto Martinez
+719,153,ASG-370,Programacion,001V,1,2023,Carlos Espinoza Hernandez
+720,13,ASG-SINCOD,Ingles,001V,1,2023,Diego Medina Vergara
+721,207,ASG-901,Base De Datos,001V,2,2022,Gabriel Morales Valenzuela
+722,255,ASG-906,Redes,001V,1,2022,Ignacio Espinoza Rojas
+723,158,ASG-194,Base De Datos,003D,1,2023,Camila Gatica Rivera
+724,270,ASG-994,Algoritmos,003D,2,2024,Maximiliano Nunez Gonzalez
+725,306,ASG-613,Estadistica,003D,1,2023,Maximiliano Contreras Silva
+726,68,ASG-681,Contabilidad,002D,1,2023,Fernanda Gatica Soto
+727,257,ASG-953,Ingles,002D,1,2023,Docente No Informado
+730,237,ASG-950,Ingles,003D,1,2024,Pedro Araya Castro
+731,132,ASG-204,Marketing,003D,2,2023,Camila Contreras Nunez
+732,171,ASG-934,Base De Datos,002D,2,2023,Joaquin Munoz Lopez
+733,270,ASG-694,Algoritmos,001D,2,2022,Joaquin Perez Soto
+734,89,ASG-923,Etica,001V,1,2024,Barbara Morales Espinoza
+736,125,ASG-730,Quimica,001D,2,2022,Antonia Bravo Castro
+737,67,ASG-228,Algoritmos,002D,2,2024,Gabriel Gatica Rodriguez
+739,8,ASG-422,Redes,001D,1,2022,Joaquin Flores Gatica
+740,44,ASG-967,Ingles,001V,1,2022,Sebastian Torres Valenzuela
+741,135,ASG-487,Ingles,001V,1,2023,Valentina Bravo Munoz
+742,248,ASG-773,Ingles,001D,1,2022,Felipe Reyes Bravo
+743,304,ASG-792,Base De Datos,001D,2,2023,Cristobal Jara Bravo
+744,318,ASG-713,Algoritmos,003D,2,2022,Antonia Rivera Araya
+745,25,ASG-SINCOD,Ingles,001D,2,2023,Amanda Munoz Gonzalez
+746,196,ASG-411,Quimica,001D,1,2022,Sebastian Gonzalez Soto
+747,192,ASG-843,Etica,001V,2,2022,Valentina Araya Martinez
+749,260,ASG-SINCOD,Redes,003D,2,2024,Sebastian Aguilera Castro
+750,47,ASG-673,Marketing,001V,1,2024,Natalia Zambrano Bravo
+751,209,ASG-665,Etica,001V,2,2022,Marcela Martinez Contreras
+752,301,ASG-785,Estadistica,002D,2,2022,Lorena Valenzuela Fuentes
+753,89,ASG-895,Algoritmos,001V,1,2023,Joaquin Aguilera Hernandez
+754,3,ASG-316,Algoritmos,001D,1,2023,Lucas Figueroa Diaz
+755,145,ASG-396,Etica,003D,2,2023,Natalia Jara Valenzuela
+756,22,ASG-164,Algoritmos,002D,2,2023,Jose Lopez Gatica
+757,39,ASG-146,Algoritmos,001D,1,2022,Jose Soto Araya
+758,295,ASG-325,Algoritmos,001V,1,2024,Marcela Figueroa Rojas
+759,107,ASG-368,Marketing,001V,2,2022,Lucas Silva Perez
+761,272,ASG-387,Redes,001V,2,2022,Docente No Informado
+762,229,ASG-195,Etica,002D,1,2022,Barbara Gatica Bravo
+763,285,ASG-302,Base De Datos,001V,2,2024,Felipe Zambrano Medina
+764,206,ASG-873,Programacion,003D,1,2024,Carlos Gonzalez Araya
+765,71,ASG-171,Redes,001V,2,2023,Constanza Torres Vergara
+766,169,ASG-SINCOD,Base De Datos,003D,1,2022,Santiago Vergara Silva
+767,185,ASG-206,Marketing,001V,1,2023,Isidora Rodriguez Rivera
+768,333,ASG-213,Estadistica,001V,2,2024,Nicolas Reyes Castro
+769,208,ASG-978,Etica,002D,1,2024,Amanda Vergara Reyes
+770,271,ASG-975,Base De Datos,002D,1,2023,Andres Soto Zambrano
+771,346,ASG-SINCOD,Estadistica,001V,2,2024,Gabriel Tapia Martinez
+772,135,ASG-748,Fisica,001V,2,2024,Ignacio Vergara Morales
+773,146,ASG-206,Programacion,002D,2,2022,Maximiliano Gonzalez Gonzalez
+774,345,ASG-419,Redes,003D,2,2022,Camila Araya Perez
+775,149,ASG-109,Algoritmos,001V,1,2024,Lorena Valenzuela Fuentes
+776,116,ASG-450,Base De Datos,003D,1,2024,Fernanda Nunez Medina
+777,187,ASG-187,Etica,001V,1,2023,Natalia Reyes Jara
+779,338,ASG-820,Quimica,003D,1,2023,Martin Silva Araya
+780,244,ASG-337,Programacion,001D,2,2022,Javiera Hernandez Morales
+781,67,ASG-260,Algoritmos,001V,2,2022,Docente No Informado
+782,62,ASG-422,Ingles,003D,1,2023,Agustin Torres Soto
+784,347,ASG-218,Estadistica,003D,2,2022,Valentina Valenzuela Gonzalez
+785,110,ASG-555,Fisica,001D,2,2023,Macarena Contreras Martinez
+786,56,ASG-994,Algoritmos,001D,2,2023,Marcela Reyes Vergara
+788,264,ASG-784,Estadistica,001D,1,2023,Catalina Rojas Bravo
+789,107,ASG-102,Contabilidad,001V,2,2024,Emilio Nunez Reyes
+790,12,ASG-417,Etica,001D,1,2023,Valentina Reyes Rodriguez
+792,319,ASG-SINCOD,Fisica,003D,1,2024,Gabriel Sepulveda Lopez
+793,27,ASG-139,Algoritmos,001V,2,2024,Cristobal Fuentes Zambrano
+794,291,ASG-614,Redes,001V,1,2023,Matias Zambrano Rivera
+795,130,ASG-469,Base De Datos,003D,2,2023,Daniela Torres Silva
+796,227,ASG-524,Programacion,002D,1,2023,Santiago Fuentes Diaz
+797,136,ASG-101,Quimica,001V,1,2024,Andres Araya Jara
+798,20,ASG-686,Marketing,002D,1,2023,Joaquin Bravo Medina
+799,264,ASG-862,Calculo I,001D,2,2022,Ignacio Contreras Soto
+800,324,ASG-381,Contabilidad,001D,2,2022,Antonia Aguilera Martinez
+801,159,ASG-911,Base De Datos,001V,2,2023,Pedro Aguilera Medina
+802,160,ASG-148,Marketing,001V,2,2024,Docente No Informado
+803,342,ASG-926,Estadistica,003D,1,2023,Pedro Gonzalez Torres
+804,26,ASG-495,Etica,001D,1,2022,Emilio Silva Silva
+805,81,ASG-564,Estadistica,001V,1,2024,Vicente Silva Perez
+806,18,ASG-202,Algoritmos,003D,2,2023,Isidora Espinoza Gatica
+808,130,ASG-SINCOD,Etica,003D,2,2024,Diego Flores Garcia
+809,135,ASG-937,Programacion,001D,1,2024,Ana Medina Figueroa
+810,303,ASG-615,Estadistica,003D,2,2022,Isidora Rodriguez Nunez
+811,218,ASG-569,Contabilidad,003D,1,2023,Alejandra Fuentes Aguilera
+812,310,ASG-639,Etica,001V,2,2022,Lucas Vergara Rodriguez
+814,186,ASG-170,Estadistica,001D,2,2024,Tomas Torres Medina
+816,191,ASG-302,Marketing,003D,2,2022,Carolina Silva Sepulveda
+817,234,ASG-SINCOD,Programacion,001D,1,2022,Antonia Garcia Rodriguez
+818,66,ASG-368,Programacion,002D,1,2024,Antonia Contreras Morales
+819,81,ASG-928,Etica,002D,2,2023,Valentina Munoz Morales
+821,235,ASG-462,Contabilidad,001V,2,2022,Emilio Diaz Araya
+823,2,ASG-499,Programacion,001V,1,2023,Jose Sepulveda Tapia
+824,33,ASG-378,Algoritmos,001D,1,2023,Francisca Fuentes Fuentes
+825,349,ASG-422,Fisica,003D,2,2022,Emilio Figueroa Medina
+826,134,ASG-585,Estadistica,001V,2,2023,Pedro Araya Nunez
+827,344,ASG-228,Marketing,003D,2,2023,Daniela Aguilera Martinez
+828,267,ASG-882,Programacion,001D,2,2023,Diego Gonzalez Gonzalez
+829,5,ASG-256,Marketing,003D,2,2023,Felipe Zambrano Gonzalez
+830,286,ASG-568,Programacion,001D,1,2022,Natalia Munoz Valenzuela
+831,347,ASG-435,Calculo I,003D,1,2023,Carlos Garcia Torres
+832,91,ASG-777,Algoritmos,001V,1,2023,Barbara Diaz Aguilera
+833,152,ASG-583,Ingles,001V,2,2024,Cristobal Flores Araya
+835,61,ASG-375,Ingles,002D,2,2023,Carlos Torres Rojas
+836,26,ASG-909,Base De Datos,003D,2,2024,Emilio Flores Garcia
+837,109,ASG-155,Algoritmos,003D,2,2022,Fernanda Flores Bravo
+838,295,ASG-565,Algoritmos,001V,1,2023,Agustin Sepulveda Tapia
+839,210,ASG-843,Quimica,001D,2,2024,Alejandra Nunez Valenzuela
+840,259,ASG-374,Algoritmos,002D,1,2022,Vicente Rodriguez Araya
+841,294,ASG-127,Estadistica,003D,2,2023,Gabriel Diaz Zambrano
+842,42,ASG-327,Ingles,003D,1,2024,Tomas Bravo Vergara
+843,304,ASG-319,Base De Datos,002D,2,2022,Daniela Jara Valenzuela
+844,13,ASG-978,Fisica,002D,2,2024,Andres Tapia Zambrano
+846,88,ASG-371,Marketing,002D,2,2023,Valentina Flores Morales
+847,312,ASG-364,Fisica,001V,2,2024,Maximiliano Contreras Valenzuela
+848,187,ASG-733,Algoritmos,002D,2,2023,Natalia Bravo Torres
+849,63,ASG-742,Redes,002D,1,2023,Docente No Informado
+850,336,ASG-694,Contabilidad,003D,2,2024,Carlos Lopez Nunez
+851,43,ASG-728,Programacion,001V,2,2024,Antonia Martinez Sepulveda
+852,233,ASG-637,Quimica,002D,2,2024,Ana Rodriguez Tapia
+853,234,ASG-560,Ingles,002D,2,2024,Constanza Espinoza Hernandez
+854,75,ASG-103,Redes,003D,2,2022,Ana Fuentes Martinez
+856,313,ASG-335,Ingles,003D,1,2024,Matias Figueroa Valenzuela
+857,149,ASG-352,Fisica,001V,2,2022,Sebastian Garcia Gonzalez
+858,182,ASG-723,Ingles,001D,1,2024,Paula Rojas Medina
+859,207,ASG-209,Fisica,001V,2,2022,Nicolas Rojas Castro
+860,181,ASG-825,Programacion,001V,2,2023,Sebastian Vergara Soto
+861,173,ASG-334,Fisica,001D,1,2024,Amanda Flores Vergara
+862,241,ASG-502,Calculo I,001V,1,2022,Sofia Sepulveda Bravo
+863,164,ASG-865,Estadistica,003D,1,2022,Macarena Espinoza Zambrano
+864,63,ASG-729,Etica,001D,1,2023,Francisca Silva Martinez
+865,235,ASG-395,Base De Datos,001D,1,2024,Antonia Lopez Zambrano
+867,257,ASG-290,Estadistica,002D,1,2023,Gabriel Fuentes Espinoza
+868,92,ASG-935,Etica,003D,2,2023,Vicente Fuentes Lopez
+869,225,ASG-745,Programacion,001D,2,2023,Andres Torres Tapia
+870,195,ASG-514,Contabilidad,001V,1,2022,Sebastian Fuentes Gatica
+871,207,ASG-407,Estadistica,002D,2,2022,Andres Sepulveda Rivera
+872,288,ASG-172,Ingles,003D,2,2023,Daniela Morales Aguilera
+873,215,ASG-SINCOD,Programacion,003D,2,2024,Docente No Informado
+874,186,ASG-953,Etica,003D,2,2023,Sebastian Torres Rodriguez
+875,126,ASG-494,Base De Datos,003D,1,2023,Constanza Vergara Fuentes
+876,282,ASG-117,Ingles,001V,2,2023,Diego Rojas Hernandez
+877,255,ASG-329,Programacion,003D,2,2022,Sebastian Zambrano Diaz
+878,61,ASG-271,Estadistica,001V,2,2023,Maria Nunez Sepulveda
+879,201,ASG-536,Estadistica,001V,1,2024,Lorena Fuentes Gatica
+880,69,ASG-877,Base De Datos,001V,1,2024,Carlos Fuentes Valenzuela
+881,285,ASG-928,Calculo I,001D,2,2022,Maria Bravo Lopez
+882,63,ASG-561,Ingles,003D,1,2024,Felipe Hernandez Lopez
+883,134,ASG-459,Redes,001V,2,2024,Marcela Silva Flores
+884,239,ASG-339,Ingles,003D,1,2023,Javiera Bravo Figueroa
+885,252,ASG-166,Base De Datos,002D,2,2023,Daniela Soto Martinez
+886,187,ASG-819,Contabilidad,001V,1,2023,Francisca Torres Gonzalez
+887,21,ASG-761,Fisica,001D,1,2024,Fernanda Medina Hernandez
+888,343,ASG-669,Algoritmos,001D,2,2024,Benjamin Contreras Aguilera
+889,291,ASG-146,Base De Datos,002D,1,2023,Lorena Figueroa Silva
+890,308,ASG-456,Etica,001V,1,2024,Ignacio Araya Castro
+891,46,ASG-SINCOD,Algoritmos,002D,2,2023,Lucas Munoz Castro
+892,194,ASG-506,Algoritmos,001D,1,2022,Tomas Figueroa Rivera
+893,57,ASG-347,Contabilidad,001D,1,2022,Isidora Nunez Sepulveda
+894,42,ASG-SINCOD,Programacion,003D,2,2024,Diego Figueroa Torres
+895,333,ASG-801,Calculo I,002D,2,2024,Santiago Hernandez Medina
+896,235,ASG-SINCOD,Ingles,001D,1,2024,Paula Morales Tapia
+897,16,ASG-137,Programacion,001V,1,2024,Tomas Munoz Jara
+898,133,ASG-SINCOD,Redes,001V,2,2023,Javiera Sepulveda Valenzuela
+899,1,ASG-127,Contabilidad,001D,2,2023,Felipe Tapia Aguilera
+900,232,ASG-646,Fisica,002D,1,2022,Barbara Figueroa Fuentes

@@ -1,0 +1,928 @@
+id_inscripcion,id_estudiante,codigo_asignatura,nombre_asignatura,seccion,semestre,año,docente
+1.0,325.0,ASG-553,Inglés,002D,2.0,2024.0,Agustín Espinoza Vergara
+2.0,70.0,ASG-472,algoritmos,,2.0,2022.0,Tomás Araya Contreras
+3.0,107.0,ASG-930,Algoritmos,001V,1.0,2023.0,Matías Jara Hernández
+4.0,271.0,ASG-983,Programación,001D,2.0,2023.0,Daniela Rojas Castro
+5.0,,ASG-374,Programación,002D,2.0,,  Tomás Muñoz Díaz  
+6.0,108.0,ASG-684,Algoritmos,002D,1.0,2022.0,Fernanda Valenzuela Reyes
+7.0,69.0,ASG-330,  Física  ,001V,2.0,2022.0,Bárbara Espinoza Medina
+8.0,308.0,ASG-736,Ética,002D,1.0,2022.0,Agustín Núñez Castro
+,2.0,ASG-301,Marketing,002D,1.0,2024.0,Cristóbal Aguilera Bravo
+10.0,219.0,ASG-413,MARKETING,002D,2.0,2024.0,Maximiliano Gatica Aguilera
+11.0,45.0,ASG-336,QUÍMICA,001D,2.0,2024.0,PEDRO MEDINA GONZÁLEZ
+12.0,233.0,ASG-800,REDES,001D,1.0,2023.0,Lorena García Espinoza
+13.0,189.0,ASG-688,inglés,003D,2.0,,
+14.0,348.0,ASG-509,,001V,2.0,2023.0,Macarena Medina González
+15.0,122.0,ASG-701,inglés,001V,2.0,,Pedro Valenzuela Torres
+16.0,65.0,ASG-119,Cálculo I,001V,2.0,2024.0,Sebastián Zambrano Jara
+17.0,149.0,ASG-383,Redes,001V,1.0,2023.0,Emilio Núñez López
+18.0,249.0,ASG-427,Redes,002D,1.0,2022.0,Felipe Rojas Valenzuela
+19.0,67.0,ASG-974,,001V,2.0,2024.0,Bárbara Contreras Silva
+20.0,350.0,ASG-317,Química,003D,1.0,2023.0,PEDRO VALENZUELA CONTRERAS
+21.0,59.0,ASG-857,Estadística,001V,1.0,2022.0,Emilio Tapia Díaz
+22.0,115.0,ASG-896,Física,001V,1.0,2022.0,Carlos Bravo Muñoz
+23.0,116.0,ASG-787,Algoritmos,,2.0,2022.0,Matías Soto Bravo
+24.0,237.0,ASG-704,Cálculo I,002D,1.0,2023.0,Tomás Reyes Soto
+25.0,47.0,ASG-985,Química,002D,1.0,2024.0,Gabriel Vergara Tapia
+26.0,109.0,ASG-287,ALGORITMOS,003D,1.0,2024.0,Benjamín Bravo Hernández
+27.0,274.0,ASG-910,Física,002D,1.0,2024.0,sebastián hernández aguilera
+28.0,113.0,ASG-805,Física,001V,1.0,2022.0,Isidora Araya Vergara
+29.0,33.0,ASG-455,BASE DE DATOS,003D,2.0,2024.0,Francisca Morales Hernández
+30.0,280.0,ASG-278,Estadística,001D,,2023.0,Emilio Contreras Zambrano
+31.0,292.0,ASG-625,Ética,,1.0,2024.0,  Marcela Muñoz Fuentes  
+32.0,316.0,ASG-580,Redes,003D,2.0,2024.0,Sebastián Figueroa García
+33.0,162.0,ASG-671,,001D,1.0,2024.0,María Díaz Núñez
+34.0,90.0,ASG-810,Cálculo I,002D,2.0,2024.0,  Paula Rodríguez Castro  
+35.0,51.0,ASG-327,  Ética  ,001D,2.0,2023.0,CRISTÓBAL ESPINOZA RIVERA
+36.0,144.0,ASG-442,Estadística,002D,2.0,2024.0,Javiera Castro Silva
+37.0,104.0,ASG-567,estadística,003D,2.0,2022.0,paula zambrano medina
+38.0,170.0,ASG-302,Inglés,002D,2.0,2024.0,Catalina Contreras Medina
+39.0,16.0,ASG-354,Inglés,002D,2.0,2022.0,
+40.0,133.0,ASG-947,Redes,003D,2.0,2022.0,SOFÍA BRAVO FLORES
+41.0,170.0,ASG-917,Base de Datos,003D,1.0,2022.0,Alejandra Sepúlveda López
+42.0,30.0,ASG-945,Física,001V,,2023.0,Carolina Rivera Aguilera
+43.0,160.0,ASG-623,Estadística,001V,1.0,2022.0,joaquín vergara garcía
+44.0,147.0,ASG-200,,003D,1.0,2022.0,Paula Sepúlveda Zambrano
+45.0,307.0,ASG-326,,002D,1.0,2024.0,Santiago Castro Medina
+46.0,237.0,,  Física  ,001D,2.0,2023.0,Santiago Soto Gatica
+47.0,175.0,ASG-120,  Cálculo I  ,003D,2.0,2023.0,Valentina García Bravo
+48.0,72.0,ASG-592,marketing,001D,2.0,2023.0,Emilio López Silva
+49.0,127.0,ASG-338,Algoritmos,001V,1.0,2022.0,Ignacio Castro Valenzuela
+50.0,196.0,ASG-383,,001V,2.0,2022.0,carlos tapia gonzález
+51.0,185.0,ASG-448,MARKETING,003D,2.0,2022.0,Francisca Figueroa Contreras
+52.0,150.0,ASG-354,Redes,003D,1.0,2024.0,Ignacio Hernández Jara
+53.0,214.0,ASG-744,ÉTICA,002D,1.0,2022.0,Macarena Martínez Silva
+54.0,94.0,ASG-958,Redes,001V,2.0,2023.0,Camila Castro Martínez
+55.0,58.0,ASG-795,Algoritmos,001V,2.0,,Antonia Muñoz Espinoza
+56.0,219.0,,Algoritmos,003D,2.0,2024.0,Natalia López Figueroa
+57.0,219.0,ASG-151,Ética,001D,2.0,2023.0,Nicolás Espinoza Núñez
+58.0,13.0,ASG-285,Física,002D,1.0,2022.0,Daniela Fuentes Valenzuela
+59.0,283.0,ASG-335,Ética,,1.0,2024.0,María Contreras Reyes
+60.0,140.0,ASG-533,Algoritmos,001D,1.0,2023.0,Santiago Jara Figueroa
+61.0,274.0,ASG-417,Base de Datos,,,2022.0,Alejandra González Hernández
+62.0,119.0,ASG-203,Redes,001D,2.0,2024.0,Agustín García Gatica
+63.0,271.0,ASG-965,Redes,002D,,2024.0,Santiago Martínez Zambrano
+64.0,97.0,ASG-283,Inglés,002D,2.0,2024.0,Diego Espinoza Espinoza
+65.0,330.0,ASG-256,Programación,002D,2.0,2024.0,Natalia Sepúlveda Figueroa
+66.0,47.0,ASG-400,Algoritmos,001V,1.0,2024.0,Martín Martínez Díaz
+67.0,152.0,ASG-876,Estadística,003D,1.0,2022.0,ANTONIA MUÑOZ RODRÍGUEZ
+68.0,173.0,ASG-587,programación,001V,2.0,2023.0,Joaquín Díaz González
+69.0,275.0,,Algoritmos,001V,1.0,2024.0,ANA SOTO SILVA
+70.0,347.0,ASG-122,Programación,002D,,2023.0,Santiago Díaz Soto
+71.0,237.0,ASG-748,,003D,2.0,2023.0,
+72.0,31.0,ASG-683,Física,003D,2.0,2023.0,Vicente Pérez Medina
+73.0,213.0,ASG-651,INGLÉS,003D,2.0,2022.0,Felipe Gatica Gatica
+74.0,272.0,ASG-483,Estadística,003D,2.0,2023.0,Paula Flores Soto
+75.0,78.0,ASG-295,Algoritmos,002D,,2023.0,Andrés Soto Hernández
+76.0,279.0,ASG-831,Física,003D,1.0,2023.0,María Díaz Flores
+77.0,41.0,,  Física  ,001D,1.0,2024.0,Andrés López Aguilera
+78.0,146.0,ASG-569,Redes,001D,2.0,2024.0,Isidora Castro Díaz
+79.0,12.0,ASG-261,Base de Datos,001V,2.0,2023.0,Marcela Espinoza Zambrano
+80.0,248.0,ASG-156,  Algoritmos  ,002D,2.0,2022.0,  Andrés López Fuentes  
+81.0,229.0,ASG-347,Base de Datos,001V,1.0,2024.0,PEDRO DÍAZ GATICA
+82.0,331.0,ASG-335,  Química  ,001V,2.0,2024.0,Santiago Gatica Aguilera
+83.0,,ASG-455,Contabilidad,003D,1.0,,Camila Torres Medina
+84.0,341.0,,Inglés,001D,1.0,2023.0,Cristóbal García Araya
+85.0,160.0,ASG-431,  Redes  ,001D,2.0,,
+86.0,221.0,ASG-174,Programación,003D,1.0,2024.0,Pedro Martínez Martínez
+87.0,327.0,ASG-509,programación,003D,1.0,2023.0,Pedro Aguilera Martínez
+88.0,164.0,ASG-149,Programación,002D,1.0,,ANDRÉS MUÑOZ ARAYA
+89.0,168.0,ASG-228,Inglés,,2.0,2023.0,Javiera Soto Aguilera
+,219.0,ASG-354,,001V,1.0,2023.0,DANIELA REYES SILVA
+91.0,70.0,ASG-941,  Cálculo I  ,,2.0,2022.0,Ignacio Castro Pérez
+92.0,260.0,ASG-235,Estadística,002D,1.0,2024.0,Cristóbal Hernández Muñoz
+93.0,63.0,ASG-434,Cálculo I,001D,,2024.0,Sofía López Araya
+94.0,246.0,ASG-198,Base de Datos,003D,1.0,2023.0,Nicolás Silva Tapia
+95.0,50.0,ASG-938,Cálculo I,001V,1.0,2022.0,Agustín García Tapia
+96.0,286.0,ASG-129,Marketing,001D,1.0,2022.0,  Maximiliano López Jara  
+97.0,234.0,,redes,001D,2.0,2022.0,cristóbal pérez araya
+98.0,16.0,ASG-825,química,001D,2.0,2024.0,MACARENA TAPIA BRAVO
+99.0,4.0,ASG-191,Redes,003D,1.0,2023.0,María García Sepúlveda
+100.0,282.0,ASG-474,Inglés,001V,1.0,2023.0,Sebastián Pérez Hernández
+101.0,157.0,ASG-465,,003D,1.0,2022.0,Santiago Rodríguez Vergara
+102.0,220.0,ASG-432,Programación,001D,1.0,2022.0,Andrés Sepúlveda Espinoza
+103.0,348.0,ASG-647,Inglés,001D,2.0,2022.0,Macarena Contreras Rodríguez
+104.0,51.0,ASG-979,Base de Datos,001V,2.0,2024.0,Joaquín García Medina
+105.0,42.0,ASG-610,Ética,001V,1.0,2023.0,Natalia Gatica Jara
+106.0,135.0,ASG-155,Contabilidad,003D,2.0,2022.0,Matías Rodríguez Jara
+,274.0,ASG-923,INGLÉS,003D,1.0,2022.0,constanza araya gatica
+108.0,259.0,ASG-701,Cálculo I,003D,1.0,2023.0,Nicolás Núñez Aguilera
+109.0,191.0,ASG-373,Contabilidad,001D,2.0,,Fernanda García Tapia
+110.0,256.0,ASG-749,Redes,001V,2.0,,Lucas Tapia Flores
+,,ASG-815,Cálculo I,002D,1.0,2024.0,Camila Silva Pérez
+112.0,276.0,ASG-153,Marketing,001V,1.0,2023.0,Isidora Hernández Hernández
+113.0,73.0,ASG-379,Programación,001V,,2024.0,Carlos Tapia Gatica
+114.0,74.0,ASG-255,REDES,001V,2.0,2022.0,
+115.0,123.0,ASG-255,algoritmos,002D,1.0,2024.0,Martín Torres Zambrano
+116.0,70.0,ASG-763,Inglés,003D,2.0,2023.0,Valentina Vergara Jara
+117.0,79.0,ASG-937,Contabilidad,002D,1.0,2024.0,Gabriel Díaz Castro
+118.0,248.0,ASG-803,Física,001V,2.0,2023.0,Matías Zambrano Aguilera
+119.0,187.0,ASG-791,Programación,001V,2.0,2023.0,Ignacio Díaz Morales
+120.0,,ASG-406,Física,001D,2.0,2024.0,Gabriel Contreras Sepúlveda
+121.0,298.0,ASG-449,Cálculo I,001V,1.0,2022.0,José Bravo Castro
+122.0,44.0,ASG-502,Contabilidad,002D,1.0,2023.0,  Catalina Medina Morales  
+123.0,247.0,ASG-412,CONTABILIDAD,002D,1.0,2024.0,Camila Araya Rodríguez
+124.0,336.0,ASG-172,Programación,002D,2.0,2023.0,Daniela Espinoza Muñoz
+125.0,226.0,ASG-180,Inglés,003D,2.0,2024.0,Javiera Sepúlveda López
+126.0,67.0,ASG-707,Redes,001D,2.0,2022.0,Martín Flores Núñez
+127.0,276.0,ASG-735,Contabilidad,003D,2.0,2023.0,  Pedro González Rodríguez  
+128.0,253.0,ASG-260,Algoritmos,,2.0,2022.0,paula jara rivera
+129.0,303.0,ASG-480,  Contabilidad  ,003D,2.0,2022.0,SANTIAGO TORRES MEDINA
+130.0,280.0,ASG-932,Química,001D,2.0,2022.0,Sebastián Medina López
+131.0,179.0,ASG-481,,001D,1.0,2022.0,Agustín Rivera Torres
+132.0,279.0,ASG-976,Estadística,,2.0,2022.0,Natalia Jara Rivera
+133.0,129.0,ASG-189,Química,001D,2.0,,Pedro Sepúlveda Gatica
+134.0,115.0,ASG-234,Redes,002D,2.0,2022.0,Benjamín Bravo Soto
+135.0,322.0,ASG-428,Base de Datos,001V,2.0,2024.0,Pedro Pérez Zambrano
+136.0,274.0,ASG-338,Cálculo I,002D,2.0,2022.0,Marcela Fuentes Espinoza
+137.0,202.0,ASG-622,,002D,1.0,2022.0,MACARENA GONZÁLEZ FUENTES
+138.0,117.0,ASG-920,Algoritmos,002D,2.0,2023.0,
+139.0,35.0,ASG-932,Algoritmos,002D,2.0,2024.0,Gabriel Espinoza Medina
+140.0,106.0,ASG-136,Programación,003D,2.0,2022.0,Amanda Contreras Contreras
+141.0,249.0,ASG-597,Algoritmos,001D,1.0,2022.0,Matías Figueroa Reyes
+142.0,152.0,ASG-889,Ética,001V,2.0,2022.0,Matías Fuentes Fuentes
+143.0,,ASG-629,Contabilidad,001V,2.0,2024.0,José González Rojas
+144.0,295.0,ASG-177,BASE DE DATOS,001V,1.0,,Francisca Espinoza García
+,162.0,ASG-700,Redes,002D,2.0,2024.0,Carlos Flores Sepúlveda
+,147.0,ASG-193,Redes,001D,2.0,2023.0,Emilio Morales Gatica
+147.0,256.0,ASG-964,Algoritmos,001D,,,Cristóbal Martínez Flores
+148.0,91.0,,,001V,1.0,2022.0,Macarena Hernández Morales
+149.0,218.0,ASG-942,Física,001V,1.0,2024.0,CAMILA ROJAS ZAMBRANO
+150.0,139.0,ASG-850,Algoritmos,002D,2.0,2024.0,Marcela Aguilera Aguilera
+151.0,177.0,ASG-453,Algoritmos,001V,2.0,2023.0,Felipe Soto Morales
+152.0,291.0,ASG-121,Inglés,002D,2.0,2022.0,Cristóbal Valenzuela Hernández
+153.0,340.0,ASG-457,Ética,001V,2.0,2024.0,Amanda Rivera Reyes
+154.0,76.0,ASG-832,Cálculo I,001D,2.0,2024.0,Lucas Rivera Sepúlveda
+155.0,57.0,ASG-860,BASE DE DATOS,001D,1.0,2022.0,CONSTANZA GONZÁLEZ ZAMBRANO
+156.0,28.0,ASG-328,química,001D,2.0,2023.0,  Andrés González Pérez  
+157.0,322.0,ASG-846,Física,003D,1.0,2023.0,Paula Valenzuela Muñoz
+158.0,321.0,ASG-805,  Física  ,001V,2.0,2024.0,Carolina Reyes Martínez
+159.0,150.0,ASG-417,  Ética  ,003D,1.0,2022.0,Lucas Zambrano Gatica
+160.0,307.0,ASG-725,Base de Datos,001D,1.0,2022.0,Marcela Pérez Tapia
+161.0,347.0,ASG-360,Algoritmos,001V,2.0,2022.0,MARCELA MORALES TORRES
+162.0,199.0,ASG-880,,003D,1.0,2024.0,Paula Tapia Fuentes
+163.0,164.0,ASG-170,Contabilidad,001D,2.0,2023.0,CRISTÓBAL ESPINOZA JARA
+164.0,182.0,ASG-731,Programación,001D,2.0,2023.0,Pedro Morales Jara
+165.0,240.0,ASG-830,  Cálculo I  ,001V,,2023.0,Gabriel Vergara Soto
+166.0,242.0,ASG-995,Algoritmos,001V,1.0,2023.0,Marcela Muñoz Muñoz
+167.0,66.0,ASG-581,Algoritmos,002D,2.0,2023.0,Francisca Soto Rojas
+168.0,171.0,ASG-212,Cálculo I,001V,2.0,2024.0,maximiliano silva núñez
+169.0,133.0,ASG-441,Cálculo I,001D,2.0,2024.0,Lucas Gatica Martínez
+170.0,81.0,,Marketing,002D,2.0,2023.0,ANDRÉS TAPIA RODRÍGUEZ
+171.0,165.0,ASG-609,Base de Datos,,1.0,2023.0,Javiera Díaz González
+,63.0,ASG-978,Marketing,001V,2.0,2024.0,Javiera Araya González
+173.0,51.0,ASG-874,ÉTICA,001D,,2023.0,Benjamín Martínez Martínez
+174.0,72.0,ASG-421,Ética,,,2023.0,  Catalina Jara Rojas  
+175.0,43.0,,Programación,001D,2.0,2023.0,Sofía Aguilera Hernández
+176.0,323.0,ASG-608,Programación,001D,2.0,2022.0,María López Bravo
+177.0,321.0,ASG-224,Química,001V,1.0,2023.0,Marcela Sepúlveda Bravo
+178.0,318.0,ASG-501,,003D,1.0,2022.0,Felipe Medina Vergara
+179.0,216.0,ASG-542,Algoritmos,,1.0,2023.0,Javiera Silva Tapia
+180.0,191.0,ASG-916,Cálculo I,003D,2.0,2023.0,  Emilio Sepúlveda Muñoz  
+181.0,158.0,ASG-336,Ética,001V,2.0,2024.0,Agustín Silva Araya
+182.0,90.0,ASG-277,REDES,001D,1.0,2024.0,daniela hernández silva
+183.0,104.0,ASG-627,Ética,001D,2.0,2024.0,Amanda Tapia Castro
+184.0,51.0,ASG-746,Redes,003D,1.0,2022.0,CAROLINA ZAMBRANO NÚÑEZ
+185.0,254.0,ASG-765,Contabilidad,003D,,2022.0,maría garcía fuentes
+186.0,107.0,ASG-234,Ética,001V,2.0,2023.0,María Gatica Figueroa
+187.0,294.0,ASG-384,Contabilidad,003D,1.0,2022.0,Fernanda Gatica Pérez
+188.0,236.0,ASG-519,  Estadística  ,001V,2.0,2024.0,josé castro contreras
+189.0,323.0,ASG-351,estadística,002D,2.0,2022.0,AMANDA ESPINOZA GATICA
+190.0,333.0,ASG-117,Contabilidad,003D,1.0,2023.0,Natalia Medina González
+191.0,105.0,ASG-960,Marketing,001D,2.0,2022.0,José Reyes Reyes
+192.0,255.0,,Algoritmos,003D,1.0,2024.0,Antonia Muñoz Contreras
+193.0,304.0,ASG-540,Base de Datos,001D,1.0,2023.0,ANTONIA CONTRERAS TORRES
+194.0,,ASG-223,Contabilidad,002D,,2022.0,
+195.0,72.0,ASG-862,CÁLCULO I,002D,2.0,2023.0,Natalia Araya Morales
+196.0,117.0,ASG-520,PROGRAMACIÓN,003D,1.0,2023.0,Bárbara González Martínez
+197.0,130.0,ASG-237,,001V,2.0,2022.0,Tomás Contreras Silva
+198.0,120.0,ASG-965,Algoritmos,001D,1.0,2023.0,Gabriel González Jara
+199.0,213.0,ASG-972,Algoritmos,002D,2.0,2022.0,JOSÉ ARAYA ARAYA
+200.0,229.0,ASG-176,Marketing,003D,1.0,2024.0,Diego López Silva
+201.0,183.0,ASG-787,PROGRAMACIÓN,002D,1.0,2024.0,Antonia Morales Vergara
+202.0,134.0,ASG-785,Programación,003D,2.0,2022.0,Francisca Morales García
+203.0,339.0,ASG-993,Contabilidad,001D,1.0,2022.0,Matías Martínez Díaz
+204.0,231.0,ASG-649,Física,003D,1.0,2023.0,Martín Flores López
+205.0,,ASG-772,Física,001D,2.0,2022.0,Macarena Valenzuela Núñez
+206.0,246.0,ASG-473,Redes,002D,2.0,2023.0,Catalina Rivera Bravo
+207.0,252.0,ASG-833,Inglés,001D,,2024.0,Ana Núñez Torres
+208.0,225.0,ASG-542,,001D,1.0,2022.0,Daniela Rodríguez Vergara
+209.0,157.0,ASG-343,Contabilidad,001V,2.0,2024.0,Marcela López Figueroa
+210.0,119.0,ASG-423,MARKETING,,1.0,2022.0,Carlos Contreras Soto
+211.0,94.0,ASG-234,ALGORITMOS,001D,,2024.0,  Camila Vergara Morales  
+212.0,228.0,ASG-109,Redes,001V,,2022.0,Martín Jara Flores
+213.0,186.0,ASG-994,Estadística,001V,1.0,2022.0,  Marcela Tapia Rodríguez  
+214.0,334.0,ASG-897,MARKETING,,2.0,2023.0,MACARENA VALENZUELA RODRÍGUEZ
+215.0,185.0,ASG-100,Redes,003D,2.0,,Daniela Rojas Hernández
+216.0,280.0,ASG-569,Estadística,001D,1.0,2022.0,Valentina Valenzuela Bravo
+217.0,230.0,ASG-546,Cálculo I,003D,,2023.0,Lucas Muñoz García
+218.0,265.0,ASG-174,Química,001D,1.0,2022.0,José Gatica Rivera
+219.0,158.0,ASG-420,Redes,002D,1.0,2022.0,
+220.0,77.0,ASG-142,Física,001V,2.0,2024.0,Natalia Zambrano Silva
+221.0,82.0,ASG-396,Ética,001D,2.0,2023.0,LUCAS TAPIA PÉREZ
+222.0,181.0,ASG-257,Estadística,001D,2.0,2023.0,Isidora Martínez Rodríguez
+223.0,342.0,,Marketing,001D,1.0,2024.0,Agustín Hernández Figueroa
+224.0,196.0,ASG-421,Cálculo I,003D,2.0,2022.0,Antonia Reyes Figueroa
+225.0,60.0,ASG-721,,002D,1.0,2023.0,Agustín Rodríguez Rojas
+226.0,151.0,ASG-675,Química,002D,2.0,2022.0,Martín Rivera Araya
+227.0,61.0,ASG-775,Química,001D,,2023.0,BENJAMÍN JARA VALENZUELA
+228.0,135.0,ASG-494,inglés,001V,1.0,2023.0,Alejandra Soto Contreras
+229.0,331.0,ASG-612,Contabilidad,001V,2.0,2022.0,Marcela López Valenzuela
+,39.0,ASG-928,ESTADÍSTICA,001D,1.0,2022.0,Natalia Hernández Muñoz
+231.0,253.0,ASG-467,Química,003D,2.0,2023.0,Isidora Vergara Medina
+232.0,106.0,ASG-783,Física,001V,2.0,,vicente sepúlveda valenzuela
+233.0,233.0,ASG-767,Redes,002D,2.0,2024.0,  Nicolás Jara Contreras  
+234.0,170.0,ASG-530,Algoritmos,001V,2.0,2024.0,valentina castro gonzález
+235.0,217.0,ASG-709,Redes,001V,1.0,2024.0,Carolina Rivera Aguilera
+236.0,348.0,ASG-556,  Física  ,001D,2.0,2024.0,  Emilio Medina Rojas  
+237.0,14.0,ASG-571,CONTABILIDAD,001V,2.0,2022.0,Diego Rivera Morales
+238.0,16.0,ASG-998,Ética,001D,2.0,2023.0,Constanza Silva Fuentes
+239.0,219.0,ASG-179,  Estadística  ,002D,1.0,2024.0,Felipe Castro Aguilera
+240.0,169.0,ASG-413,Ética,001V,2.0,2023.0,AGUSTÍN CASTRO DÍAZ
+,14.0,ASG-294,Algoritmos,001D,1.0,2022.0,María Flores López
+242.0,243.0,ASG-802,Contabilidad,001D,2.0,2023.0,Fernanda Medina Tapia
+243.0,319.0,ASG-320,Física,002D,,2022.0,Marcela Pérez Martínez
+244.0,8.0,ASG-809,redes,001V,2.0,2023.0,Santiago Flores Aguilera
+245.0,283.0,ASG-532,  Física  ,003D,2.0,2023.0,Natalia Hernández González
+246.0,111.0,ASG-124,Redes,001V,2.0,2022.0,MARCELA TORRES BRAVO
+247.0,40.0,ASG-617,Cálculo I,001D,1.0,2023.0,Joaquín Contreras Silva
+248.0,68.0,ASG-143,Contabilidad,,1.0,2022.0,Catalina Zambrano Martínez
+249.0,123.0,ASG-863,Inglés,002D,2.0,2023.0,Macarena Contreras Vergara
+250.0,317.0,ASG-883,  Inglés  ,002D,2.0,2023.0,
+251.0,166.0,ASG-707,Física,003D,2.0,2024.0,Javiera Aguilera Torres
+252.0,203.0,ASG-138,Física,003D,1.0,2023.0,  Lucas Aguilera Rivera  
+253.0,128.0,ASG-211,Estadística,001D,2.0,2024.0,Sofía Flores Figueroa
+254.0,152.0,ASG-145,  Química  ,003D,1.0,2024.0,Lorena Flores Espinoza
+255.0,146.0,ASG-180,Estadística,003D,2.0,2022.0,maximiliano contreras gatica
+,49.0,ASG-391,Programación,003D,2.0,,  Catalina Medina Espinoza  
+,3.0,ASG-883,Marketing,001V,2.0,2023.0,  Catalina Díaz González  
+258.0,251.0,ASG-872,Contabilidad,001V,,2022.0,Lorena González Zambrano
+259.0,77.0,ASG-527,Redes,001D,2.0,2024.0,Catalina Torres Reyes
+260.0,220.0,ASG-850,  Estadística  ,001V,1.0,2023.0,Paula Núñez Bravo
+261.0,348.0,ASG-198,Física,003D,2.0,2022.0,Martín Medina Gatica
+262.0,228.0,ASG-969,Algoritmos,003D,1.0,2022.0,Isidora Bravo Silva
+263.0,118.0,ASG-151,  Física  ,003D,1.0,2022.0,Carlos Valenzuela Espinoza
+264.0,267.0,ASG-850,Contabilidad,001V,2.0,2024.0,  Natalia Morales Tapia  
+265.0,235.0,ASG-321,Inglés,002D,1.0,2022.0,ANDRÉS CASTRO VERGARA
+266.0,168.0,ASG-714,Ética,003D,2.0,2023.0,Tomás Hernández Núñez
+267.0,260.0,ASG-252,,003D,2.0,2023.0,Benjamín Rivera Contreras
+268.0,193.0,ASG-597,Química,002D,,2023.0,Daniela Muñoz Gatica
+269.0,184.0,ASG-951,Cálculo I,002D,2.0,2024.0,Catalina Vergara Flores
+270.0,10.0,ASG-625,Contabilidad,001D,1.0,2022.0,JAVIERA AGUILERA VERGARA
+271.0,337.0,ASG-637,  Base de Datos  ,001D,2.0,2023.0,Cristóbal Díaz Medina
+272.0,327.0,ASG-612,Física,001V,1.0,2022.0,Agustín Tapia Figueroa
+273.0,141.0,ASG-670,Cálculo I,002D,2.0,2022.0,MAXIMILIANO JARA VALENZUELA
+274.0,22.0,ASG-200,Estadística,001D,1.0,2023.0,Maximiliano Hernández Torres
+275.0,312.0,ASG-650,Programación,003D,2.0,2024.0,ANTONIA ARAYA PÉREZ
+,193.0,ASG-708,Química,001D,1.0,2023.0,joaquín zambrano aguilera
+277.0,92.0,ASG-312,Programación,003D,2.0,2023.0,Isidora Fuentes Núñez
+278.0,97.0,ASG-139,Cálculo I,003D,2.0,2024.0,Marcela Rojas Torres
+279.0,141.0,ASG-387,Inglés,003D,2.0,2022.0,Javiera Díaz Valenzuela
+280.0,257.0,ASG-918,Contabilidad,001V,1.0,2022.0,lorena contreras medina
+281.0,38.0,ASG-500,Estadística,002D,2.0,2024.0,Macarena Castro Contreras
+282.0,247.0,ASG-772,Cálculo I,001V,2.0,2023.0,Marcela López Jara
+283.0,256.0,ASG-217,ALGORITMOS,001D,1.0,2024.0,SANTIAGO MUÑOZ GONZÁLEZ
+284.0,298.0,ASG-495,Programación,001D,1.0,2023.0,Alejandra Flores Fuentes
+285.0,85.0,ASG-348,Estadística,002D,2.0,2024.0,Joaquín Morales Sepúlveda
+286.0,37.0,ASG-668,Inglés,002D,1.0,2022.0,Felipe López Flores
+287.0,185.0,ASG-635,estadística,001D,1.0,2024.0,  Martín Reyes González  
+288.0,98.0,ASG-216,Marketing,002D,2.0,2024.0,Catalina López Araya
+289.0,318.0,ASG-517,Química,002D,1.0,,NATALIA VERGARA MARTÍNEZ
+290.0,30.0,ASG-620,Cálculo I,003D,1.0,2023.0,Carolina Vergara Rojas
+291.0,191.0,ASG-584,Ética,001V,1.0,2023.0,Constanza Hernández Soto
+292.0,338.0,ASG-824,Algoritmos,001V,2.0,2024.0,Andrés Espinoza Jara
+293.0,279.0,ASG-648,,001V,1.0,2024.0,Felipe Morales Medina
+294.0,,ASG-851,Marketing,003D,2.0,2023.0,Catalina Jara Vergara
+295.0,322.0,ASG-460,contabilidad,003D,2.0,2022.0,camila reyes valenzuela
+296.0,189.0,,Física,002D,1.0,2023.0,Sofía Gatica Díaz
+297.0,258.0,ASG-640,  Cálculo I  ,002D,2.0,2024.0,FELIPE MARTÍNEZ MARTÍNEZ
+298.0,155.0,ASG-936,Cálculo I,003D,2.0,2024.0,Catalina Bravo Zambrano
+299.0,319.0,ASG-801,Contabilidad,,2.0,2023.0,ALEJANDRA PÉREZ REYES
+300.0,228.0,ASG-461,Ética,001D,2.0,2023.0,Amanda Vergara Rojas
+301.0,5.0,ASG-530,FÍSICA,003D,1.0,2024.0,Natalia García Rivera
+302.0,129.0,ASG-710,Algoritmos,003D,2.0,2024.0,Martín Figueroa Rivera
+303.0,74.0,ASG-146,  Estadística  ,001V,2.0,2022.0,Benjamín Rojas Sepúlveda
+304.0,24.0,ASG-458,Marketing,001D,2.0,2023.0,  Carlos Rojas Araya  
+305.0,315.0,ASG-742,Base de Datos,001V,1.0,2023.0,  Camila Zambrano Gatica  
+306.0,279.0,ASG-136,Inglés,001V,,,Pedro López Araya
+307.0,206.0,ASG-776,Redes,001D,2.0,2024.0,Isidora Gatica Figueroa
+308.0,146.0,ASG-705,Base de Datos,001D,2.0,2024.0,  Emilio Bravo Zambrano  
+309.0,89.0,ASG-490,Marketing,001D,1.0,2022.0,Daniela Silva Morales
+310.0,22.0,ASG-442,Base de Datos,002D,1.0,2023.0,Diego García Soto
+311.0,300.0,ASG-509,Contabilidad,001D,1.0,2024.0,cristóbal sepúlveda zambrano
+312.0,44.0,ASG-876,Redes,001V,2.0,,marcela gonzález araya
+313.0,37.0,ASG-670,Química,001D,1.0,2022.0,Martín Muñoz Valenzuela
+314.0,7.0,ASG-649,Química,002D,1.0,2022.0,
+315.0,280.0,ASG-876,Estadística,001V,2.0,2024.0,
+316.0,169.0,,Contabilidad,001D,2.0,2024.0,LORENA MUÑOZ FIGUEROA
+317.0,70.0,ASG-489,Redes,001D,1.0,2022.0,Joaquín Reyes Reyes
+318.0,213.0,ASG-590,Estadística,001V,2.0,2022.0,Vicente Rivera García
+319.0,71.0,ASG-280,Redes,001V,,2024.0,Santiago González Gatica
+320.0,207.0,,Física,001D,2.0,2024.0,Francisca Figueroa Jara
+321.0,72.0,ASG-135,Cálculo I,002D,1.0,2024.0,Antonia Vergara Díaz
+322.0,,ASG-112,Inglés,001V,2.0,,
+323.0,180.0,ASG-590,Redes,003D,2.0,2024.0,Antonia Tapia González
+324.0,208.0,ASG-259,programación,001D,2.0,2022.0,Alejandra Torres Torres
+,177.0,ASG-831,Química,001V,2.0,2024.0,LUCAS NÚÑEZ FUENTES
+326.0,195.0,ASG-599,Estadística,001V,2.0,2024.0,Sebastián Martínez Torres
+327.0,301.0,ASG-260,Redes,001D,2.0,2022.0,vicente lópez díaz
+328.0,,ASG-943,Cálculo I,001D,2.0,2022.0,Nicolás Araya Rojas
+329.0,154.0,ASG-101,Redes,001D,2.0,2023.0,José Aguilera Rodríguez
+330.0,154.0,ASG-841,  Inglés  ,002D,2.0,,CATALINA ESPINOZA CASTRO
+331.0,30.0,ASG-753,FÍSICA,003D,1.0,2023.0,Santiago Sepúlveda Tapia
+332.0,27.0,,Algoritmos,001V,2.0,2023.0,Emilio Muñoz Rodríguez
+333.0,240.0,ASG-214,Programación,001D,2.0,2022.0,Marcela Rodríguez Sepúlveda
+334.0,243.0,ASG-789,  Redes  ,001D,2.0,2022.0,Ana Valenzuela Figueroa
+335.0,132.0,ASG-784,Contabilidad,002D,2.0,2023.0,Antonia Muñoz Espinoza
+336.0,179.0,,Marketing,003D,2.0,2023.0,Diego Medina Rojas
+337.0,339.0,ASG-397,Estadística,001V,2.0,2023.0,Amanda Medina Muñoz
+338.0,98.0,ASG-558,Química,003D,1.0,2023.0,Pedro Vergara Contreras
+339.0,,ASG-258,Inglés,,2.0,2024.0,Constanza Rojas Díaz
+340.0,237.0,ASG-747,Inglés,001D,2.0,2023.0,javiera fuentes gatica
+341.0,335.0,ASG-297,Algoritmos,001D,1.0,2022.0,Isidora Rojas Medina
+342.0,138.0,,Inglés,001D,1.0,2023.0,Amanda Zambrano Morales
+343.0,118.0,ASG-315,Contabilidad,002D,1.0,2023.0,camila castro rodríguez
+344.0,106.0,ASG-460,Química,002D,2.0,2022.0,Pedro López García
+,36.0,,física,002D,2.0,2023.0,Marcela Hernández Pérez
+346.0,46.0,ASG-389,Algoritmos,001D,2.0,2022.0,Agustín Morales Castro
+347.0,104.0,ASG-118,Algoritmos,001D,2.0,2024.0,Lorena Sepúlveda Silva
+348.0,70.0,ASG-577,Contabilidad,001D,2.0,2024.0,María Vergara Hernández
+349.0,207.0,ASG-628,Química,003D,2.0,2022.0,José Zambrano Soto
+350.0,221.0,ASG-328,Estadística,002D,,2024.0,Matías Rodríguez Araya
+351.0,,ASG-844,Ética,002D,2.0,2024.0,
+352.0,3.0,ASG-841,CÁLCULO I,003D,2.0,2024.0,Sofía Flores Hernández
+353.0,298.0,ASG-829,base de datos,001V,1.0,2022.0,Lorena Medina Valenzuela
+354.0,231.0,ASG-899,física,,2.0,2023.0,Fernanda Rodríguez Medina
+355.0,118.0,ASG-129,Ética,003D,1.0,2024.0,Ana Jara Reyes
+356.0,311.0,,Inglés,001D,,2023.0,Paula Jara Torres
+357.0,114.0,ASG-327,Inglés,001V,1.0,2023.0,  Lucas Valenzuela Morales  
+358.0,202.0,ASG-150,,003D,1.0,2024.0,Carolina Sepúlveda Díaz
+359.0,30.0,ASG-887,Redes,001V,2.0,2024.0,
+360.0,247.0,ASG-509,  Programación  ,001V,2.0,2023.0,Matías Aguilera Muñoz
+361.0,81.0,ASG-718,Programación,001D,2.0,2024.0,Valentina Morales Araya
+362.0,246.0,ASG-554,Algoritmos,001V,2.0,2022.0,EMILIO DÍAZ REYES
+363.0,184.0,ASG-632,Química,001D,2.0,2022.0,Nicolás Araya Araya
+364.0,273.0,ASG-878,Contabilidad,002D,2.0,2024.0,Francisca Flores Jara
+365.0,33.0,ASG-712,Ética,003D,1.0,2023.0,Andrés Bravo Torres
+366.0,102.0,ASG-698,Cálculo I,001D,,2024.0,Vicente González Araya
+367.0,277.0,ASG-743,Marketing,001D,1.0,2022.0,José Tapia Gatica
+368.0,111.0,ASG-683,Redes,003D,1.0,2023.0,Benjamín Sepúlveda Gatica
+369.0,206.0,ASG-480,Redes,001D,1.0,2024.0,Antonia Rodríguez Figueroa
+370.0,266.0,ASG-205,CONTABILIDAD,001V,2.0,2022.0,Macarena Fuentes Valenzuela
+371.0,215.0,ASG-756,Marketing,001D,2.0,2023.0,Carolina Medina Gatica
+372.0,103.0,ASG-361,Base de Datos,001D,1.0,2022.0,Ignacio Torres Gatica
+373.0,295.0,ASG-454,Física,001V,1.0,2024.0,  María Valenzuela González  
+374.0,78.0,ASG-390,Redes,003D,2.0,,Agustín Bravo Araya
+375.0,175.0,ASG-722,Física,001D,2.0,2022.0,  Martín Zambrano Medina  
+376.0,342.0,ASG-661,  Redes  ,002D,2.0,2022.0,  Macarena Díaz Tapia  
+377.0,52.0,ASG-309,Marketing,003D,2.0,2022.0,Valentina Sepúlveda Flores
+378.0,297.0,ASG-521,Contabilidad,002D,2.0,2022.0,  Maximiliano Medina Sepúlveda  
+379.0,175.0,ASG-572,ALGORITMOS,002D,1.0,2022.0,LUCAS NÚÑEZ SEPÚLVEDA
+380.0,343.0,ASG-181,  Inglés  ,002D,1.0,2023.0,  Daniela Aguilera Díaz  
+381.0,199.0,ASG-366,,001D,1.0,2024.0,Agustín Martínez Flores
+382.0,88.0,ASG-496,Algoritmos,001V,2.0,2023.0,Sofía Espinoza Pérez
+383.0,171.0,ASG-592,,001D,1.0,,Lorena Castro Gatica
+384.0,37.0,ASG-369,Algoritmos,002D,1.0,2023.0,Camila Valenzuela Muñoz
+385.0,123.0,ASG-677,,002D,1.0,2024.0,
+386.0,201.0,ASG-136,Ética,001V,2.0,2022.0,  Alejandra Pérez Aguilera  
+387.0,64.0,ASG-545,Marketing,,2.0,2022.0,Amanda Rojas Vergara
+388.0,188.0,ASG-488,química,002D,2.0,2024.0,Joaquín Espinoza Flores
+389.0,215.0,ASG-639,Base de Datos,,2.0,2023.0,MARÍA LÓPEZ PÉREZ
+390.0,243.0,ASG-627,Base de Datos,002D,1.0,2024.0,  Lorena Espinoza Castro  
+391.0,150.0,ASG-840,Física,002D,1.0,2024.0,Isidora Zambrano Figueroa
+392.0,124.0,ASG-527,Contabilidad,003D,2.0,2023.0,Cristóbal Pérez Sepúlveda
+393.0,198.0,ASG-560,Redes,001V,2.0,2023.0,Macarena Aguilera López
+394.0,36.0,ASG-481,Física,002D,2.0,2022.0,Camila Rodríguez Gatica
+395.0,302.0,ASG-170,Base de Datos,,1.0,2022.0,ANDRÉS FIGUEROA GARCÍA
+396.0,278.0,ASG-989,Contabilidad,003D,2.0,2022.0,Francisca Bravo Soto
+397.0,35.0,ASG-674,Redes,002D,1.0,2024.0,Daniela Muñoz Soto
+398.0,113.0,ASG-445,Física,,2.0,2023.0,Emilio Soto Gatica
+399.0,175.0,,contabilidad,001V,2.0,2023.0,CAROLINA MUÑOZ AGUILERA
+400.0,33.0,ASG-603,,001D,2.0,2022.0,
+401.0,213.0,ASG-203,Estadística,001D,1.0,2024.0,Ignacio González Flores
+402.0,203.0,ASG-186,Ética,001V,2.0,2024.0,MARCELA ESPINOZA TORRES
+,254.0,ASG-535,  Química  ,003D,1.0,2023.0,Diego Figueroa Morales
+404.0,56.0,ASG-411,Cálculo I,003D,1.0,2023.0,Carlos Zambrano Medina
+405.0,323.0,ASG-462,Redes,001V,2.0,2023.0,Lorena Contreras Díaz
+406.0,13.0,ASG-541,Física,001D,1.0,2023.0,Ignacio Reyes Díaz
+407.0,50.0,ASG-146,Inglés,003D,2.0,2024.0,  Tomás Hernández Hernández  
+408.0,248.0,ASG-459,,001D,2.0,2022.0,AMANDA FIGUEROA VALENZUELA
+409.0,233.0,ASG-784,CÁLCULO I,003D,2.0,2023.0,Agustín Castro Valenzuela
+410.0,28.0,ASG-722,Ética,001D,2.0,2023.0,Sofía Reyes Araya
+411.0,104.0,ASG-914,Marketing,001V,1.0,2023.0,Valentina Díaz Jara
+412.0,96.0,ASG-474,Marketing,001D,1.0,2024.0,Pedro Soto Rojas
+413.0,343.0,ASG-940,ESTADÍSTICA,003D,2.0,2022.0,Emilio González Díaz
+414.0,344.0,ASG-511,Base de Datos,003D,2.0,2024.0,Marcela Zambrano Díaz
+415.0,193.0,ASG-312,CÁLCULO I,003D,1.0,2022.0,Diego Torres Figueroa
+416.0,125.0,ASG-410,Base de Datos,002D,1.0,2024.0,JOSÉ RODRÍGUEZ GONZÁLEZ
+417.0,81.0,ASG-354,Física,002D,1.0,2023.0,Francisca Díaz Sepúlveda
+,,ASG-868,Ética,003D,1.0,2023.0,Gabriel Reyes Zambrano
+419.0,330.0,ASG-191,Física,001V,2.0,2022.0,  Matías Hernández Rodríguez  
+420.0,83.0,ASG-615,Contabilidad,003D,1.0,2024.0,Carlos Soto González
+421.0,24.0,ASG-149,Ética,001V,1.0,2022.0,  Marcela Rodríguez Zambrano  
+422.0,114.0,ASG-740,  Cálculo I  ,003D,2.0,2024.0,Francisca Zambrano Bravo
+423.0,15.0,ASG-771,Química,003D,2.0,2023.0,  Lorena Medina Vergara  
+424.0,113.0,ASG-549,Programación,001V,1.0,2022.0,Cristóbal Hernández Tapia
+425.0,342.0,ASG-314,Ética,,2.0,2022.0,Martín Valenzuela Núñez
+426.0,250.0,ASG-702,,002D,1.0,2023.0,
+427.0,145.0,ASG-250,Programación,003D,2.0,2023.0,Sofía Castro Gatica
+428.0,,ASG-116,Redes,001V,1.0,2023.0,
+429.0,9.0,ASG-837,Química,001V,2.0,2023.0,Tomás Soto Espinoza
+430.0,320.0,ASG-133,Marketing,002D,1.0,2023.0,
+431.0,185.0,ASG-237,,002D,2.0,2023.0,Javiera Valenzuela Reyes
+432.0,38.0,ASG-457,ALGORITMOS,001D,1.0,2024.0,Carlos Figueroa Soto
+433.0,211.0,ASG-641,CONTABILIDAD,,2.0,2024.0,Felipe García Medina
+434.0,134.0,ASG-954,Contabilidad,002D,2.0,,
+435.0,102.0,ASG-454,Estadística,001D,2.0,2024.0,Amanda Espinoza Valenzuela
+,149.0,ASG-538,Redes,003D,2.0,2022.0,Joaquín Silva Castro
+437.0,93.0,ASG-439,Algoritmos,003D,2.0,2024.0,  María Aguilera Jara  
+438.0,290.0,ASG-876,Marketing,001V,1.0,2024.0,Antonia Torres Soto
+439.0,140.0,ASG-909,Contabilidad,002D,2.0,2023.0,  Macarena Núñez Rojas  
+440.0,295.0,ASG-319,Química,001D,2.0,2024.0,FRANCISCA AGUILERA NÚÑEZ
+441.0,262.0,ASG-345,programación,001D,1.0,2024.0,Paula Espinoza Aguilera
+442.0,81.0,ASG-889,Ética,001V,1.0,2024.0,Maximiliano Soto Bravo
+443.0,32.0,,Contabilidad,001D,2.0,2023.0,  Fernanda Rojas Flores  
+444.0,188.0,ASG-820,Química,001D,2.0,2023.0,ana fuentes vergara
+,136.0,ASG-588,Ética,003D,2.0,2024.0,Maximiliano Espinoza Morales
+446.0,166.0,ASG-593,Marketing,002D,1.0,2022.0,Tomás Rojas Rivera
+447.0,147.0,ASG-913,Ética,001V,2.0,2024.0,Benjamín Gatica Gatica
+448.0,245.0,,Química,002D,1.0,2023.0,Antonia Muñoz Tapia
+,183.0,ASG-118,  Ética  ,001D,1.0,2023.0,Javiera Rodríguez Gatica
+450.0,9.0,ASG-793,Cálculo I,001D,1.0,2022.0,Francisca García Jara
+451.0,156.0,ASG-304,Programación,,2.0,2023.0,Sofía Valenzuela Contreras
+452.0,318.0,ASG-201,Física,002D,2.0,2023.0,Diego Silva Soto
+453.0,176.0,ASG-487,Redes,001V,2.0,2024.0,Ana Aguilera Figueroa
+454.0,114.0,ASG-607,Cálculo I,001V,2.0,2022.0,  Pedro Gatica Araya  
+455.0,243.0,ASG-804,Química,003D,1.0,2023.0,MARCELA TAPIA FLORES
+456.0,167.0,ASG-670,Algoritmos,001V,2.0,2023.0,Paula Jara Hernández
+457.0,223.0,ASG-592,Ética,003D,1.0,2024.0,  Matías Pérez García  
+458.0,191.0,ASG-210,Física,001D,2.0,2024.0,Gabriel Araya Silva
+459.0,275.0,ASG-706,Física,001V,1.0,2024.0,Maximiliano Fuentes Díaz
+460.0,289.0,ASG-901,Contabilidad,003D,2.0,2024.0,Santiago Medina López
+461.0,64.0,ASG-264,Marketing,003D,2.0,2022.0,Lorena Bravo González
+462.0,282.0,ASG-959,Algoritmos,002D,1.0,2024.0,Carlos Sepúlveda Sepúlveda
+463.0,173.0,ASG-525,cálculo i,001D,2.0,2022.0,  Santiago Araya Gatica  
+464.0,257.0,ASG-210,Algoritmos,001V,2.0,2023.0,Sofía Rivera Torres
+465.0,203.0,ASG-480,Base de Datos,001V,1.0,2023.0,
+466.0,77.0,ASG-389,,001V,1.0,2024.0,Antonia Vergara Reyes
+467.0,103.0,ASG-660,Programación,003D,1.0,2024.0,Lucas Morales Aguilera
+468.0,226.0,ASG-592,  Marketing  ,001V,,2024.0,Ignacio Contreras Sepúlveda
+469.0,226.0,ASG-789,Marketing,001V,2.0,2023.0,Pedro Reyes Zambrano
+470.0,227.0,ASG-257,,001V,2.0,2023.0,Marcela Gatica Bravo
+471.0,96.0,ASG-112,Estadística,001D,1.0,2023.0,Benjamín Núñez Castro
+472.0,76.0,ASG-972,Algoritmos,001D,2.0,2022.0,María Reyes Rodríguez
+473.0,33.0,ASG-205,Contabilidad,003D,2.0,2023.0,
+474.0,82.0,ASG-247,Programación,002D,1.0,2024.0,Diego Zambrano Gatica
+475.0,69.0,ASG-368,  Programación  ,001V,1.0,2022.0,Marcela Zambrano Rodríguez
+,339.0,ASG-780,Programación,001V,2.0,2022.0,Valentina Gatica Tapia
+477.0,219.0,ASG-158,física,003D,2.0,2022.0,Valentina Medina Rodríguez
+478.0,302.0,ASG-241,Marketing,001V,1.0,2023.0,
+479.0,120.0,ASG-483,Ética,002D,1.0,2023.0,Fernanda Rivera Sepúlveda
+480.0,48.0,ASG-937,Ética,003D,1.0,2023.0,paula rodríguez tapia
+481.0,68.0,ASG-397,,,2.0,2023.0,benjamín tapia flores
+482.0,339.0,ASG-445,Programación,002D,,2024.0,
+,85.0,ASG-428,Física,001V,1.0,2022.0,Macarena Zambrano Vergara
+484.0,276.0,ASG-124,Química,002D,2.0,2022.0,Tomás Bravo Vergara
+485.0,256.0,ASG-773,ÉTICA,001D,1.0,2022.0,  Maximiliano Gatica Valenzuela  
+486.0,205.0,ASG-159,Ética,003D,1.0,2022.0,Tomás Pérez García
+487.0,233.0,ASG-450,Marketing,002D,1.0,2022.0,Fernanda González Silva
+488.0,65.0,ASG-402,Estadística,003D,2.0,2024.0,Paula Martínez Fuentes
+489.0,317.0,ASG-704,Cálculo I,003D,2.0,2024.0,Vicente González Vergara
+490.0,79.0,ASG-132,Marketing,001V,1.0,2022.0,
+491.0,14.0,ASG-619,Cálculo I,001V,2.0,2022.0,Macarena Vergara Pérez
+492.0,325.0,ASG-862,Contabilidad,003D,1.0,2023.0,Natalia Fuentes Gatica
+493.0,,ASG-837,Física,001D,2.0,2022.0,Joaquín García Aguilera
+494.0,169.0,ASG-137,Contabilidad,003D,2.0,2024.0,  Agustín Muñoz Silva  
+495.0,159.0,ASG-781,Ética,001D,1.0,2023.0,Sofía Bravo Aguilera
+496.0,116.0,ASG-677,Marketing,002D,1.0,2024.0,Tomás Reyes Zambrano
+497.0,346.0,ASG-700,Programación,003D,2.0,2023.0,Agustín García Tapia
+498.0,192.0,ASG-663,Marketing,,,2023.0,Santiago Rivera Araya
+499.0,345.0,ASG-963,Algoritmos,003D,2.0,2022.0,Camila Pérez Figueroa
+500.0,183.0,ASG-313,Física,002D,,2024.0,Vicente Espinoza Martínez
+501.0,231.0,ASG-681,Física,001D,1.0,2024.0,andrés garcía díaz
+502.0,168.0,ASG-966,Cálculo I,002D,,2022.0,macarena muñoz araya
+503.0,15.0,ASG-607,Inglés,002D,1.0,2023.0,
+504.0,193.0,ASG-511,Algoritmos,001V,1.0,2023.0,José Jara Hernández
+505.0,233.0,ASG-746,algoritmos,003D,2.0,2024.0,diego castro rojas
+,263.0,ASG-569,Algoritmos,003D,2.0,2022.0,Andrés Martínez Valenzuela
+,54.0,ASG-342,Algoritmos,003D,2.0,2022.0,Cristóbal Núñez García
+508.0,180.0,ASG-632,Estadística,003D,,2024.0,CATALINA DÍAZ FUENTES
+509.0,4.0,ASG-622,Algoritmos,,1.0,2023.0,Benjamín Rodríguez Torres
+510.0,257.0,ASG-589,Estadística,001D,2.0,2023.0,Pedro Araya Morales
+511.0,322.0,ASG-238,Estadística,002D,2.0,2022.0,
+512.0,240.0,ASG-417,Base de Datos,002D,2.0,2023.0,Gabriel Araya López
+513.0,163.0,ASG-486,MARKETING,001D,1.0,2023.0,Pedro Contreras Martínez
+514.0,337.0,ASG-199,Contabilidad,002D,1.0,2023.0,Cristóbal Pérez Fuentes
+515.0,,ASG-501,Química,001V,2.0,2024.0,
+,324.0,ASG-319,  Inglés  ,003D,1.0,2022.0,Lucas Rodríguez Torres
+517.0,,ASG-113,  Contabilidad  ,003D,1.0,2024.0,  Lucas Díaz Espinoza  
+518.0,102.0,ASG-307,CONTABILIDAD,001V,1.0,,Vicente Pérez Jara
+519.0,193.0,ASG-917,CÁLCULO I,003D,1.0,2023.0,ISIDORA RIVERA FLORES
+520.0,307.0,ASG-912,,002D,2.0,2022.0,Antonia Flores Espinoza
+521.0,30.0,ASG-890,Cálculo I,001D,2.0,2023.0,Joaquín Hernández Rivera
+522.0,295.0,ASG-388,Redes,001D,2.0,2022.0,Amanda Jara Reyes
+523.0,247.0,ASG-354,Programación,002D,1.0,2023.0,Valentina Aguilera Muñoz
+524.0,221.0,ASG-638,Marketing,001D,2.0,2022.0,Matías Aguilera Rodríguez
+525.0,172.0,ASG-325,Ética,001D,2.0,2022.0,  Antonia Martínez Pérez  
+526.0,160.0,ASG-890,Algoritmos,003D,1.0,2023.0,  Matías Aguilera Castro  
+527.0,172.0,ASG-787,Cálculo I,002D,1.0,2023.0,  Amanda Rojas Jara  
+528.0,63.0,ASG-160,Estadística,001V,1.0,2024.0,Paula Bravo Castro
+529.0,61.0,ASG-128,CÁLCULO I,001D,2.0,2024.0,Natalia Aguilera Núñez
+530.0,65.0,ASG-130,Física,002D,2.0,2022.0,  Constanza Flores Morales  
+531.0,169.0,ASG-694,Base de Datos,001V,1.0,2023.0,Lucas Reyes Valenzuela
+532.0,81.0,ASG-181,Contabilidad,001V,2.0,2023.0,  Carlos Vergara Sepúlveda  
+533.0,247.0,ASG-398,Marketing,003D,2.0,2024.0,carlos garcía soto
+534.0,,ASG-328,Química,003D,1.0,2023.0,Santiago Hernández Morales
+535.0,258.0,ASG-420,Base de Datos,001D,1.0,2022.0,Paula Medina Soto
+536.0,73.0,ASG-261,Estadística,002D,2.0,2022.0,  Matías Fuentes Morales  
+537.0,332.0,ASG-729,BASE DE DATOS,002D,2.0,2022.0,josé fuentes tapia
+538.0,188.0,ASG-414,Estadística,003D,1.0,2024.0,Joaquín Aguilera Tapia
+539.0,25.0,ASG-733,Inglés,003D,1.0,2022.0,
+540.0,228.0,ASG-331,Cálculo I,003D,1.0,2024.0,Ignacio Castro Martínez
+541.0,118.0,ASG-118,Programación,001D,1.0,2024.0,Amanda Vergara Rodríguez
+542.0,108.0,ASG-603,contabilidad,002D,2.0,2022.0,IGNACIO SEPÚLVEDA AGUILERA
+543.0,242.0,ASG-808,  Estadística  ,001D,2.0,2024.0,macarena castro muñoz
+544.0,,ASG-831,  Base de Datos  ,002D,,2024.0,Catalina Sepúlveda González
+545.0,22.0,ASG-384,Química,003D,2.0,2022.0,Maximiliano Zambrano Valenzuela
+546.0,56.0,ASG-208,Cálculo I,001D,2.0,2022.0,Carolina Hernández Bravo
+547.0,149.0,ASG-548,Estadística,001V,1.0,2024.0,Benjamín Soto González
+548.0,311.0,ASG-681,Cálculo I,001D,1.0,2024.0,Vicente Rodríguez Hernández
+549.0,40.0,ASG-679,Redes,001D,1.0,2023.0,Sebastián Bravo Rivera
+550.0,150.0,ASG-759,Algoritmos,,1.0,2022.0,CRISTÓBAL FIGUEROA ZAMBRANO
+551.0,121.0,,  Física  ,001V,2.0,2023.0,Catalina Vergara Tapia
+552.0,260.0,ASG-421,Cálculo I,003D,2.0,2024.0,Constanza López Martínez
+553.0,26.0,ASG-377,Química,001V,1.0,2023.0,Benjamín Torres Rojas
+554.0,112.0,ASG-523,  Marketing  ,001V,2.0,2024.0,Ana Gatica Vergara
+555.0,23.0,ASG-872,Ética,001D,1.0,2023.0,Javiera Vergara Aguilera
+556.0,169.0,ASG-496,redes,001D,2.0,2024.0,Gabriel Zambrano Fuentes
+557.0,314.0,ASG-256,Contabilidad,003D,2.0,2024.0,Ana Martínez Medina
+558.0,264.0,ASG-624,MARKETING,001V,2.0,2024.0,sebastián martínez morales
+559.0,116.0,ASG-734,  Algoritmos  ,002D,2.0,2022.0,Carolina Rivera Valenzuela
+560.0,307.0,,Contabilidad,001D,2.0,2024.0,José Núñez Morales
+561.0,231.0,ASG-809,Estadística,003D,2.0,2022.0,nicolás rojas sepúlveda
+562.0,189.0,ASG-299,Ética,001D,2.0,2024.0,Antonia Vergara Vergara
+563.0,257.0,ASG-467,  Ética  ,001D,1.0,2023.0,tomás araya aguilera
+564.0,120.0,ASG-202,ÉTICA,002D,1.0,2024.0,agustín hernández valenzuela
+565.0,286.0,ASG-634,Química,003D,2.0,2024.0,Macarena Rojas Reyes
+566.0,273.0,ASG-720,Contabilidad,002D,1.0,2023.0,DIEGO CONTRERAS ARAYA
+567.0,152.0,ASG-917,Base de Datos,,1.0,2024.0,Ignacio Pérez Figueroa
+568.0,86.0,ASG-486,Redes,003D,1.0,2024.0,Natalia Araya Reyes
+569.0,325.0,ASG-260,Inglés,001V,1.0,2024.0,DANIELA MEDINA HERNÁNDEZ
+570.0,345.0,ASG-248,Programación,002D,1.0,2023.0,Bárbara Espinoza Vergara
+571.0,327.0,,Ética,001V,2.0,2024.0,Joaquín González Núñez
+572.0,246.0,ASG-258,Marketing,001D,2.0,,Fernanda Flores Gatica
+573.0,314.0,ASG-563,FÍSICA,003D,2.0,2022.0,SANTIAGO TAPIA TORRES
+574.0,315.0,ASG-896,Base de Datos,003D,,2022.0,Sebastián Fuentes Rodríguez
+575.0,293.0,ASG-435,Programación,001D,1.0,2022.0,CONSTANZA PÉREZ MORALES
+576.0,162.0,ASG-747,Ética,001D,,2023.0,Tomás Vergara Rivera
+577.0,100.0,ASG-513,Programación,001D,1.0,,Lucas Medina Valenzuela
+578.0,185.0,ASG-157,Programación,002D,,2022.0,José González Tapia
+579.0,276.0,ASG-104,MARKETING,002D,2.0,2024.0,Matías García Gatica
+580.0,17.0,ASG-269,  Programación  ,002D,1.0,2024.0,Martín Bravo Morales
+581.0,260.0,ASG-230,Algoritmos,002D,,2023.0,Vicente Bravo Rojas
+582.0,245.0,ASG-355,Estadística,002D,1.0,2024.0,
+583.0,306.0,ASG-138,ESTADÍSTICA,001V,2.0,2022.0,Cristóbal Jara Fuentes
+,338.0,ASG-232,  Programación  ,001V,2.0,2022.0,  Ana Soto Martínez  
+585.0,50.0,ASG-329,Algoritmos,002D,2.0,,Ana Hernández García
+586.0,272.0,ASG-393,Estadística,003D,2.0,2022.0,Emilio Flores Muñoz
+587.0,235.0,ASG-139,marketing,003D,1.0,2022.0,Camila García Flores
+588.0,72.0,ASG-481,Redes,001V,,2023.0,Alejandra Soto Castro
+589.0,317.0,ASG-491,Redes,001V,1.0,2023.0,Sofía Hernández García
+590.0,44.0,ASG-861,REDES,003D,2.0,2022.0,GABRIEL TAPIA DÍAZ
+591.0,306.0,ASG-579,Estadística,003D,2.0,2023.0,Martín Pérez Rojas
+592.0,80.0,ASG-562,física,003D,2.0,2023.0,Lucas Muñoz Silva
+593.0,286.0,ASG-973,Química,001V,,2022.0,FRANCISCA FUENTES FUENTES
+594.0,49.0,ASG-968,Ética,001V,2.0,2022.0,
+595.0,98.0,ASG-204,Cálculo I,003D,2.0,2023.0,Martín Espinoza Medina
+596.0,25.0,ASG-288,Cálculo I,001V,1.0,2024.0,José Martínez Valenzuela
+597.0,214.0,ASG-468,Algoritmos,002D,2.0,2024.0,Alejandra Morales Flores
+598.0,56.0,ASG-180,Programación,003D,1.0,2022.0,Macarena Pérez Jara
+599.0,255.0,ASG-775,Cálculo I,001D,1.0,2022.0,Joaquín Figueroa Tapia
+600.0,156.0,ASG-477,Cálculo I,003D,2.0,2024.0,  Santiago Figueroa Medina  
+,161.0,ASG-631,,001V,2.0,2023.0,Natalia Reyes Rivera
+602.0,194.0,,Base de Datos,001D,,2024.0,ALEJANDRA VERGARA VERGARA
+603.0,4.0,ASG-854,  Algoritmos  ,001D,1.0,2024.0,Paula Figueroa Figueroa
+604.0,268.0,,Química,003D,1.0,2022.0,José Vergara Jara
+605.0,36.0,ASG-945,Química,002D,1.0,2023.0,Lorena García Castro
+606.0,16.0,ASG-368,Estadística,,1.0,2024.0,Andrés Soto Valenzuela
+607.0,137.0,ASG-204,CÁLCULO I,001V,2.0,2023.0,Camila Núñez Flores
+608.0,78.0,ASG-628,,001D,1.0,2022.0,  Francisca Reyes Pérez  
+609.0,311.0,ASG-971,Cálculo I,002D,1.0,2024.0,Carolina Hernández Rivera
+610.0,73.0,ASG-744,Estadística,001V,1.0,2022.0,Matías Jara Martínez
+611.0,320.0,ASG-269,Base de Datos,001D,1.0,2024.0,  Santiago Figueroa Sepúlveda  
+612.0,245.0,ASG-890,Redes,001V,2.0,2023.0,Ana Medina Aguilera
+613.0,346.0,ASG-982,Redes,002D,2.0,2022.0,  Lorena Flores Morales  
+614.0,228.0,ASG-619,Contabilidad,001V,,2023.0,Pedro Espinoza Jara
+615.0,195.0,ASG-112,Estadística,001V,2.0,2024.0,DIEGO PÉREZ RODRÍGUEZ
+616.0,246.0,ASG-444,Estadística,002D,2.0,2022.0,Valentina Núñez Figueroa
+617.0,89.0,ASG-171,marketing,002D,1.0,2023.0,Alejandra Reyes Reyes
+618.0,260.0,ASG-522,Redes,001V,1.0,2023.0,Martín Sepúlveda Díaz
+619.0,286.0,ASG-512,Marketing,002D,1.0,2024.0,Javiera Rojas Martínez
+620.0,139.0,ASG-541,  Inglés  ,,1.0,2022.0,Ignacio Castro Gatica
+621.0,51.0,ASG-144,Algoritmos,003D,1.0,2023.0,  Macarena López Muñoz  
+622.0,147.0,ASG-826,Base de Datos,003D,2.0,,Maximiliano Sepúlveda Núñez
+623.0,242.0,ASG-655,Algoritmos,001D,1.0,2022.0,Ana López Figueroa
+624.0,334.0,ASG-920,física,003D,2.0,2022.0,Marcela García Rodríguez
+625.0,232.0,ASG-217,Marketing,003D,2.0,2022.0,Valentina Morales Reyes
+626.0,27.0,ASG-970,Cálculo I,003D,2.0,2024.0,Tomás González Rodríguez
+627.0,344.0,ASG-284,ÉTICA,002D,1.0,2023.0,Natalia López Tapia
+628.0,208.0,ASG-322,  Redes  ,002D,1.0,2022.0,Sebastián Reyes Muñoz
+629.0,138.0,ASG-693,  Ética  ,002D,,2023.0,Emilio Gatica Soto
+630.0,155.0,ASG-230,Algoritmos,,2.0,2023.0,Constanza Soto Rojas
+631.0,7.0,ASG-599,Cálculo I,002D,2.0,2023.0,Francisca Morales Rivera
+632.0,115.0,ASG-639,Cálculo I,003D,1.0,2024.0,IGNACIO JARA DÍAZ
+,92.0,ASG-666,Marketing,003D,2.0,2022.0,JOSÉ REYES ZAMBRANO
+634.0,346.0,ASG-400,Ética,002D,2.0,,Agustín Gatica Soto
+635.0,82.0,ASG-889,  Base de Datos  ,001V,2.0,2023.0,ANDRÉS GARCÍA SEPÚLVEDA
+636.0,13.0,ASG-382,Marketing,,1.0,2023.0,  Martín Núñez Araya  
+637.0,72.0,ASG-597,Química,,2.0,2024.0,María Soto Soto
+638.0,91.0,ASG-750,Física,003D,1.0,2024.0,Camila Fuentes Núñez
+639.0,188.0,ASG-728,  Estadística  ,002D,1.0,2023.0,Sebastián Gatica Flores
+640.0,,ASG-134,,001D,2.0,2022.0,Francisca Zambrano Pérez
+641.0,300.0,ASG-697,Marketing,001V,2.0,2024.0,Felipe Fuentes Tapia
+642.0,84.0,ASG-670,Base de Datos,002D,2.0,2022.0,Constanza Medina Tapia
+643.0,28.0,ASG-490,Ética,003D,1.0,2024.0,Lucas Araya Soto
+644.0,279.0,ASG-918,Cálculo I,001V,1.0,2022.0,Constanza Torres García
+645.0,12.0,ASG-298,Marketing,001D,2.0,2023.0,Tomás Martínez Silva
+646.0,307.0,ASG-526,,001V,2.0,2024.0,Camila Sepúlveda Muñoz
+647.0,150.0,ASG-184,Marketing,002D,1.0,2023.0,Matías Soto Fuentes
+648.0,318.0,ASG-434,Algoritmos,003D,2.0,2024.0,Maximiliano Soto Hernández
+649.0,26.0,ASG-243,inglés,003D,1.0,2023.0,Carlos Soto Reyes
+650.0,214.0,ASG-585,Inglés,003D,2.0,2024.0,Natalia Núñez Rojas
+651.0,314.0,ASG-500,  Inglés  ,001V,2.0,2024.0,MATÍAS AGUILERA DÍAZ
+652.0,240.0,ASG-726,Física,002D,2.0,2024.0,  Carolina Aguilera Pérez  
+653.0,222.0,ASG-430,Redes,002D,1.0,2022.0,  Natalia Castro Araya  
+654.0,68.0,ASG-949,Cálculo I,001V,2.0,2022.0,isidora figueroa morales
+655.0,262.0,ASG-664,Base de Datos,001V,2.0,2024.0,Felipe Silva Contreras
+656.0,111.0,ASG-929,Algoritmos,001D,1.0,2023.0,Marcela Rojas Flores
+657.0,130.0,ASG-931,,003D,1.0,,Sofía Pérez Fuentes
+658.0,159.0,ASG-976,Física,001V,1.0,2024.0,Felipe Jara Espinoza
+659.0,280.0,ASG-978,  Base de Datos  ,003D,1.0,2022.0,  Carolina Fuentes Contreras  
+660.0,291.0,ASG-388,Contabilidad,001D,1.0,2022.0,benjamín sepúlveda hernández
+661.0,303.0,ASG-410,CÁLCULO I,002D,1.0,2022.0,Amanda Espinoza Torres
+662.0,31.0,ASG-410,Contabilidad,003D,1.0,2022.0,Ana Núñez Pérez
+663.0,89.0,ASG-259,Contabilidad,001V,1.0,2023.0,Ignacio Soto González
+664.0,332.0,ASG-115,Cálculo I,001V,2.0,2024.0,Lorena Fuentes Soto
+665.0,118.0,ASG-248,Marketing,001D,2.0,2024.0,paula silva flores
+666.0,130.0,ASG-263,  Marketing  ,003D,2.0,2024.0,Ignacio Reyes Rojas
+667.0,207.0,ASG-918,Inglés,002D,2.0,,Martín Muñoz Silva
+668.0,59.0,ASG-365,Cálculo I,002D,1.0,2022.0,Catalina Fuentes Morales
+669.0,96.0,ASG-810,ÉTICA,001V,1.0,,JOSÉ GARCÍA BRAVO
+670.0,319.0,ASG-668,Ética,001D,1.0,2023.0,Nicolás Figueroa Tapia
+671.0,246.0,ASG-252,Marketing,001V,1.0,2023.0,José Torres Pérez
+672.0,145.0,ASG-357,Cálculo I,001V,1.0,2024.0,Nicolás Aguilera Zambrano
+673.0,310.0,ASG-649,Contabilidad,,2.0,2024.0,Daniela Rivera Díaz
+674.0,125.0,ASG-657,QUÍMICA,001V,2.0,2023.0,Alejandra Medina Rivera
+675.0,22.0,ASG-956,,001D,1.0,2023.0,SOFÍA RIVERA MEDINA
+676.0,285.0,ASG-502,,001V,2.0,2023.0,
+677.0,207.0,,Ética,003D,1.0,2022.0,Joaquín Fuentes Silva
+678.0,258.0,ASG-841,Química,001V,1.0,2024.0,Daniela Muñoz López
+679.0,298.0,ASG-172,Inglés,001V,2.0,2023.0,santiago torres flores
+680.0,52.0,ASG-350,Cálculo I,,2.0,2023.0,Pedro Soto Díaz
+681.0,38.0,ASG-989,Redes,002D,,2022.0,Martín Valenzuela Muñoz
+682.0,153.0,ASG-572,Algoritmos,001D,2.0,2023.0,FELIPE CASTRO FUENTES
+683.0,,ASG-340,Redes,001D,1.0,2024.0,Ana Tapia Espinoza
+684.0,216.0,ASG-573,contabilidad,003D,,2022.0,Macarena Muñoz González
+685.0,223.0,ASG-178,Química,001V,2.0,2023.0,Gabriel Bravo Espinoza
+686.0,143.0,ASG-407,Física,002D,1.0,2024.0,Agustín Espinoza Espinoza
+687.0,105.0,ASG-475,BASE DE DATOS,003D,1.0,2024.0,Marcela García Martínez
+688.0,10.0,ASG-142,FÍSICA,003D,2.0,2022.0,CATALINA FUENTES MEDINA
+689.0,242.0,ASG-331,Física,001D,1.0,2024.0,Ana Muñoz Torres
+690.0,114.0,ASG-175,  Algoritmos  ,002D,1.0,2022.0,Diego Jara Aguilera
+691.0,233.0,ASG-957,  Estadística  ,001V,2.0,2024.0,María Muñoz Torres
+692.0,69.0,ASG-955,Base de Datos,001D,2.0,2023.0,
+693.0,44.0,ASG-992,Base de Datos,003D,2.0,2022.0,  Carolina Araya López  
+,169.0,ASG-212,Contabilidad,003D,1.0,,Catalina Rodríguez Fuentes
+,211.0,ASG-645,Física,002D,,2022.0,  Isidora Fuentes Muñoz  
+696.0,,ASG-132,Inglés,002D,2.0,2024.0,Daniela Vergara Torres
+,107.0,ASG-812,Algoritmos,001V,2.0,2022.0,TOMÁS REYES AGUILERA
+698.0,167.0,ASG-256,Programación,002D,1.0,2023.0,Carolina López Morales
+,205.0,ASG-489,Marketing,002D,,2022.0,Catalina Medina Vergara
+700.0,119.0,ASG-795,  Contabilidad  ,001D,1.0,2022.0,Agustín González Torres
+701.0,,ASG-489,Contabilidad,001D,1.0,2023.0,Constanza Sepúlveda Aguilera
+702.0,239.0,ASG-746,Algoritmos,001V,2.0,2024.0,Martín Sepúlveda Figueroa
+703.0,8.0,ASG-701,  Física  ,001D,1.0,2023.0,Carolina Vergara Bravo
+704.0,43.0,ASG-931,Física,001V,2.0,,Gabriel Jara Silva
+705.0,297.0,ASG-224,  Estadística  ,001D,1.0,2023.0,Javiera Silva Araya
+706.0,132.0,ASG-369,Redes,003D,1.0,2023.0,  José Fuentes Núñez  
+707.0,206.0,ASG-906,Programación,001D,1.0,2022.0,bárbara morales garcía
+708.0,280.0,ASG-224,Marketing,001V,2.0,2022.0,  Amanda Torres Fuentes  
+,239.0,ASG-718,Inglés,001D,1.0,2023.0,Carolina Torres López
+710.0,277.0,ASG-880,Contabilidad,002D,1.0,2022.0,Daniela López Sepúlveda
+711.0,46.0,ASG-354,BASE DE DATOS,003D,2.0,2024.0,CATALINA MUÑOZ ROJAS
+712.0,198.0,ASG-785,Física,001D,2.0,2024.0,Nicolás García Araya
+713.0,121.0,ASG-687,Algoritmos,003D,1.0,,Nicolás Valenzuela Figueroa
+714.0,300.0,ASG-518,Física,003D,2.0,2024.0,Bárbara Núñez Araya
+715.0,220.0,ASG-106,Redes,003D,1.0,,Vicente Bravo Aguilera
+716.0,289.0,ASG-492,Algoritmos,003D,1.0,2023.0,Amanda Zambrano Bravo
+717.0,94.0,ASG-187,Base de Datos,002D,1.0,2023.0,Diego Espinoza Hernández
+718.0,292.0,ASG-125,Redes,002D,1.0,,Alejandra Soto Martínez
+719.0,153.0,ASG-370,Programación,001V,1.0,2023.0,Carlos Espinoza Hernández
+720.0,13.0,,Inglés,001V,1.0,2023.0,  Diego Medina Vergara  
+721.0,207.0,ASG-901,Base de Datos,001V,2.0,2022.0,Gabriel Morales Valenzuela
+722.0,255.0,ASG-906,Redes,001V,1.0,2022.0,IGNACIO ESPINOZA ROJAS
+723.0,158.0,ASG-194,Base de Datos,003D,1.0,,Camila Gatica Rivera
+724.0,270.0,ASG-994,Algoritmos,003D,2.0,2024.0,Maximiliano Núñez González
+725.0,306.0,ASG-613,Estadística,003D,1.0,2023.0,  Maximiliano Contreras Silva  
+726.0,68.0,ASG-681,  Contabilidad  ,002D,1.0,2023.0,FERNANDA GATICA SOTO
+727.0,257.0,ASG-953,Inglés,002D,1.0,2023.0,
+728.0,,ASG-862,Marketing,003D,1.0,2022.0,Lucas Silva Núñez
+,,ASG-227,Física,003D,2.0,2023.0,Javiera Castro Pérez
+730.0,237.0,ASG-950,Inglés,003D,1.0,2024.0,  Pedro Araya Castro  
+731.0,132.0,ASG-204,  Marketing  ,003D,2.0,2023.0,CAMILA CONTRERAS NÚÑEZ
+732.0,171.0,ASG-934,Base de Datos,002D,2.0,2023.0,Joaquín Muñoz López
+733.0,270.0,ASG-694,Algoritmos,001D,2.0,2022.0,  Joaquín Pérez Soto  
+734.0,89.0,ASG-923,Ética,001V,1.0,2024.0,Bárbara Morales Espinoza
+735.0,,ASG-918,,001V,1.0,2023.0,José Vergara Vergara
+736.0,125.0,ASG-730,  Química  ,001D,2.0,2022.0,  Antonia Bravo Castro  
+737.0,67.0,ASG-228,Algoritmos,002D,2.0,2024.0,Gabriel Gatica Rodríguez
+738.0,,ASG-851,Redes,002D,1.0,2024.0,Daniela Flores García
+739.0,8.0,ASG-422,Redes,001D,1.0,2022.0,Joaquín Flores Gatica
+740.0,44.0,ASG-967,Inglés,001V,1.0,2022.0,Sebastián Torres Valenzuela
+741.0,135.0,ASG-487,Inglés,001V,1.0,,Valentina Bravo Muñoz
+742.0,248.0,ASG-773,  Inglés  ,001D,1.0,2022.0,Felipe Reyes Bravo
+743.0,304.0,ASG-792,  Base de Datos  ,001D,2.0,,cristóbal jara bravo
+744.0,318.0,ASG-713,Algoritmos,003D,2.0,2022.0,Antonia Rivera Araya
+745.0,25.0,,  Inglés  ,001D,2.0,2023.0,Amanda Muñoz González
+746.0,196.0,ASG-411,  Química  ,001D,1.0,2022.0,Sebastián González Soto
+747.0,192.0,ASG-843,Ética,001V,2.0,2022.0,Valentina Araya Martínez
+748.0,,ASG-597,Programación,003D,1.0,2024.0,Sofía Torres Sepúlveda
+749.0,260.0,,Redes,003D,2.0,2024.0,Sebastián Aguilera Castro
+750.0,47.0,ASG-673,Marketing,001V,1.0,2024.0,Natalia Zambrano Bravo
+751.0,209.0,ASG-665,Ética,001V,2.0,2022.0,  Marcela Martínez Contreras  
+752.0,301.0,ASG-785,Estadística,002D,2.0,2022.0,Lorena Valenzuela Fuentes
+753.0,89.0,ASG-895,Algoritmos,,1.0,2023.0,JOAQUÍN AGUILERA HERNÁNDEZ
+754.0,3.0,ASG-316,algoritmos,001D,1.0,2023.0,  Lucas Figueroa Díaz  
+755.0,145.0,ASG-396,  Ética  ,003D,2.0,2023.0,  Natalia Jara Valenzuela  
+756.0,22.0,ASG-164,Algoritmos,002D,2.0,2023.0,José López Gatica
+757.0,39.0,ASG-146,Algoritmos,001D,1.0,2022.0,  José Soto Araya  
+758.0,295.0,ASG-325,,,1.0,2024.0,Marcela Figueroa Rojas
+759.0,107.0,ASG-368,Marketing,001V,,2022.0,LUCAS SILVA PÉREZ
+,100.0,ASG-180,Inglés,002D,2.0,2022.0,FELIPE ARAYA GATICA
+761.0,272.0,ASG-387,Redes,001V,2.0,2022.0,
+762.0,229.0,ASG-195,ética,002D,1.0,2022.0,Bárbara Gatica Bravo
+763.0,285.0,ASG-302,Base de Datos,001V,2.0,2024.0,Felipe Zambrano Medina
+764.0,206.0,ASG-873,Programación,003D,1.0,2024.0,Carlos González Araya
+765.0,71.0,ASG-171,Redes,,2.0,2023.0,Constanza Torres Vergara
+766.0,169.0,,Base de Datos,003D,1.0,2022.0,Santiago Vergara Silva
+767.0,185.0,ASG-206,Marketing,001V,1.0,2023.0,Isidora Rodríguez Rivera
+768.0,333.0,ASG-213,Estadística,,2.0,2024.0,Nicolás Reyes Castro
+769.0,208.0,ASG-978,  Ética  ,002D,1.0,2024.0,Amanda Vergara Reyes
+770.0,271.0,ASG-975,  Base de Datos  ,002D,1.0,2023.0,Andrés Soto Zambrano
+771.0,346.0,,Estadística,001V,2.0,2024.0,Gabriel Tapia Martínez
+772.0,135.0,ASG-748,Física,001V,2.0,2024.0,  Ignacio Vergara Morales  
+773.0,146.0,ASG-206,Programación,002D,2.0,2022.0,  Maximiliano González González  
+774.0,345.0,ASG-419,redes,003D,2.0,2022.0,Camila Araya Pérez
+775.0,149.0,ASG-109,Algoritmos,001V,1.0,2024.0,  Lorena Valenzuela Fuentes  
+776.0,116.0,ASG-450,Base de Datos,003D,1.0,2024.0,Fernanda Núñez Medina
+777.0,187.0,ASG-187,Ética,001V,1.0,2023.0,Natalia Reyes Jara
+778.0,,ASG-814,Química,002D,1.0,2023.0,Natalia Rodríguez Hernández
+779.0,338.0,ASG-820,Química,003D,1.0,,Martín Silva Araya
+780.0,244.0,ASG-337,Programación,001D,2.0,2022.0,Javiera Hernández Morales
+781.0,67.0,ASG-260,ALGORITMOS,001V,2.0,2022.0,
+782.0,62.0,ASG-422,Inglés,003D,1.0,2023.0,Agustín Torres Soto
+,274.0,ASG-751,Física,002D,,2022.0,Marcela Rojas Díaz
+784.0,347.0,ASG-218,Estadística,003D,2.0,2022.0,Valentina Valenzuela González
+785.0,110.0,ASG-555,Física,001D,2.0,2023.0,  Macarena Contreras Martínez  
+786.0,56.0,ASG-994,Algoritmos,001D,2.0,,Marcela Reyes Vergara
+787.0,,ASG-701,Ética,003D,2.0,2022.0,Benjamín Espinoza Pérez
+788.0,264.0,ASG-784,ESTADÍSTICA,001D,1.0,2023.0,Catalina Rojas Bravo
+789.0,107.0,ASG-102,Contabilidad,001V,2.0,2024.0,Emilio Núñez Reyes
+790.0,12.0,ASG-417,Ética,001D,1.0,2023.0,Valentina Reyes Rodríguez
+791.0,,ASG-419,Base de Datos,,1.0,2024.0,CRISTÓBAL GARCÍA JARA
+792.0,319.0,,FÍSICA,003D,1.0,2024.0,GABRIEL SEPÚLVEDA LÓPEZ
+793.0,27.0,ASG-139,ALGORITMOS,001V,,2024.0,  Cristóbal Fuentes Zambrano  
+794.0,291.0,ASG-614,Redes,001V,1.0,2023.0,Matías Zambrano Rivera
+795.0,130.0,ASG-469,Base de Datos,003D,2.0,2023.0,Daniela Torres Silva
+796.0,227.0,ASG-524,Programación,002D,1.0,2023.0,santiago fuentes díaz
+797.0,136.0,ASG-101,Química,001V,1.0,2024.0,Andrés Araya Jara
+798.0,20.0,ASG-686,MARKETING,002D,1.0,2023.0,Joaquín Bravo Medina
+799.0,264.0,ASG-862,Cálculo I,001D,2.0,2022.0,Ignacio Contreras Soto
+800.0,324.0,ASG-381,Contabilidad,001D,2.0,2022.0,  Antonia Aguilera Martínez  
+801.0,159.0,ASG-911,base de datos,001V,2.0,2023.0,Pedro Aguilera Medina
+802.0,160.0,ASG-148,Marketing,001V,2.0,2024.0,
+803.0,342.0,ASG-926,Estadística,003D,1.0,2023.0,Pedro González Torres
+804.0,26.0,ASG-495,ÉTICA,001D,1.0,2022.0,Emilio Silva Silva
+805.0,81.0,ASG-564,Estadística,001V,1.0,2024.0,Vicente Silva Pérez
+806.0,18.0,ASG-202,,003D,,2023.0,Isidora Espinoza Gatica
+807.0,,ASG-403,química,002D,1.0,2023.0,  Nicolás Castro Soto  
+808.0,130.0,,ÉTICA,003D,2.0,2024.0,Diego Flores García
+809.0,135.0,ASG-937,Programación,001D,1.0,2024.0,Ana Medina Figueroa
+810.0,303.0,ASG-615,ESTADÍSTICA,003D,2.0,2022.0,Isidora Rodríguez Núñez
+811.0,218.0,ASG-569,Contabilidad,003D,1.0,2023.0,  Alejandra Fuentes Aguilera  
+812.0,310.0,ASG-639,Ética,001V,2.0,2022.0,Lucas Vergara Rodríguez
+,15.0,ASG-317,Redes,003D,2.0,2022.0,Catalina Torres Zambrano
+814.0,186.0,ASG-170,Estadística,001D,2.0,2024.0,Tomás Torres Medina
+,195.0,ASG-122,Contabilidad,003D,1.0,2023.0,María Díaz Zambrano
+816.0,191.0,ASG-302,Marketing,003D,2.0,2022.0,  Carolina Silva Sepúlveda  
+817.0,234.0,,Programación,001D,1.0,2022.0,Antonia García Rodríguez
+818.0,66.0,ASG-368,PROGRAMACIÓN,002D,1.0,2024.0,Antonia Contreras Morales
+819.0,81.0,ASG-928,Ética,002D,2.0,2023.0,Valentina Muñoz Morales
+820.0,,ASG-926,Redes,001D,2.0,,Matías Espinoza Zambrano
+821.0,235.0,ASG-462,  Contabilidad  ,,2.0,2022.0,Emilio Díaz Araya
+822.0,,ASG-881,FÍSICA,003D,2.0,2024.0,  Santiago Espinoza Araya  
+823.0,2.0,ASG-499,  Programación  ,001V,1.0,2023.0,José Sepúlveda Tapia
+824.0,33.0,ASG-378,Algoritmos,001D,1.0,,Francisca Fuentes Fuentes
+825.0,349.0,ASG-422,  Física  ,003D,,2022.0,EMILIO FIGUEROA MEDINA
+826.0,134.0,ASG-585,  Estadística  ,,2.0,2023.0,Pedro Araya Núñez
+827.0,344.0,ASG-228,Marketing,003D,2.0,2023.0,Daniela Aguilera Martínez
+828.0,267.0,ASG-882,PROGRAMACIÓN,001D,2.0,,Diego González González
+829.0,5.0,ASG-256,Marketing,003D,2.0,2023.0,  Felipe Zambrano González  
+830.0,286.0,ASG-568,Programación,001D,1.0,2022.0,Natalia Muñoz Valenzuela
+831.0,347.0,ASG-435,Cálculo I,003D,1.0,2023.0,  Carlos García Torres  
+832.0,91.0,ASG-777,Algoritmos,001V,1.0,2023.0,Bárbara Díaz Aguilera
+833.0,152.0,ASG-583,Inglés,001V,2.0,2024.0,Cristóbal Flores Araya
+834.0,,ASG-714,Redes,001V,2.0,2022.0,Amanda Hernández Morales
+835.0,61.0,ASG-375,Inglés,002D,2.0,2023.0,Carlos Torres Rojas
+836.0,26.0,ASG-909,BASE DE DATOS,003D,2.0,2024.0,Emilio Flores García
+837.0,109.0,ASG-155,,003D,2.0,2022.0,Fernanda Flores Bravo
+838.0,295.0,ASG-565,Algoritmos,001V,1.0,2023.0,Agustín Sepúlveda Tapia
+839.0,210.0,ASG-843,Química,001D,2.0,2024.0,Alejandra Núñez Valenzuela
+840.0,259.0,ASG-374,,002D,1.0,2022.0,Vicente Rodríguez Araya
+841.0,294.0,ASG-127,Estadística,003D,2.0,2023.0,Gabriel Díaz Zambrano
+842.0,42.0,ASG-327,Inglés,003D,1.0,2024.0,Tomás Bravo Vergara
+843.0,304.0,ASG-319,Base de Datos,002D,2.0,2022.0,Daniela Jara Valenzuela
+844.0,13.0,ASG-978,Física,002D,2.0,2024.0,Andrés Tapia Zambrano
+,89.0,ASG-560,REDES,001V,1.0,2024.0,
+846.0,88.0,ASG-371,Marketing,002D,2.0,2023.0,Valentina Flores Morales
+847.0,312.0,ASG-364,física,001V,2.0,2024.0,MAXIMILIANO CONTRERAS VALENZUELA
+848.0,187.0,ASG-733,Algoritmos,002D,2.0,2023.0,Natalia Bravo Torres
+849.0,63.0,ASG-742,Redes,002D,1.0,2023.0,
+850.0,336.0,ASG-694,Contabilidad,003D,2.0,2024.0,Carlos López Núñez
+851.0,43.0,ASG-728,PROGRAMACIÓN,001V,,2024.0,Antonia Martínez Sepúlveda
+852.0,233.0,ASG-637,Química,002D,2.0,2024.0,ANA RODRÍGUEZ TAPIA
+853.0,234.0,ASG-560,Inglés,002D,2.0,2024.0,constanza espinoza hernández
+854.0,75.0,ASG-103,Redes,003D,2.0,2022.0,ana fuentes martínez
+,253.0,ASG-718,redes,001D,1.0,2023.0,JOAQUÍN GATICA RIVERA
+856.0,313.0,ASG-335,Inglés,003D,1.0,2024.0,Matías Figueroa Valenzuela
+857.0,149.0,ASG-352,Física,001V,,2022.0,Sebastián García González
+858.0,182.0,ASG-723,Inglés,001D,1.0,2024.0,PAULA ROJAS MEDINA
+859.0,207.0,ASG-209,Física,,2.0,2022.0,Nicolás Rojas Castro
+860.0,181.0,ASG-825,Programación,001V,2.0,,Sebastián Vergara Soto
+861.0,173.0,ASG-334,Física,001D,1.0,2024.0,Amanda Flores Vergara
+862.0,241.0,ASG-502,Cálculo I,001V,1.0,2022.0,Sofía Sepúlveda Bravo
+863.0,164.0,ASG-865,  Estadística  ,003D,1.0,2022.0,Macarena Espinoza Zambrano
+864.0,63.0,ASG-729,  Ética  ,001D,1.0,2023.0,  Francisca Silva Martínez  
+865.0,235.0,ASG-395,Base de Datos,001D,1.0,2024.0,Antonia López Zambrano
+866.0,,ASG-191,Contabilidad,,2.0,2024.0,Cristóbal Muñoz Díaz
+867.0,257.0,ASG-290,Estadística,002D,1.0,2023.0,  Gabriel Fuentes Espinoza  
+868.0,92.0,ASG-935,  Ética  ,003D,2.0,2023.0,Vicente Fuentes López
+869.0,225.0,ASG-745,Programación,001D,2.0,2023.0,Andrés Torres Tapia
+870.0,195.0,ASG-514,Contabilidad,001V,1.0,2022.0,Sebastián Fuentes Gatica
+871.0,207.0,ASG-407,Estadística,002D,2.0,2022.0,ANDRÉS SEPÚLVEDA RIVERA
+872.0,288.0,ASG-172,Inglés,003D,2.0,2023.0,Daniela Morales Aguilera
+873.0,215.0,,Programación,003D,2.0,2024.0,
+874.0,186.0,ASG-953,  Ética  ,003D,2.0,,Sebastián Torres Rodríguez
+875.0,126.0,ASG-494,Base de Datos,003D,1.0,2023.0,Constanza Vergara Fuentes
+876.0,282.0,ASG-117,  Inglés  ,,2.0,,Diego Rojas Hernández
+877.0,255.0,ASG-329,Programación,003D,2.0,2022.0,Sebastián Zambrano Díaz
+878.0,61.0,ASG-271,Estadística,001V,,2023.0,María Núñez Sepúlveda
+879.0,201.0,ASG-536,Estadística,001V,1.0,2024.0,Lorena Fuentes Gatica
+880.0,69.0,ASG-877,Base de Datos,001V,1.0,2024.0,Carlos Fuentes Valenzuela
+881.0,285.0,ASG-928,Cálculo I,001D,2.0,2022.0,María Bravo López
+882.0,63.0,ASG-561,Inglés,003D,1.0,2024.0,felipe hernández lópez
+883.0,134.0,ASG-459,REDES,001V,2.0,2024.0,Marcela Silva Flores
+884.0,239.0,ASG-339,Inglés,003D,1.0,2023.0,Javiera Bravo Figueroa
+885.0,252.0,ASG-166,Base de Datos,002D,2.0,2023.0,daniela soto martínez
+886.0,187.0,ASG-819,Contabilidad,001V,1.0,2023.0,Francisca Torres González
+887.0,21.0,ASG-761,Física,001D,1.0,2024.0,Fernanda Medina Hernández
+888.0,343.0,ASG-669,Algoritmos,001D,2.0,2024.0,  Benjamín Contreras Aguilera  
+889.0,291.0,ASG-146,  Base de Datos  ,002D,1.0,2023.0,Lorena Figueroa Silva
+890.0,308.0,ASG-456,Ética,001V,1.0,2024.0,Ignacio Araya Castro
+891.0,46.0,,Algoritmos,002D,2.0,2023.0,Lucas Muñoz Castro
+892.0,194.0,ASG-506,ALGORITMOS,001D,1.0,2022.0,Tomás Figueroa Rivera
+893.0,57.0,ASG-347,Contabilidad,001D,1.0,2022.0,Isidora Núñez Sepúlveda
+894.0,42.0,,Programación,003D,2.0,2024.0,Diego Figueroa Torres
+895.0,333.0,ASG-801,Cálculo I,002D,2.0,2024.0,Santiago Hernández Medina
+896.0,235.0,,inglés,001D,1.0,2024.0,Paula Morales Tapia
+897.0,16.0,ASG-137,Programación,001V,1.0,2024.0,Tomás Muñoz Jara
+898.0,133.0,,Redes,001V,2.0,,Javiera Sepúlveda Valenzuela
+899.0,1.0,ASG-127,Contabilidad,001D,2.0,2023.0,Felipe Tapia Aguilera
+900.0,232.0,ASG-646,FÍSICA,002D,1.0,2022.0,Bárbara Figueroa Fuentes
+676.0,285.0,ASG-502,,001V,2.0,2023.0,
+761.0,272.0,ASG-387,Redes,001V,2.0,2022.0,
+513.0,163.0,ASG-486,MARKETING,001D,1.0,2023.0,Pedro Contreras Martínez
+277.0,92.0,ASG-312,Programación,003D,2.0,2023.0,Isidora Fuentes Núñez
+684.0,216.0,ASG-573,contabilidad,003D,,2022.0,Macarena Muñoz González
+356.0,311.0,,Inglés,001D,,2023.0,Paula Jara Torres
+774.0,345.0,ASG-419,redes,003D,2.0,2022.0,Camila Araya Pérez
+654.0,68.0,ASG-949,Cálculo I,001V,2.0,2022.0,isidora figueroa morales
+93.0,63.0,ASG-434,Cálculo I,001D,,2024.0,Sofía López Araya
+641.0,300.0,ASG-697,Marketing,001V,2.0,2024.0,Felipe Fuentes Tapia
+136.0,274.0,ASG-338,Cálculo I,002D,2.0,2022.0,Marcela Fuentes Espinoza
+,,ASG-815,Cálculo I,002D,1.0,2024.0,Camila Silva Pérez
+44.0,147.0,ASG-200,,003D,1.0,2022.0,Paula Sepúlveda Zambrano
+891.0,46.0,,Algoritmos,002D,2.0,2023.0,Lucas Muñoz Castro
+211.0,94.0,ASG-234,ALGORITMOS,001D,,2024.0,  Camila Vergara Morales  
+343.0,118.0,ASG-315,Contabilidad,002D,1.0,2023.0,camila castro rodríguez
+359.0,30.0,ASG-887,Redes,001V,2.0,2024.0,
+361.0,81.0,ASG-718,Programación,001D,2.0,2024.0,Valentina Morales Araya
+331.0,30.0,ASG-753,FÍSICA,003D,1.0,2023.0,Santiago Sepúlveda Tapia
+411.0,104.0,ASG-914,Marketing,001V,1.0,2023.0,Valentina Díaz Jara
+759.0,107.0,ASG-368,Marketing,001V,,2022.0,LUCAS SILVA PÉREZ
+508.0,180.0,ASG-632,Estadística,003D,,2024.0,CATALINA DÍAZ FUENTES
+232.0,106.0,ASG-783,Física,001V,2.0,,vicente sepúlveda valenzuela
+804.0,26.0,ASG-495,ÉTICA,001D,1.0,2022.0,Emilio Silva Silva
+170.0,81.0,,Marketing,002D,2.0,2023.0,ANDRÉS TAPIA RODRÍGUEZ
+404.0,56.0,ASG-411,Cálculo I,003D,1.0,2023.0,Carlos Zambrano Medina
+234.0,170.0,ASG-530,Algoritmos,001V,2.0,2024.0,valentina castro gonzález
